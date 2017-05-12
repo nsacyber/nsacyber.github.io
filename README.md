@@ -2,7 +2,7 @@
 This page lists open source software released by the [Information Assurance mission at NSA](https://www.iad.gov) and also hosts the [code.gov](https://code.gov) [code inventory file](./code.json). See the [NSA github.io web site](https://nationalsecurityagency.github.io) and the [NSA Technology Transfer Program web site](https://www.nsa.gov/what-we-do/research/technology-transfer) for more information about open source software released by NSA.
 
 ### AppLocker Guidance 
-Scripts and configuration files for aiding administrators in implementing application whitelisting with AppLocker.
+Configuration guidance for implementing application whitelisting with AppLocker.
 * **Source**: [https://github.com/iadgov/AppLocker-Guidance](https://github.com/iadgov/AppLocker-Guidance)
 
 ### Certificate Authority Situational Awareness (CASA)
@@ -16,7 +16,7 @@ A proposed hardware-based method for stopping known memory corruption exploitati
 * **Website**: [http://landhere.galois.com](http://landhere.galois.com) 
 
 ### Event Forwarding Guidance 
-Scripts and configuration files for aiding administrators in collecting security relevant Windows Event Log events by using Windows Event Forwarding.
+Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
 * **Source**: [https://github.com/iadgov/Event-Forwarding-Guidance](https://github.com/iadgov/Event-Forwarding-Guidance) 
 
 ### goSecure 
@@ -55,7 +55,7 @@ Verifies system integrity by establishing a baseline measurement of a systems Tr
 * **Website**: [https://01.org/openattestation](https://01.org/openattestation)
 
 ### Pass-the-Hash Guidance 
-Scripts and configuration files for aiding administrators in implementing Pass-the-Hash mitigations.
+Configuration guidance for implementing Pass-the-Hash mitigations.
 * **Source**: [https://github.com/iadgov/Pass-the-Hash-Guidance](https://github.com/iadgov/Pass-the-Hash-Guidance) 
 
 ### Splunk Assessment of Mitigation Implementations (SAMI)
@@ -69,7 +69,7 @@ Security guidance, baselines, and compliance mechanisms using the Security Conte
 * **Website**: [https://www.open-scap.org/security-policies/scap-security-guide](https://www.open-scap.org/security-policies/scap-security-guide) 
 
 ### Secure Host Baseline (SHB)
-Scripts, configuration files, Group Policy Objects, and compliance mechanisms for applying the Windows 10 and Windows Server 2016 DoD Secure Host Baselines settings.
+Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baselines settings.
 * **Source**: [https://github.com/iadgov/Secure-Host-Baseline](https://github.com/iadgov/Secure-Host-Baseline) 
 
 ### Security-Enhanced Linux (SELinux) 
