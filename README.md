@@ -10,6 +10,7 @@ Scripts, configuration files, and Group Policy Objects for aiding administrators
 ### Certificate Authority Situational Awareness 
 Identifies unexpected and prohibited certificate authority certificates on Windows systems.
 * **Source**: [https://github.com/iadgov/Certificate-Authority-Situational-Awareness](https://github.com/iadgov/Certificate-Authority-Situational-Awareness) 
+* **Website**: [https://splunkbase.splunk.com/app/3113](https://splunkbase.splunk.com/app/3113)
 
 ### Control Flow Integrity 
 A proposed hardware-based method for stopping known memory corruption exploitation techniques.
@@ -53,6 +54,7 @@ A userland network manager with monitoring and limiting capabilities for macOS.
 ### OpenAttestation 
 Verifies system integrity by establishing a baseline measurement of a systems Trusted Platform Module (TPM) and monitors for changes in that measurement. OpenAttestion was originally based off of NSA's National Information Assurance Research Laboratory (NIARL) Host Integrity at Startup (HIS).
 * **Source**: [https://github.com/OpenAttestation/OpenAttestation](https://github.com/OpenAttestation/OpenAttestation) 
+* **Website**: [https://01.org/openattestation](https://01.org/openattestation)
 
 ### Pass the Hash Guidance 
 Scripts and configuration files for aiding administrators in implementing Pass the Hash mitigations.
@@ -61,6 +63,7 @@ Scripts and configuration files for aiding administrators in implementing Pass t
 ### Splunk Assessment of Mitigation Implementations 
 A Splunk app that automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.
 * **Source**: [https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations](https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations) 
+* **Website**: [https://splunkbase.splunk.com/app/3114](https://splunkbase.splunk.com/app/3114) and [https://splunkbase.splunk.com/app/3115](https://splunkbase.splunk.com/app/3115)
 
 ### SCAP Security Guide (SSG) 
 Delivers security guidance, baselines, and associated validation mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
@@ -73,11 +76,13 @@ Scripts, configuration files, Group Policy Objects, and compliance validation fo
 
 ### Security-Enhanced Linux (SELinux) 
 A mandatory access control mechanism for the Linux kernel.
-* **Source**: [https://selinuxproject.org](https://selinuxproject.org) 
+* **Source**: [https://github.com/SELinuxProject](https://github.com/SELinuxProject)
+* **Website**: [https://selinuxproject.org](https://selinuxproject.org) 
 
 ### Security Enhancements (SE) for Android 
 A mandatory access control mechanism for Android.
-* **Source**: [https://source.android.com/security/selinux](https://source.android.com/security/selinux) 
+* **Source**: [https://android.googlesource.com](https://android.googlesource.com) and [https://bitbucket.org/seandroid](https://bitbucket.org/seandroid)
+* **Website**: [https://source.android.com/security/selinux](https://source.android.com/security/selinux) 
 
 ### Simon and Speck 
 The Simon and Speck families of lightweight block ciphers.
