@@ -25,11 +25,11 @@ An easy to use and portable Virtual Private Network (VPN) system built with Linu
 * **Website**: [https://iadgov.github.io/goSecure](https://iadgov.github.io/goSecure) 
 
 ### GRASSMARLIN 
-Provides situational awareness and network security assessments for Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks.
+Provides situational awareness and performs network security assessments of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks.
 * **Source**: [https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN)
 
 ### Java PathFinder Mango (JPF-Mango) 
-A static code analysis tool that uses formal methods for analysis. JPF-Mango is part of the [NASA Ames Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/wiki) project which is a system used to verify executable Java byte code.
+A static code analysis tool, which is part of the [NASA Ames Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/wiki) project, that uses formal methods to verify executable Java bytecode.
 * **Source**: [https://babelfish.arc.nasa.gov/hg/jpf/jpf-mango](https://babelfish.arc.nasa.gov/hg/jpf/jpf-mango) 
 * **Website**: [https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango) 
 
@@ -64,12 +64,12 @@ Automatically scores how well Windows systems have implemented some of the top 1
 * **Website**: [https://splunkbase.splunk.com/app/3114](https://splunkbase.splunk.com/app/3114) and [https://splunkbase.splunk.com/app/3115](https://splunkbase.splunk.com/app/3115)
 
 ### SCAP Security Guide (SSG) 
-Delivers security guidance, baselines, and validation mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
+Security guidance, baselines, and compliance mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
 * **Source**: [https://github.com/OpenSCAP/scap-security-guide](https://github.com/OpenSCAP/scap-security-guide) 
 * **Website**: [https://www.open-scap.org/security-policies/scap-security-guide](https://www.open-scap.org/security-policies/scap-security-guide) 
 
 ### Secure Host Baseline (SHB)
-Scripts, configuration files, Group Policy Objects, and compliance checks for applying the Windows 10 and Windows Server 2016 DoD Secure Host Baselines to National Security Systems.
+Scripts, configuration files, Group Policy Objects, and compliance mechanisms for applying the Windows 10 and Windows Server 2016 DoD Secure Host Baselines settings.
 * **Source**: [https://github.com/iadgov/Secure-Host-Baseline](https://github.com/iadgov/Secure-Host-Baseline) 
 
 ### Security-Enhanced Linux (SELinux) 
@@ -83,7 +83,7 @@ A mandatory access control mechanism for Android.
 * **Website**: [https://source.android.com/security/selinux](https://source.android.com/security/selinux) 
 
 ### Simon and Speck 
-Implementations of the Simon and Speck lightweight block ciphers for the [SUPERCOP](https://bench.cr.yp.to/supercop.html) benchmark toolkit.
+Fast implementations of the Simon and Speck lightweight block ciphers for the [SUPERCOP](https://bench.cr.yp.to/supercop.html) benchmark toolkit.
 * **Source**: [https://github.com/iadgov/simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop) 
 * **Website**: [https://iadgov.github.io/simon-speck](https://iadgov.github.io/simon-speck) 
 
@@ -98,7 +98,7 @@ An active cyber defense development framework enabling orchestration capabilitie
 * **Website**: [https://iadgov.github.io/WALKOFF](https://iadgov.github.io/WALKOFF) 
 
 ### Windows Event Log Messages 
-Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in a discoverable format.
+Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats.
 * **Source**: [https://github.com/iadgov/Windows-Event-Log-Messages](https://github.com/iadgov/Windows-Event-Log-Messages) 
 * **Website**: [https://iadgov.github.io/Windows-Event-Log-Messages](https://iadgov.github.io/Windows-Event-Log-Messages) 
 
