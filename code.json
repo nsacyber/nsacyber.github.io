@@ -163,7 +163,7 @@
                      {
                          "name":  "GRASSMARLIN",
                          "repository":  "https://github.com/iadgov/GRASSMARLIN",
-                         "description":  "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support network security assessments",
+                         "description":  "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments",
                          "license":  "https://github.com/iadgov/GRASSMARLIN/blob/master/LICENSE.md",
                          "openSourceProject":  1,
                          "governmentWideReuseProject":  "1",
