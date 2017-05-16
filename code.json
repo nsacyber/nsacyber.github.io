@@ -35,7 +35,8 @@
                          "languages":  [
                                            "PowerShell",
                                            "Batchfile"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "Certificate-Authority-Situational-Awareness",
@@ -67,7 +68,8 @@
                                            "PowerShell",
                                            "Batchfile",
                                            "CSS"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "Control-Flow-Integrity",
@@ -94,7 +96,8 @@
                                      },
                          "languages":  [
                                            "C"
-                                       ]
+                                       ],
+                         "status": "Beta"
                      },
                      {
                          "name":  "Event-Forwarding-Guidance",
@@ -121,7 +124,8 @@
                                      },
                          "languages":  [
                                            "PowerShell"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "goSecure",
@@ -153,7 +157,8 @@
                                            "JavaScript",
                                            "CSS",
                                            "Python"
-                                       ]
+                                       ],
+                         "status": "Archival"
                      },
                      {
                          "name":  "GRASSMARLIN",
@@ -187,7 +192,8 @@
                                            "HTML",
                                            "Java",
                                            "ANTLR"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "iadgov.github.io",
@@ -207,7 +213,8 @@
                          "updated":  {
                                          "metadataLastUpdated":  "2017-05-12T22:37:53Z",
                                          "lastCommit":  "2017-05-15T21:22:39Z"
-                                     }
+                                     },
+                         "status": "Production"
                      },
                      {
                          "name":  "LOCKLEVEL",
@@ -244,7 +251,8 @@
                                            "C",
                                            "CMake",
                                            "Batchfile"
-                                       ]
+                                       ],
+                         "status": "Archival"
                      },
                      {
                          "name":  "Maplesyrup",
@@ -280,7 +288,8 @@
                                            "Shell",
                                            "C",
                                            "Assembly"
-                                       ]
+                                       ],
+                         "status": "Archival"
                      },
                      {
                          "name":  "netfil",
@@ -313,7 +322,8 @@
                                            "Objective-C",
                                            "Swift",
                                            "Shell"
-                                       ]
+                                       ],
+                         "status": "Beta"
                      },
                      {
                          "name":  "netman",
@@ -344,7 +354,8 @@
                          "languages":  [
                                            "Makefile",
                                            "C"
-                                       ]
+                                       ],
+                         "status": "Beta"
                      },
                      {
                          "name":  "Pass-the-Hash-Guidance",
@@ -371,7 +382,8 @@
                                      },
                          "languages":  [
                                            "PowerShell"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "Secure-Host-Baseline",
@@ -412,7 +424,8 @@
                          "languages":  [
                                            "PowerShell",
                                            "HTML"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "simon-speck",
@@ -441,7 +454,8 @@
                          "updated":  {
                                          "metadataLastUpdated":  "2017-05-13T08:47:47Z",
                                          "lastCommit":  "2016-11-22T18:41:18Z"
-                                     }
+                                     },
+                         "status": "Production"
                      },
                      {
                          "name":  "simon-speck-supercop",
@@ -494,7 +508,8 @@
                                            "Perl6",
                                            "Assembly",
                                            "C"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "Splunk-Assessment-of-Mitigation-Implementations",
@@ -528,7 +543,8 @@
                                            "JavaScript",
                                            "CSS",
                                            "Python"
-                                       ]
+                                       ],
+                         "status": "Production"
                      },
                      {
                          "name":  "unfetter",
@@ -548,7 +564,8 @@
                          "updated":  {
                                          "metadataLastUpdated":  "2017-05-13T08:47:42Z",
                                          "lastCommit":  "2017-04-13T22:57:48Z"
-                                     }
+                                     },
+                         "status": "Beta"
                      },
                      {
                          "name":  "WALKOFF",
@@ -584,7 +601,36 @@
                                            "Python",
                                            "PHP",
                                            "Batchfile"
-                                       ]
+                                       ],
+                         "status": "Beta"
+                     },
+                     {
+                         "name":  "WALKOFF-Apps",
+                         "repository":  "https://github.com/iadgov/WALKOFF-Apps",
+                         "description":  "WALKOFF-enabled applications",
+                         "license":  "https://github.com/iadgov/WALKOFF-Apps/blob/master/LICENSE.md",
+                         "openSourceProject":  1,
+                         "governmentWideReuseProject":  "1",
+                         "tags":  [
+                                      "administration",
+                                      "automation",
+                                      "integration",
+                                      "orchestration",
+                                      "orchestration-framework",
+                                      "orchestrator"
+                                  ],
+                         "contact":  {
+                                         "email":  "walkoff@nsa.gov",
+                                         "name":  "walkoff"
+                                     },
+                         "vcs":  "git",
+                         "homepage":  "https://iadgov.github.io/WALKOFF",
+                         "downloadUrl":  "https://github.com/iadgov/WALKOFF-Apps/archive/master.zip",
+                         "updated":  {
+                                         "metadataLastUpdated":  "2017-05-16T17:41:35Z",
+                                         "lastCommit":  "2017-05-16T19:31:58Z"
+                                     },
+                         "status": "Beta"
                      },
                      {
                          "name":  "Windows-Event-Log-Messages",
@@ -612,7 +658,8 @@
                                            "PowerShell",
                                            "Batchfile",
                                            "C#"
-                                       ]
+                                       ],
+                         "status": "Production"
                      }
                  ]
 }
