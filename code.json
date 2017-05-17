@@ -627,9 +627,17 @@
                          "homepage":  "https://iadgov.github.io/WALKOFF",
                          "downloadUrl":  "https://github.com/iadgov/WALKOFF-Apps/archive/master.zip",
                          "updated":  {
-                                         "metadataLastUpdated":  "2017-05-16T17:41:35Z",
-                                         "lastCommit":  "2017-05-16T19:31:58Z"
+                                         "metadataLastUpdated":  "2017-05-17T11:09:21Z",
+                                         "lastCommit":  "2017-05-17T16:54:16Z"
                                      },
+                         "languages":  [
+                                           "CSS",
+                                           "JavaScript",
+                                           "HTML",
+                                           "Python",
+                                           "Shell",
+                                           "PowerShell"
+                                       ],
                          "status": "Beta"
                      },
                      {
