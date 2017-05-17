@@ -1,0 +1,278 @@
+{
+    "overrides":  [
+                     {
+                         "project":  "AppLocker-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Configuration guidance for implementing application whitelisting with AppLocker"
+
+                     },
+                     {
+                         "project":  "AppLocker-Guidance",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+
+                     },
+                     {
+                         "project":  "Certificate-Authority-Situational-Awareness",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Identifies unexpected and prohibited certificate authority certificates on Windows systems"
+
+                     },
+                     {
+                         "project":  "Certificate-Authority-Situational-Awareness",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+
+                     },
+                     {
+                         "project":  "Control-Flow-Integrity",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "A proposed hardware-based method for stopping known memory corruption exploitation techniques"
+                     },
+                     {
+                         "project":  "Control-Flow-Integrity",
+                         "action":  "replaceproperty",
+                         "property":  "contact.email",
+                         "value":  "control-flow-integrity@nsa.gov"
+                     },
+                     {
+                         "project":  "Control-Flow-Integrity",
+                         "action":  "replaceproperty",
+                         "property":  "contact.name",
+                         "value":  "control-flow-integrity"
+                     },
+                     {
+                         "project":  "Control-Flow-Integrity",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "Event-Forwarding-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding"
+                     },
+                     {
+                         "project":  "Event-Forwarding-Guidance",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "goSecure",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi"
+                     },
+                     {
+                         "project":  "goSecure",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Archival"
+                     },
+                     {
+                         "project":  "GRASSMARLIN",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments"
+                     },
+                     {
+                         "project":  "GRASSMARLIN",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "iadgov.github.io",
+                         "action":  "removeproject"
+                     },
+                     {
+                         "project":  "LOCKLEVEL",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies"
+                     },
+                     {
+                         "project":  "LOCKLEVEL",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Archival"
+                     },
+                     {
+                         "project":  "Maplesyrup",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Assesses CPU security of embedded devices"
+                     },
+                     {
+                         "project":  "Maplesyrup",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Archival"
+                     },
+                     {
+                         "project":  "netfil",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "A kernel network manager with monitoring and limiting capabilities for macOS"
+                     },
+                     {
+                         "project":  "netfil",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "netman",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "A userland network manager with monitoring and limiting capabilities for macOS"
+                     },
+                     {
+                         "project":  "netman",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "Pass-the-Hash-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Configuration guidance for implementing Pass-the-Hash mitigations"
+
+                     },
+                     {
+                         "project":  "Pass-the-Hash-Guidance",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "Secure-Host-Baseline",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings"
+
+                     },
+                     {
+                         "project":  "Secure-Host-Baseline",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "simon-speck",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "The SIMON and SPECK families of lightweight block ciphers"
+                     },
+                     {
+                         "project":  "simon-speck",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "simon-speck-supercop",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit"
+                     },
+                     {
+                         "project":  "simon-speck-supercop",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "Splunk-Assessment-of-Mitigation-Implementations",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies"
+                     },
+                     {
+                         "project":  "Splunk-Assessment-of-Mitigation-Implementations",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     },
+                     {
+                         "project":  "unfetter",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework"
+                     },
+                     {
+                         "project":  "unfetter",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "WALKOFF",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "An active cyber defense development framework enabling orchestration capabilities to be written once and deployed across WALKOFF-enabled orchestration tools"
+                     },
+                     {
+                         "project":  "WALKOFF",
+                         "action":  "replaceproperty",
+                         "property":  "contact.email",
+                         "value":  "walkoff@nsa.gov"
+                     },
+                     {
+                         "project":  "WALKOFF",
+                         "action":  "replaceproperty",
+                         "property":  "contact.name",
+                         "value":  "walkoff"
+                     },
+                     {
+                         "project":  "WALKOFF",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "WALKOFF-Apps",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "WALKOFF-enabled applications"
+                     },
+                     {
+                         "project":  "WALKOFF-Apps",
+                         "action":  "replaceproperty",
+                         "property":  "contact.email",
+                         "value":  "walkoff@nsa.gov"
+                     },
+                     {
+                         "project":  "WALKOFF-Apps",
+                         "action":  "replaceproperty",
+                         "property":  "contact.name",
+                         "value":  "walkoff"
+                     },
+                     {
+                         "project":  "WALKOFF-Apps",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Beta"
+                     },
+                     {
+                         "project":  "Windows-Event-Log-Messages",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats"
+                     },
+                     {
+                         "project":  "Windows-Event-Log-Messages",
+                         "action":  "addproperty",
+                         "property":  "status",
+                         "value":  "Production"
+                     }
+                  ]
+}
