@@ -1,11 +1,6 @@
 {
     "version":  "1.0.1",
-    "agency":  {
-                   "name":  "National Security Agency Information Assurance",
-                   "acronym":  "NSA IA",
-                   "website":  "https://www.iad.gov/",
-                   "codeUrl":  "https://iadgov.github.io/code.json"
-               },
+    "agency":  "National Security Agency Information Assurance",
     "projects":  [
                      {
                          "name":  "AppLocker-Guidance",
@@ -148,7 +143,7 @@
                          "homepage":  "https://iadgov.github.io/goSecure/",
                          "downloadUrl":  "https://github.com/iadgov/goSecure/archive/master.zip",
                          "updated":  {
-                                         "metadataLastUpdated":  "2017-05-14T15:10:25Z",
+                                         "metadataLastUpdated":  "2017-05-18T08:29:07Z",
                                          "lastCommit":  "2016-12-04T21:31:19Z"
                                      },
                          "languages":  [
@@ -327,7 +322,7 @@
                          "homepage":  "https://github.com/iadgov/netman",
                          "downloadUrl":  "https://github.com/iadgov/netman/archive/master.zip",
                          "updated":  {
-                                         "metadataLastUpdated":  "2017-04-19T22:22:39Z",
+                                         "metadataLastUpdated":  "2017-05-18T16:38:06Z",
                                          "lastCommit":  "2016-11-29T21:50:54Z"
                                      },
                          "languages":  [
@@ -397,7 +392,7 @@
                          "homepage":  "https://github.com/iadgov/Secure-Host-Baseline",
                          "downloadUrl":  "https://github.com/iadgov/Secure-Host-Baseline/archive/master.zip",
                          "updated":  {
-                                         "metadataLastUpdated":  "2017-05-17T16:45:58Z",
+                                         "metadataLastUpdated":  "2017-05-22T08:07:22Z",
                                          "lastCommit":  "2017-05-05T19:50:42Z"
                                      },
                          "languages":  [
@@ -570,7 +565,7 @@
                          "downloadUrl":  "https://github.com/iadgov/WALKOFF/archive/master.zip",
                          "updated":  {
                                          "metadataLastUpdated":  "2017-05-15T19:29:31Z",
-                                         "lastCommit":  "2017-05-17T21:20:32Z"
+                                         "lastCommit":  "2017-05-22T14:14:08Z"
                                      },
                          "languages":  [
                                            "Makefile",
@@ -607,7 +602,7 @@
                          "downloadUrl":  "https://github.com/iadgov/WALKOFF-Apps/archive/master.zip",
                          "updated":  {
                                          "metadataLastUpdated":  "2017-05-17T11:09:21Z",
-                                         "lastCommit":  "2017-05-17T16:54:16Z"
+                                         "lastCommit":  "2017-05-18T17:14:24Z"
                                      },
                          "languages":  [
                                            "CSS",
@@ -638,7 +633,7 @@
                          "homepage":  "https://github.com/iadgov/Windows-Event-Log-Messages",
                          "downloadUrl":  "https://github.com/iadgov/Windows-Event-Log-Messages/archive/master.zip",
                          "updated":  {
-                                         "metadataLastUpdated":  "2017-05-15T21:19:46Z",
+                                         "metadataLastUpdated":  "2017-05-22T01:11:06Z",
                                          "lastCommit":  "2017-04-06T22:05:21Z"
                                      },
                          "languages":  [
