@@ -4,6 +4,10 @@ This page lists open source software released by the [Information Assurance miss
 Configuration guidance for implementing application whitelisting with AppLocker.
 * **Source**: [https://github.com/iadgov/AppLocker-Guidance](https://github.com/iadgov/AppLocker-Guidance)
 
+### Atomic Watch
+Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found
+* **Source**: [https://github.com/iadgov/AtomicWatch](https://github.com/iadgov/AtomicWatch)
+
 ### Certificate Authority Situational Awareness (CASA)
 Identifies unexpected and prohibited certificate authority certificates on Windows systems.
 * **Source**: [https://github.com/iadgov/Certificate-Authority-Situational-Awareness](https://github.com/iadgov/Certificate-Authority-Situational-Awareness)
