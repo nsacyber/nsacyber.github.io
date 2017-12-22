@@ -18,6 +18,10 @@ A proposed hardware-based method for stopping known memory corruption exploitati
 * **Source**: [https://github.com/iadgov/Control-Flow-Integrity](https://github.com/iadgov/Control-Flow-Integrity)
 * **Website**: [http://landhere.galois.com](http://landhere.galois.com)
 
+### Detect CVE-2017-15361 TPM
+Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361
+* **Source**: [https://github.com/iadgov/Detect-CVE-2017-15361-TPM](https://github.com/iadgov/Detect-CVE-2017-15361-TPM)
+
 ### Event Forwarding Guidance
 Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
 * **Source**: [https://github.com/iadgov/Event-Forwarding-Guidance](https://github.com/iadgov/Event-Forwarding-Guidance)
@@ -61,11 +65,6 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 Configuration guidance for implementing Pass-the-Hash mitigations.
 * **Source**: [https://github.com/iadgov/Pass-the-Hash-Guidance](https://github.com/iadgov/Pass-the-Hash-Guidance)
 
-### Splunk Assessment of Mitigation Implementations (SAMI)
-Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.
-* **Source**: [https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations](https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations)
-* **Website**: [https://splunkbase.splunk.com/app/3114](https://splunkbase.splunk.com/app/3114) and [https://splunkbase.splunk.com/app/3115](https://splunkbase.splunk.com/app/3115)
-
 ### SCAP Security Guide (SSG)
 Security guidance, baselines, and compliance mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
 * **Source**: [https://github.com/OpenSCAP/scap-security-guide](https://github.com/OpenSCAP/scap-security-guide)
@@ -85,10 +84,19 @@ A mandatory access control mechanism for Android.
 * **Source**: [https://android.googlesource.com](https://android.googlesource.com) and [https://bitbucket.org/seandroid](https://bitbucket.org/seandroid)
 * **Website**: [https://source.android.com/security/selinux](https://source.android.com/security/selinux)
 
+### serial2pcap
+Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format.
+* **Source**: [https://github.com/iadgov/serial2pcap](https://github.com/iadgov/serial2pcap)
+
 ### Simon and Speck
 Fast implementations of the Simon and Speck lightweight block ciphers for the [SUPERCOP](https://bench.cr.yp.to/supercop.html) benchmark toolkit.
 * **Source**: [https://github.com/iadgov/simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop)
 * **Website**: [https://iadgov.github.io/simon-speck](https://iadgov.github.io/simon-speck)
+
+### Splunk Assessment of Mitigation Implementations (SAMI)
+Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.
+* **Source**: [https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations](https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations)
+* **Website**: [https://splunkbase.splunk.com/app/3114](https://splunkbase.splunk.com/app/3114) and [https://splunkbase.splunk.com/app/3115](https://splunkbase.splunk.com/app/3115)
 
 ### Unfetter
 Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
