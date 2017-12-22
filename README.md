@@ -104,7 +104,7 @@ Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK frame
 * **Website**: [https://iadgov.github.io/unfetter](https://iadgov.github.io/unfetter)
 
 ### WALKOFF
-An active cyber defense development framework enabling orchestration capabilities to be written once and deployed across WALKOFF-enabled orchestration tools.
+A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down.
 * **Source**: [https://github.com/iadgov/WALKOFF](https://github.com/iadgov/WALKOFF) and [https://github.com/iadgov/WALKOFF-Apps](https://github.com/iadgov/WALKOFF-Apps)
 * **Website**: [https://iadgov.github.io/WALKOFF](https://iadgov.github.io/WALKOFF)
 
