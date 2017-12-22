@@ -111,7 +111,6 @@ An active cyber defense development framework enabling orchestration capabilitie
 ### Windows Event Log Messages
 Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats.
 * **Source**: [https://github.com/iadgov/Windows-Event-Log-Messages](https://github.com/iadgov/Windows-Event-Log-Messages)
-* **Website**: [https://iadgov.github.io/Windows-Event-Log-Messages](https://iadgov.github.io/Windows-Event-Log-Messages)
 
 ## License
 See [INTENT](INTENT.md) (see [code.mil](https://github.com/deptofdefense/code.mil) for more information) and [LICENSE](LICENSE.md).
