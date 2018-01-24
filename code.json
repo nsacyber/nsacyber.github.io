@@ -39,7 +39,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/AppLocker-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-05-01T19:01:28Z",
-                                      "metadataLastUpdated":  "2017-12-10T04:06:23Z",
+                                      "metadataLastUpdated":  "2018-01-18T21:33:05Z",
                                       "lastModified":  "2017-05-15T22:05:09Z"
                                   },
                          "languages":  [
@@ -245,7 +245,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-01-09T18:40:23Z",
-                                      "metadataLastUpdated":  "2017-12-14T19:41:03Z",
+                                      "metadataLastUpdated":  "2018-01-22T08:39:18Z",
                                       "lastModified":  "2017-12-01T17:36:12Z"
                                   },
                          "languages":  [
@@ -285,7 +285,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/goSecure/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-04-28T19:53:55Z",
-                                      "metadataLastUpdated":  "2017-12-22T06:43:41Z",
+                                      "metadataLastUpdated":  "2018-01-24T15:25:29Z",
                                       "lastModified":  "2017-06-27T20:17:10Z"
                                   },
                          "languages":  [
@@ -336,7 +336,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/GRASSMARLIN/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-12-14T16:15:24Z",
-                                      "metadataLastUpdated":  "2017-12-21T18:28:50Z",
+                                      "metadataLastUpdated":  "2018-01-21T11:47:23Z",
                                       "lastModified":  "2017-08-28T15:33:10Z"
                                   },
                          "languages":  [
@@ -378,7 +378,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/LOCKLEVEL/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-05-19T20:48:21Z",
-                                      "metadataLastUpdated":  "2017-12-04T21:09:10Z",
+                                      "metadataLastUpdated":  "2018-01-20T10:53:08Z",
                                       "lastModified":  "2016-06-08T23:30:21Z"
                                   },
                          "languages":  [
@@ -429,7 +429,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/Maplesyrup/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-07-24T15:19:50Z",
-                                      "metadataLastUpdated":  "2017-12-19T04:16:52Z",
+                                      "metadataLastUpdated":  "2018-01-09T07:39:27Z",
                                       "lastModified":  "2016-06-01T15:48:14Z"
                                   },
                          "languages":  [
@@ -477,7 +477,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/netfil/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2017-02-23T20:50:53Z",
-                                      "metadataLastUpdated":  "2017-12-21T15:56:24Z",
+                                      "metadataLastUpdated":  "2017-12-26T13:47:15Z",
                                       "lastModified":  "2017-03-16T16:10:30Z"
                                   },
                          "languages":  [
@@ -522,7 +522,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/netman/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-11-18T13:00:41Z",
-                                      "metadataLastUpdated":  "2017-12-21T15:56:40Z",
+                                      "metadataLastUpdated":  "2018-01-07T06:08:11Z",
                                       "lastModified":  "2016-11-29T21:50:54Z"
                                   },
                          "languages":  [
@@ -614,7 +614,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/Secure-Host-Baseline/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-02-26T19:43:51Z",
-                                      "metadataLastUpdated":  "2017-12-21T18:27:22Z",
+                                      "metadataLastUpdated":  "2018-01-24T09:24:24Z",
                                       "lastModified":  "2017-11-03T17:18:15Z"
                                   },
                          "languages":  [
@@ -658,7 +658,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/serial2pcap/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2017-10-02T16:34:43Z",
-                                      "metadataLastUpdated":  "2017-11-21T15:09:16Z",
+                                      "metadataLastUpdated":  "2018-01-09T08:21:17Z",
                                       "lastModified":  "2017-10-25T19:25:32Z"
                                   },
                          "languages":  [
@@ -702,7 +702,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/simon-speck/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-07-01T15:52:31Z",
-                                      "metadataLastUpdated":  "2017-12-16T11:07:23Z",
+                                      "metadataLastUpdated":  "2018-01-17T09:38:55Z",
                                       "lastModified":  "2017-07-18T16:43:35Z"
                                   }
                      },
@@ -772,6 +772,46 @@
                                        ]
                      },
                      {
+                         "name":  "Spectre-and-Meltdown-Guidance",
+                         "repositoryURL":  "https://github.com/iadgov/Spectre-and-Meltdown-Guidance",
+                         "description":  "Guidance for the Spectre and Meltdown vulnerabilities.",
+                         "permissions":  {
+                                             "licenses":  [
+                                                              {
+                                                                  "URL":  "https://github.com/iadgov/Spectre-and-Meltdown-Guidance/blob/master/LICENSE.md",
+                                                                  "name":  "CC0-1.0"
+                                                              }
+                                                          ],
+                                             "usageType":  "openSource"
+                                         },
+                         "laborHours":  1,
+                         "tags":  [
+                                      "audit",
+                                      "cve",
+                                      "guidance",
+                                      "meltdown",
+                                      "nessus",
+                                      "spectre",
+                                      "vulnerability"
+                                  ],
+                         "contact":  {
+                                         "email":  "iad_ccc@nsa.gov",
+                                         "URL":  "https://www.iad.gov/iad/help/contact/index.cfm",
+                                         "name":  "NSA IA Client Contact Center",
+                                         "phone":  "410-854-4200"
+                                     },
+                         "status":  "Production",
+                         "vcs":  "git",
+                         "homepageURL":  "https://github.com/iadgov/Spectre-and-Meltdown-Guidance",
+                         "downloadURL":  "https://github.com/iadgov/Spectre-and-Meltdown-Guidance/archive/master.zip",
+                         "disclaimerURL":  "https://github.com/iadgov/Spectre-and-Meltdown-Guidance/blob/master/DISCLAIMER.md",
+                         "date":  {
+                                      "created":  "2018-01-10T16:26:09Z",
+                                      "metadataLastUpdated":  "2018-01-23T14:26:23Z",
+                                      "lastModified":  "2018-01-23T22:54:30Z"
+                                  }
+                     },
+                     {
                          "name":  "Splunk-Assessment-of-Mitigation-Implementations",
                          "repositoryURL":  "https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations",
                          "description":  "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies",
@@ -807,7 +847,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-05-19T20:55:50Z",
-                                      "metadataLastUpdated":  "2017-12-10T04:07:30Z",
+                                      "metadataLastUpdated":  "2018-01-07T06:08:55Z",
                                       "lastModified":  "2016-05-25T22:46:52Z"
                                   },
                          "languages":  [
@@ -847,8 +887,8 @@
                          "disclaimerURL":  "https://github.com/iadgov/unfetter/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-09-12T15:53:29Z",
-                                      "metadataLastUpdated":  "2017-12-10T04:03:51Z",
-                                      "lastModified":  "2017-10-30T16:43:31Z"
+                                      "metadataLastUpdated":  "2018-01-14T07:13:25Z",
+                                      "lastModified":  "2018-01-12T16:49:45Z"
                                   }
                      },
                      {
@@ -893,21 +933,20 @@
                          "status":  "Beta",
                          "vcs":  "git",
                          "homepageURL":  "https://iadgov.github.io/WALKOFF/",
-                         "downloadURL":  "https://github.com/repos/iadgov/WALKOFF/zipball/v0.5.2",
+                         "downloadURL":  "https://github.com/repos/iadgov/WALKOFF/zipball/v0.6.4",
                          "disclaimerURL":  "https://github.com/iadgov/WALKOFF/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-06-08T16:34:46Z",
-                                      "metadataLastUpdated":  "2017-12-22T00:20:50Z",
-                                      "lastModified":  "2017-12-21T20:57:17Z"
+                                      "metadataLastUpdated":  "2018-01-16T03:50:21Z",
+                                      "lastModified":  "2018-01-24T12:54:19Z"
                                   },
                          "languages":  [
-                                           "Makefile",
+                                           "Mako",
                                            "CSS",
                                            "JavaScript",
                                            "HTML",
                                            "Python",
-                                           "TypeScript",
-                                           "Batchfile"
+                                           "TypeScript"
                                        ]
                      },
                      {
@@ -952,7 +991,7 @@
                          "date":  {
                                       "created":  "2017-05-16T17:38:39Z",
                                       "metadataLastUpdated":  "2017-12-18T16:41:10Z",
-                                      "lastModified":  "2017-12-15T16:38:25Z"
+                                      "lastModified":  "2018-01-10T20:58:26Z"
                                   },
                          "languages":  [
                                            "CSS",
@@ -994,7 +1033,7 @@
                          "disclaimerURL":  "https://github.com/iadgov/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-07-19T16:30:57Z",
-                                      "metadataLastUpdated":  "2017-12-08T22:12:56Z",
+                                      "metadataLastUpdated":  "2018-01-20T10:53:11Z",
                                       "lastModified":  "2017-08-15T22:30:48Z"
                                   },
                          "languages":  [

@@ -93,6 +93,10 @@ Fast implementations of the Simon and Speck lightweight block ciphers for the [S
 * **Source**: [https://github.com/iadgov/simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop)
 * **Website**: [https://iadgov.github.io/simon-speck](https://iadgov.github.io/simon-speck)
 
+### Spectre and Meltdown Guidance
+Guidance for the Spectre and Meltdown vulnerabilities.
+* **Source**: [https://github.com/iadgov/Spectre-and-Meltdown-Guidance](https://github.com/iadgov/Spectre-and-Meltdown-Guidance)
+
 ### Splunk Assessment of Mitigation Implementations (SAMI)
 Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.
 * **Source**: [https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations](https://github.com/iadgov/Splunk-Assessment-of-Mitigation-Implementations)
@@ -113,7 +117,10 @@ Retrieves the definitions of Windows Event Log messages embedded in Windows bina
 * **Source**: [https://github.com/iadgov/Windows-Event-Log-Messages](https://github.com/iadgov/Windows-Event-Log-Messages)
 
 ## License
-See [INTENT](INTENT.md) (see [code.mil](https://github.com/deptofdefense/code.mil) for more information) and [LICENSE](LICENSE.md).
+See [INTENT](./INTENT.md) (see [code.mil](https://github.com/deptofdefense/code.mil) for more information) and [LICENSE](./LICENSE.md).
+
+## Contributing
+See [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## Disclaimer
-See [DISCLAIMER](DISCLAIMER.md).
+See [DISCLAIMER](./DISCLAIMER.md).

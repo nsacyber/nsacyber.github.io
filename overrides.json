@@ -220,6 +220,18 @@
                          "value":  "CC0-1.0"
                      },
                      {
+                         "project":  "Spectre-and-Meltdown-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "description",
+                         "value":  "Guidance for the Spectre and Meltdown vulnerabilities."
+                     },
+                     {
+                         "project":  "Spectre-and-Meltdown-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "CC0-1.0"
+                     },
+                     {
                          "project":  "Splunk-Assessment-of-Mitigation-Implementations",
                          "action":  "replaceproperty",
                          "property":  "description",
