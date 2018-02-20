@@ -8,10 +8,18 @@ Configuration guidance for implementing application whitelisting with AppLocker.
 Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found
 * **Source**: [https://github.com/iadgov/AtomicWatch](https://github.com/iadgov/AtomicWatch)
 
+### BitLocker Guidance
+Configuration guidance for implementing BitLocker.
+* **Source**: [https://github.com/iadgov/BitLocker-Guidance](https://github.com/iadgov/BitLocker-Guidance)
+
 ### Certificate Authority Situational Awareness (CASA)
 Identifies unexpected and prohibited certificate authority certificates on Windows systems.
 * **Source**: [https://github.com/iadgov/Certificate-Authority-Situational-Awareness](https://github.com/iadgov/Certificate-Authority-Situational-Awareness)
 * **Website**: [https://splunkbase.splunk.com/app/3113](https://splunkbase.splunk.com/app/3113)
+
+### Connectivity Tester
+Aids in discovering HTTP and HTTPS connectivity issues
+* **Source**: [https://github.com/iadgov/Connectivity-Tester](https://github.com/iadgov/Connectivity-Tester)
 
 ### Control Flow Integrity
 A proposed hardware-based method for stopping known memory corruption exploitation techniques.
@@ -21,6 +29,10 @@ A proposed hardware-based method for stopping known memory corruption exploitati
 ### Detect CVE-2017-15361 TPM
 Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361
 * **Source**: [https://github.com/iadgov/Detect-CVE-2017-15361-TPM](https://github.com/iadgov/Detect-CVE-2017-15361-TPM)
+
+### Driver Collider
+Blocks drivers from loading by using a name collision technique
+* **Source**: [https://github.com/iadgov/Driver-Collider](https://github.com/iadgov/Driver-Collider)
 
 ### Event Forwarding Guidance
 Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
@@ -64,6 +76,10 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 ### Pass-the-Hash Guidance
 Configuration guidance for implementing Pass-the-Hash mitigations.
 * **Source**: [https://github.com/iadgov/Pass-the-Hash-Guidance](https://github.com/iadgov/Pass-the-Hash-Guidance)
+
+### PSCodeGov
+Creates a code.gov code inventory JSON file based on GitHub repository information
+* **Source**: [https://github.com/iadgov/PSCodeGov](https://github.com/iadgov/PSCodeGov)
 
 ### SCAP Security Guide (SSG)
 Security guidance, baselines, and compliance mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
