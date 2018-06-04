@@ -8,7 +8,7 @@
                      {
                          "name":  "AppLocker-Guidance",
                          "repositoryURL":  "https://github.com/nsacyber/AppLocker-Guidance",
-                         "description":  "Configuration guidance for implementing application whitelisting with AppLocker",
+                         "description":  "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -38,9 +38,9 @@
                          "downloadURL":  "https://github.com/nsacyber/AppLocker-Guidance/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/AppLocker-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2015-05-01T19:01:28Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:52:53Z",
-                                      "lastModified":  "2017-05-15T22:05:09Z"
+                                      "created":  "2015-05-01",
+                                      "metadataLastUpdated":  "2018-05-23",
+                                      "lastModified":  "2017-05-15"
                                   },
                          "languages":  [
                                            "PowerShell",
@@ -50,7 +50,7 @@
                      {
                          "name":  "AtomicWatch",
                          "repositoryURL":  "https://github.com/nsacyber/AtomicWatch",
-                         "description":  "Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found",
+                         "description":  "Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -79,9 +79,9 @@
                          "downloadURL":  "https://github.com/nsacyber/AtomicWatch/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/AtomicWatch/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-06-08T20:56:09Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:52:25Z",
-                                      "lastModified":  "2017-06-10T00:20:43Z"
+                                      "created":  "2017-06-08",
+                                      "metadataLastUpdated":  "2018-05-13",
+                                      "lastModified":  "2017-06-10"
                                   },
                          "languages":  [
                                            "Python"
@@ -90,7 +90,7 @@
                      {
                          "name":  "Certificate-Authority-Situational-Awareness",
                          "repositoryURL":  "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness",
-                         "description":  "Identifies unexpected and prohibited certificate authority certificates on Windows systems",
+                         "description":  "Identifies unexpected and prohibited certificate authority certificates on Windows systems. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -121,9 +121,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-05-23T18:47:46Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:04:12Z",
-                                      "lastModified":  "2016-06-02T16:44:11Z"
+                                      "created":  "2016-05-23",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2016-06-02"
                                   },
                          "languages":  [
                                            "PowerShell",
@@ -134,7 +134,7 @@
                      {
                          "name":  "Connectivity-Tester",
                          "repositoryURL":  "https://github.com/nsacyber/Connectivity-Tester",
-                         "description":  "Aids in discovering HTTP and HTTPS connectivity issues",
+                         "description":  "Aids in discovering HTTP and HTTPS connectivity issues. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -168,9 +168,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Connectivity-Tester/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Connectivity-Tester/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-10-17T18:11:54Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:40:10Z",
-                                      "lastModified":  "2018-05-11T14:35:57Z"
+                                      "created":  "2017-10-17",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2018-05-11"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -179,7 +179,7 @@
                      {
                          "name":  "Control-Flow-Integrity",
                          "repositoryURL":  "https://github.com/nsacyber/Control-Flow-Integrity",
-                         "description":  "A proposed hardware-based method for stopping known memory corruption exploitation techniques",
+                         "description":  "A proposed hardware-based method for stopping known memory corruption exploitation techniques. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -206,9 +206,9 @@
                          "downloadURL":  "https://github.com/repos/nsacyber/Control-Flow-Integrity/zipball/v1.0.0",
                          "disclaimerURL":  "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2015-07-23T19:18:58Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:54:32Z",
-                                      "lastModified":  "2017-05-10T21:18:08Z"
+                                      "created":  "2015-07-23",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2017-05-10"
                                   },
                          "languages":  [
                                            "C"
@@ -217,7 +217,7 @@
                      {
                          "name":  "Detect-CVE-2017-15361-TPM",
                          "repositoryURL":  "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
-                         "description":  "Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361",
+                         "description":  "Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -249,9 +249,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-10-19T20:02:56Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:49:09Z",
-                                      "lastModified":  "2017-12-04T20:09:32Z"
+                                      "created":  "2017-10-19",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2017-12-04"
                                   },
                          "languages":  [
                                            "PowerShell",
@@ -259,9 +259,49 @@
                                        ]
                      },
                      {
+                         "name":  "Driver-Collider",
+                         "repositoryURL":  "https://github.com/nsacyber/Driver-Collider",
+                         "description":  "Blocks drivers from loading by using a name collision technique. #nsacyber",
+                         "permissions":  {
+                                             "licenses":  [
+                                                              {
+                                                                  "URL":  "https://github.com/nsacyber/Driver-Collider/blob/master/LICENSE.md",
+                                                                  "name":  "CC0-1.0"
+                                                              }
+                                                          ],
+                                             "usageType":  "openSource"
+                                         },
+                         "laborHours":  1,
+                         "tags":  [
+                                      "driver",
+                                      "windows"
+                                  ],
+                         "contact":  {
+                                         "email":  "iad_ccc@nsa.gov",
+                                         "URL":  "https://www.iad.gov/iad/help/contact/index.cfm",
+                                         "name":  "NSA Client Contact Center",
+                                         "phone":  "410-854-4200"
+                                     },
+                         "status":  "Archival",
+                         "vcs":  "git",
+                         "homepageURL":  "https://github.com/nsacyber/Driver-Collider",
+                         "downloadURL":  "https://github.com/nsacyber/Driver-Collider/archive/master.zip",
+                         "disclaimerURL":  "https://github.com/nsacyber/Driver-Collider/blob/master/DISCLAIMER.md",
+                         "date":  {
+                                      "created":  "2017-10-17",
+                                      "metadataLastUpdated":  "2018-05-29",
+                                      "lastModified":  "2017-12-18"
+                                  },
+                         "languages":  [
+                                           "C",
+                                           "PowerShell",
+                                           "Roff"
+                                       ]
+                     },
+                     {
                          "name":  "Event-Forwarding-Guidance",
                          "repositoryURL":  "https://github.com/nsacyber/Event-Forwarding-Guidance",
-                         "description":  "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding",
+                         "description":  "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -289,9 +329,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Event-Forwarding-Guidance/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2015-01-09T18:40:23Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:49:34Z",
-                                      "lastModified":  "2017-12-01T17:36:12Z"
+                                      "created":  "2015-01-09",
+                                      "metadataLastUpdated":  "2018-05-28",
+                                      "lastModified":  "2017-12-01"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -300,7 +340,7 @@
                      {
                          "name":  "goSecure",
                          "repositoryURL":  "https://github.com/nsacyber/goSecure",
-                         "description":  "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi",
+                         "description":  "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -329,9 +369,9 @@
                          "downloadURL":  "https://github.com/nsacyber/goSecure/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-04-28T19:53:55Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:51:50Z",
-                                      "lastModified":  "2017-06-27T20:17:10Z"
+                                      "created":  "2016-04-28",
+                                      "metadataLastUpdated":  "2018-06-02",
+                                      "lastModified":  "2017-06-27"
                                   },
                          "languages":  [
                                            "OpenEdge ABL",
@@ -344,7 +384,7 @@
                      {
                          "name":  "GRASSMARLIN",
                          "repositoryURL":  "https://github.com/nsacyber/GRASSMARLIN",
-                         "description":  "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments",
+                         "description":  "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -380,9 +420,9 @@
                          "downloadURL":  "https://github.com/repos/nsacyber/GRASSMARLIN/zipball/v3.2.1",
                          "disclaimerURL":  "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2015-12-14T16:15:24Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:43:34Z",
-                                      "lastModified":  "2018-03-09T18:32:10Z"
+                                      "created":  "2015-12-14",
+                                      "metadataLastUpdated":  "2018-06-04",
+                                      "lastModified":  "2018-03-09"
                                   },
                          "languages":  [
                                            "HTML",
@@ -393,7 +433,7 @@
                      {
                          "name":  "LOCKLEVEL",
                          "repositoryURL":  "https://github.com/nsacyber/LOCKLEVEL",
-                         "description":  "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies",
+                         "description":  "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -422,9 +462,9 @@
                          "downloadURL":  "https://github.com/nsacyber/LOCKLEVEL/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/LOCKLEVEL/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-05-19T20:48:21Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:02:58Z",
-                                      "lastModified":  "2016-06-08T23:30:21Z"
+                                      "created":  "2016-05-19",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2016-06-08"
                                   },
                          "languages":  [
                                            "Objective-C",
@@ -442,7 +482,7 @@
                      {
                          "name":  "Maplesyrup",
                          "repositoryURL":  "https://github.com/nsacyber/Maplesyrup",
-                         "description":  "Assesses CPU security of embedded devices",
+                         "description":  "Assesses CPU security of embedded devices. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -473,9 +513,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Maplesyrup/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Maplesyrup/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2015-07-24T15:19:50Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:04:44Z",
-                                      "lastModified":  "2016-06-01T15:48:14Z"
+                                      "created":  "2015-07-24",
+                                      "metadataLastUpdated":  "2018-05-24",
+                                      "lastModified":  "2016-06-01"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -490,7 +530,7 @@
                      {
                          "name":  "netfil",
                          "repositoryURL":  "https://github.com/nsacyber/netfil",
-                         "description":  "A kernel network manager with monitoring and limiting capabilities for macOS",
+                         "description":  "A kernel network manager with monitoring and limiting capabilities for macOS. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -521,9 +561,9 @@
                          "downloadURL":  "https://github.com/nsacyber/netfil/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/netfil/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-02-23T20:50:53Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:01:03Z",
-                                      "lastModified":  "2017-03-16T16:10:30Z"
+                                      "created":  "2017-02-23",
+                                      "metadataLastUpdated":  "2018-05-14",
+                                      "lastModified":  "2017-03-16"
                                   },
                          "languages":  [
                                            "C",
@@ -535,7 +575,7 @@
                      {
                          "name":  "netman",
                          "repositoryURL":  "https://github.com/nsacyber/netman",
-                         "description":  "A userland network manager with monitoring and limiting capabilities for macOS",
+                         "description":  "A userland network manager with monitoring and limiting capabilities for macOS. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -566,9 +606,9 @@
                          "downloadURL":  "https://github.com/nsacyber/netman/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/netman/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-11-18T13:00:41Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:01:32Z",
-                                      "lastModified":  "2016-11-29T21:50:54Z"
+                                      "created":  "2016-11-18",
+                                      "metadataLastUpdated":  "2018-05-15",
+                                      "lastModified":  "2016-11-29"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -576,43 +616,9 @@
                                        ]
                      },
                      {
-                         "name":  "nsacyber.github.io",
-                         "repositoryURL":  "https://github.com/nsacyber/nsacyber.github.io",
-                         "description":  "NSA Cybersecurity. Formerly known as NSA Information Assurance and the Information Assurance Directorate",
-                         "permissions":  {
-                                             "licenses":  [
-                                                              {
-                                                                  "URL":  "https://github.com/nsacyber/nsacyber.github.io/blob/master/LICENSE.md",
-                                                                  "name":  null
-                                                              }
-                                                          ],
-                                             "usageType":  "openSource"
-                                         },
-                         "laborHours":  1,
-                         "tags":  [
-                                      "github-pages"
-                                  ],
-                         "contact":  {
-                                         "email":  "iad_ccc@nsa.gov",
-                                         "URL":  "https://www.iad.gov/iad/help/contact/index.cfm",
-                                         "name":  "NSA Client Contact Center",
-                                         "phone":  "410-854-4200"
-                                     },
-                         "status":  "Production",
-                         "vcs":  "git",
-                         "homepageURL":  "https://nsacyber.github.io",
-                         "downloadURL":  "https://github.com/nsacyber/nsacyber.github.io/archive/master.zip",
-                         "disclaimerURL":  "https://github.com/nsacyber/nsacyber.github.io/blob/master/DISCLAIMER.md",
-                         "date":  {
-                                      "created":  "2017-05-12T15:20:57Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:44:18Z",
-                                      "lastModified":  "2018-02-20T23:47:48Z"
-                                  }
-                     },
-                     {
                          "name":  "Pass-the-Hash-Guidance",
                          "repositoryURL":  "https://github.com/nsacyber/Pass-the-Hash-Guidance",
-                         "description":  "Configuration guidance for implementing Pass-the-Hash mitigations",
+                         "description":  "Configuration guidance for implementing Pass-the-Hash mitigations. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -640,9 +646,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Pass-the-Hash-Guidance/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2014-12-29T17:40:41Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:02:14Z",
-                                      "lastModified":  "2016-11-25T13:48:20Z"
+                                      "created":  "2014-12-29",
+                                      "metadataLastUpdated":  "2018-05-24",
+                                      "lastModified":  "2016-11-25"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -651,7 +657,7 @@
                      {
                          "name":  "PSCodeGov",
                          "repositoryURL":  "https://github.com/nsacyber/PSCodeGov",
-                         "description":  "Creates a code.gov code inventory JSON file based on GitHub repository information",
+                         "description":  "Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -680,9 +686,9 @@
                          "downloadURL":  "https://github.com/nsacyber/PSCodeGov/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/PSCodeGov/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-10-17T18:40:11Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:43:18Z",
-                                      "lastModified":  "2018-04-04T21:53:56Z"
+                                      "created":  "2017-10-17",
+                                      "metadataLastUpdated":  "2018-06-04",
+                                      "lastModified":  "2018-06-04"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -691,7 +697,7 @@
                      {
                          "name":  "serial2pcap",
                          "repositoryURL":  "https://github.com/nsacyber/serial2pcap",
-                         "description":  "Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format",
+                         "description":  "Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -723,9 +729,9 @@
                          "downloadURL":  "https://github.com/nsacyber/serial2pcap/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/serial2pcap/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-10-02T16:34:43Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:49:57Z",
-                                      "lastModified":  "2017-10-25T19:25:32Z"
+                                      "created":  "2017-10-02",
+                                      "metadataLastUpdated":  "2018-05-24",
+                                      "lastModified":  "2017-10-25"
                                   },
                          "languages":  [
                                            "Python"
@@ -734,7 +740,7 @@
                      {
                          "name":  "simon-speck",
                          "repositoryURL":  "https://github.com/nsacyber/simon-speck",
-                         "description":  "The SIMON and SPECK families of lightweight block ciphers",
+                         "description":  "The SIMON and SPECK families of lightweight block ciphers. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -767,15 +773,15 @@
                          "downloadURL":  "https://github.com/nsacyber/simon-speck/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/simon-speck/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-07-01T15:52:31Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:50:52Z",
-                                      "lastModified":  "2017-07-18T16:43:35Z"
+                                      "created":  "2016-07-01",
+                                      "metadataLastUpdated":  "2018-06-04",
+                                      "lastModified":  "2017-07-18"
                                   }
                      },
                      {
                          "name":  "simon-speck-supercop",
                          "repositoryURL":  "https://github.com/nsacyber/simon-speck-supercop",
-                         "description":  "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit",
+                         "description":  "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -809,9 +815,9 @@
                          "downloadURL":  "https://github.com/nsacyber/simon-speck-supercop/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/simon-speck-supercop/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-07-01T15:54:43Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:43:55Z",
-                                      "lastModified":  "2018-03-12T18:21:21Z"
+                                      "created":  "2016-07-01",
+                                      "metadataLastUpdated":  "2018-05-15",
+                                      "lastModified":  "2018-03-12"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -838,7 +844,7 @@
                      {
                          "name":  "Spectre-and-Meltdown-Guidance",
                          "repositoryURL":  "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance",
-                         "description":  "Guidance for the Spectre and Meltdown vulnerabilities.",
+                         "description":  "Guidance for the Spectre and Meltdown vulnerabilities. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -873,15 +879,15 @@
                          "downloadURL":  "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2018-01-10T16:26:09Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:43:00Z",
-                                      "lastModified":  "2018-04-25T22:00:34Z"
+                                      "created":  "2018-01-10",
+                                      "metadataLastUpdated":  "2018-05-15",
+                                      "lastModified":  "2018-04-25"
                                   }
                      },
                      {
                          "name":  "Splunk-Assessment-of-Mitigation-Implementations",
                          "repositoryURL":  "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
-                         "description":  "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies",
+                         "description":  "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -913,9 +919,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-05-19T20:55:50Z",
-                                      "metadataLastUpdated":  "2018-05-11T15:05:55Z",
-                                      "lastModified":  "2016-05-25T22:46:52Z"
+                                      "created":  "2016-05-19",
+                                      "metadataLastUpdated":  "2018-05-11",
+                                      "lastModified":  "2016-05-25"
                                   },
                          "languages":  [
                                            "Batchfile",
@@ -927,7 +933,7 @@
                      {
                          "name":  "unfetter",
                          "repositoryURL":  "https://github.com/nsacyber/unfetter",
-                         "description":  "Identifies defensive gaps in security posture by leveraging Mitre\u0027s ATT\u0026CK framework",
+                         "description":  "Identifies defensive gaps in security posture by leveraging Mitre\u0027s ATT\u0026CK framework. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -953,15 +959,15 @@
                          "downloadURL":  "https://github.com/nsacyber/unfetter/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-09-12T15:53:29Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:42:53Z",
-                                      "lastModified":  "2018-04-30T15:44:55Z"
+                                      "created":  "2016-09-12",
+                                      "metadataLastUpdated":  "2018-06-01",
+                                      "lastModified":  "2018-05-15"
                                   }
                      },
                      {
                          "name":  "WALKOFF",
                          "repositoryURL":  "https://github.com/nsacyber/WALKOFF",
-                         "description":  "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down",
+                         "description":  "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -1003,9 +1009,9 @@
                          "downloadURL":  "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.8.2",
                          "disclaimerURL":  "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-06-08T16:34:46Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:41:18Z",
-                                      "lastModified":  "2018-05-08T15:42:37Z"
+                                      "created":  "2016-06-08",
+                                      "metadataLastUpdated":  "2018-06-01",
+                                      "lastModified":  "2018-06-01"
                                   },
                          "languages":  [
                                            "Mako",
@@ -1019,7 +1025,7 @@
                      {
                          "name":  "WALKOFF-Apps",
                          "repositoryURL":  "https://github.com/nsacyber/WALKOFF-Apps",
-                         "description":  "WALKOFF-enabled applications",
+                         "description":  "WALKOFF-enabled applications. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -1056,9 +1062,9 @@
                          "downloadURL":  "https://github.com/nsacyber/WALKOFF-Apps/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2017-05-16T17:38:39Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:42:33Z",
-                                      "lastModified":  "2018-04-30T17:16:33Z"
+                                      "created":  "2017-05-16",
+                                      "metadataLastUpdated":  "2018-05-29",
+                                      "lastModified":  "2018-04-30"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -1073,7 +1079,7 @@
                      {
                          "name":  "Windows-Event-Log-Messages",
                          "repositoryURL":  "https://github.com/nsacyber/Windows-Event-Log-Messages",
-                         "description":  "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats",
+                         "description":  "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats. #nsacyber",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -1100,9 +1106,9 @@
                          "downloadURL":  "https://github.com/repos/nsacyber/Windows-Event-Log-Messages/zipball/v2.3.0.0-20170406",
                          "disclaimerURL":  "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-07-19T16:30:57Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:50:35Z",
-                                      "lastModified":  "2017-08-15T22:30:48Z"
+                                      "created":  "2016-07-19",
+                                      "metadataLastUpdated":  "2018-05-24",
+                                      "lastModified":  "2017-08-15"
                                   },
                          "languages":  [
                                            "PowerShell",
@@ -1118,7 +1124,7 @@
                                              "licenses":  [
                                                               {
                                                                   "URL":  "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/LICENSE.md",
-                                                                  "name":  null
+                                                                  "name":  "CC0-1.0"
                                                               }
                                                           ],
                                              "usageType":  "openSource"
@@ -1154,9 +1160,9 @@
                          "downloadURL":  "https://github.com/nsacyber/Windows-Secure-Host-Baseline/archive/master.zip",
                          "disclaimerURL":  "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
                          "date":  {
-                                      "created":  "2016-02-26T19:43:51Z",
-                                      "metadataLastUpdated":  "2018-05-11T14:43:09Z",
-                                      "lastModified":  "2018-04-21T22:48:27Z"
+                                      "created":  "2016-02-26",
+                                      "metadataLastUpdated":  "2018-06-04",
+                                      "lastModified":  "2018-05-31"
                                   },
                          "languages":  [
                                            "PowerShell",
