@@ -5,7 +5,7 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },                   
+                     },
                      {
                          "project":  "AtomicWatch",
                          "action":  "replaceproperty",
@@ -17,13 +17,19 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },                      
+                    },
+                    {
+                         "project":  "CodeGov",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "CC0-1.0"
+                     },
                      {
                          "project":  "Connectivity-Tester",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },                      
+                     },
                      {
                          "project":  "Control-Flow-Integrity",
                          "action":  "replaceproperty",
@@ -58,7 +64,7 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },                      
+                     },
                      {
                          "project":  "Event-Forwarding-Guidance",
                          "action":  "replaceproperty",
@@ -110,13 +116,7 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },
-                     {
-                         "project":  "PSCodeGov",
-                         "action":  "replaceproperty",
-                         "property":  "permissions.licenses.name",
-                         "value":  "CC0-1.0"
-                     },                     
+                     },                  
                      {
                          "project":  "serial2pcap",
                          "action":  "replaceproperty",

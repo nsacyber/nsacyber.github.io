@@ -17,6 +17,9 @@ Identifies unexpected and prohibited certificate authority certificates on Windo
 * **Source**: [https://github.com/nsacyber/Certificate-Authority-Situational-Awareness](https://github.com/nsacyber/Certificate-Authority-Situational-Awareness)
 * **Website**: [https://splunkbase.splunk.com/app/3113](https://splunkbase.splunk.com/app/3113)
 
+### CodeGov
+Creates a code.gov code inventory JSON file based on GitHub repository information
+* **Source**: [https://github.com/nsacyber/CodeGov](https://github.com/nsacyber/CodeGov)
 ### Connectivity Tester
 Aids in discovering HTTP and HTTPS connectivity issues
 * **Source**: [https://github.com/nsacyber/Connectivity-Tester](https://github.com/nsacyber/Connectivity-Tester)
@@ -77,18 +80,10 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 Configuration guidance for implementing Pass-the-Hash mitigations.
 * **Source**: [https://github.com/nsacyber/Pass-the-Hash-Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance)
 
-### PSCodeGov
-Creates a code.gov code inventory JSON file based on GitHub repository information
-* **Source**: [https://github.com/nsacyber/PSCodeGov](https://github.com/nsacyber/PSCodeGov)
-
 ### SCAP Security Guide (SSG)
 Security guidance, baselines, and compliance mechanisms using the Security Content Automation Protocol (SCAP) for hardening Linux systems and applications.
 * **Source**: [https://github.com/OpenSCAP/scap-security-guide](https://github.com/OpenSCAP/scap-security-guide)
 * **Website**: [https://www.open-scap.org/security-policies/scap-security-guide](https://www.open-scap.org/security-policies/scap-security-guide)
-
-### Secure Host Baseline (SHB)
-Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings.
-* **Source**: [https://github.com/nsacyber/Secure-Host-Baseline](https://github.com/nsacyber/Secure-Host-Baseline)
 
 ### Security-Enhanced Linux (SELinux)
 A mandatory access control mechanism for the Linux kernel.
@@ -131,6 +126,10 @@ A flexible, easy to use, automation framework allowing users to integrate their 
 ### Windows Event Log Messages
 Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats.
 * **Source**: [https://github.com/nsacyber/Windows-Event-Log-Messages](https://github.com/nsacyber/Windows-Event-Log-Messages)
+
+### Windows Secure Host Baseline (SHB)
+Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings.
+* **Source**: [https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)
 
 ## License
 See [INTENT](./INTENT.md) (see [code.mil](https://github.com/deptofdefense/code.mil) for more information) and [LICENSE](./LICENSE.md).
