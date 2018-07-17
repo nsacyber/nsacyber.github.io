@@ -25,12 +25,6 @@
                          "value":  "CC0-1.0"
                      },
                      {
-                         "project":  "Connectivity-Tester",
-                         "action":  "replaceproperty",
-                         "property":  "permissions.licenses.name",
-                         "value":  "CC0-1.0"
-                     },
-                     {
                          "project":  "Control-Flow-Integrity",
                          "action":  "replaceproperty",
                          "property":  "contact.email",
@@ -82,6 +76,12 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "LGPL-3.0"
+                     },
+                     {
+                         "project":  "Http-Connectivity-Tester",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "CC0-1.0"
                      },
                      {
                          "project":  "nsacyber.github.io",

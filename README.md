@@ -1,4 +1,4 @@
-This page lists open source software released by the [defensive Cybersecurity mission at NSA](https://www.iad.gov) and also hosts the [code.gov](https://code.gov) [code inventory file](./code.json). See the [NSA github.io web site](https://nationalsecurityagency.github.io) and the [NSA Technology Transfer Program web site](https://www.nsa.gov/what-we-do/research/technology-transfer) for more information about open source software released by NSA.
+This page lists open source software released by the [Cybersecurity mission at NSA](https://www.nsa.gov/what-we-do/information-assurance/) and also hosts a [code.gov](https://code.gov) [code inventory file](./code.json). See the [NSA github.io web site](https://nationalsecurityagency.github.io) and the [NSA Technology Transfer Program web site](https://www.nsa.gov/what-we-do/research/technology-transfer) for more information about open source software released by NSA.
 
 ### AppLocker Guidance
 Configuration guidance for implementing application whitelisting with AppLocker.
@@ -20,10 +20,6 @@ Identifies unexpected and prohibited certificate authority certificates on Windo
 ### CodeGov
 Creates a code.gov code inventory JSON file based on GitHub repository information
 * **Source**: [https://github.com/nsacyber/CodeGov](https://github.com/nsacyber/CodeGov)
-
-### Connectivity Tester
-Aids in discovering HTTP and HTTPS connectivity issues
-* **Source**: [https://github.com/nsacyber/Connectivity-Tester](https://github.com/nsacyber/Connectivity-Tester)
 
 ### Control Flow Integrity
 A proposed hardware-based method for stopping known memory corruption exploitation techniques.
@@ -50,6 +46,10 @@ An easy to use and portable Virtual Private Network (VPN) system built with Linu
 ### GRASSMARLIN
 Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments.
 * **Source**: [https://github.com/nsacyber/GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN)
+
+### HTTP Connectivity Tester
+Aids in discovering HTTP and HTTPS connectivity issues
+* **Source**: [https://github.com/nsacyber/HTTP-Connectivity-Tester](https://github.com/nsacyber/HTTP-Connectivity-Tester)
 
 ### Java PathFinder Mango (JPF-Mango)
 A static code analysis tool, part of the [NASA Ames Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/wiki) project, that uses formal methods to verify executable Java bytecode.
