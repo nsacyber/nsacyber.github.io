@@ -78,6 +78,12 @@
                          "value":  "LGPL-3.0"
                      },
                      {
+                         "project":  "HIRS",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
                          "project":  "Http-Connectivity-Tester",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",

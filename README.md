@@ -47,6 +47,11 @@ An easy to use and portable Virtual Private Network (VPN) system built with Linu
 Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments.
 * **Source**: [https://github.com/nsacyber/GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN)
 
+### Host Integrity at Runtime and Start-up (HIRS)
+Trusted Computing based services supporting TPM provisioning and supply chain validation concepts.
+* **Source**: [https://github.com/nsacyber/HIRS](https://github.com/nsacyber/HIRS)
+* **Website**: [https://github.com/nsacyber/HIRS/wiki](https://github.com/nsacyber/HIRS/wiki)
+
 ### HTTP Connectivity Tester
 Aids in discovering HTTP and HTTPS connectivity issues
 * **Source**: [https://github.com/nsacyber/HTTP-Connectivity-Tester](https://github.com/nsacyber/HTTP-Connectivity-Tester)
@@ -54,7 +59,7 @@ Aids in discovering HTTP and HTTPS connectivity issues
 ### Java PathFinder Mango (JPF-Mango)
 A static code analysis tool, part of the [NASA Ames Java PathFinder](https://babelfish.arc.nasa.gov/trac/jpf/wiki) project, that uses formal methods to verify executable Java bytecode.
 * **Source**: [https://babelfish.arc.nasa.gov/hg/jpf/jpf-mango](https://babelfish.arc.nasa.gov/hg/jpf/jpf-mango)
-* **Website**: [https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango)
+* **Website**: [https://jpf.byu.edu/hg/jpf-mango](https://jpf.byu.edu/hg/jpf-mango) or [https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango](https://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-mango)
 
 ### LOCKLEVEL
 A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.
