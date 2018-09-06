@@ -210,8 +210,8 @@
                          "disclaimerURL":  "https://github.com/nsacyber/CodeGov/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2017-10-17",
-                                      "metadataLastUpdated":  "2018-06-05",
-                                      "lastModified":  "2018-06-05"
+                                      "metadataLastUpdated":  "2018-09-06",
+                                      "lastModified":  "2018-09-06"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -502,7 +502,7 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/nsacyber/HIRS",
-                         "downloadURL":  "https://github.com/nsacyber/HIRS/archive/master.zip",
+                         "downloadURL":  "https://github.com/repos/nsacyber/HIRS/zipball/v1.0.1",
                          "disclaimerURL":  "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2018-01-19",
