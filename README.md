@@ -87,7 +87,7 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 * **Website**: [https://01.org/openattestation](https://01.org/openattestation)
 
 ### paccor
-he Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential.
+The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential.
 * **Source**: [https://github.com/nsacyber/HIRS](https://github.com/nsacyber/paccor)
 
 ### Pass-the-Hash Guidance
