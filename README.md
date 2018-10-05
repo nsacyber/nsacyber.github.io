@@ -47,6 +47,10 @@ An easy to use and portable Virtual Private Network (VPN) system built with Linu
 Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments.
 * **Source**: [https://github.com/nsacyber/GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN)
 
+### Hardware and Firmware Security Guidance
+Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
+* **Source**: [https://github.com/nsacyber/Spectre-and-Meltdown-Guidance](https://github.com/nsacyber/Spectre-and-Meltdown-Guidance)
+
 ### Host Integrity at Runtime and Start-up (HIRS)
 Trusted Computing based services supporting TPM provisioning and supply chain validation concepts.
 * **Source**: [https://github.com/nsacyber/HIRS](https://github.com/nsacyber/HIRS)
@@ -82,6 +86,10 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 * **Source**: [https://github.com/OpenAttestation/OpenAttestation](https://github.com/OpenAttestation/OpenAttestation)
 * **Website**: [https://01.org/openattestation](https://01.org/openattestation)
 
+### paccor
+he Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential.
+* **Source**: [https://github.com/nsacyber/HIRS](https://github.com/nsacyber/paccor)
+
 ### Pass-the-Hash Guidance
 Configuration guidance for implementing Pass-the-Hash mitigations.
 * **Source**: [https://github.com/nsacyber/Pass-the-Hash-Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance)
@@ -109,10 +117,6 @@ Converts serial IP data, typically collected from Industrial Control System devi
 Fast implementations of the Simon and Speck lightweight block ciphers for the [SUPERCOP](https://bench.cr.yp.to/supercop.html) benchmark toolkit.
 * **Source**: [https://github.com/nsacyber/simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop)
 * **Website**: [https://nsacyber.github.io/simon-speck](https://nsacyber.github.io/simon-speck)
-
-### Spectre and Meltdown Guidance
-Guidance for the Spectre and Meltdown vulnerabilities.
-* **Source**: [https://github.com/nsacyber/Spectre-and-Meltdown-Guidance](https://github.com/nsacyber/Spectre-and-Meltdown-Guidance)
 
 ### Splunk Assessment of Mitigation Implementations (SAMI)
 Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies.

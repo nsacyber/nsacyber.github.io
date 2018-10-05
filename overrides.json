@@ -78,6 +78,12 @@
                          "value":  "LGPL-3.0"
                      },
                      {
+                         "project":  "Hardware-and-Firmware-Security-Guidance",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "CC0-1.0"
+                     },
+                     {
                          "project":  "HIRS",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
@@ -88,10 +94,6 @@
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
-                     },
-                     {
-                         "project":  "nsacyber.github.io",
-                         "action":  "removeproject"
                      },
                      {
                          "project":  "LOCKLEVEL",
@@ -118,6 +120,16 @@
                          "value":  "CC0-1.0"
                      },
                      {
+                         "project":  "nsacyber.github.io",
+                         "action":  "removeproject"
+                     },
+                     {
+                         "project":  "paccor",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
                          "project":  "Pass-the-Hash-Guidance",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
@@ -137,12 +149,6 @@
                      },
                      {
                          "project":  "simon-speck-supercop",
-                         "action":  "replaceproperty",
-                         "property":  "permissions.licenses.name",
-                         "value":  "CC0-1.0"
-                     },
-                     {
-                         "project":  "Spectre-and-Meltdown-Guidance",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",
                          "value":  "CC0-1.0"
