@@ -88,7 +88,7 @@ Verifies system integrity by establishing a baseline measurement of a system's T
 
 ### paccor
 The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential.
-* **Source**: [https://github.com/nsacyber/HIRS](https://github.com/nsacyber/paccor)
+* **Source**: <https://github.com/nsacyber/paccor>
 
 ### Pass-the-Hash Guidance
 Configuration guidance for implementing Pass-the-Hash mitigations.
