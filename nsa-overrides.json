@@ -1,0 +1,116 @@
+{
+    "overrides":  [
+                     {
+                         "project":  "datawave",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
+                         "project":  "datawave",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "DCP",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "MIT"
+                     },
+                     {
+                         "project":  "DCP",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "emissary",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "fractalrabbit",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.URL",
+                         "value":  "https://github.com/NationalSecurityAgency/fractalrabbit#copyright-and-license"
+                     },
+                     {
+                         "project":  "fractalrabbit",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
+                         "project":  "lemongraph",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
+                         "project":  "lemongraph",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "lemongrenade",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
+                         "project":  "lemongrenade",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "nationalsecurityagency.github.io",
+                         "action":  "removeproject"
+                     },
+                     {
+                         "project":  "qgis-bulk-nominatim",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "qgis-d3datavis-plugin",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "qgis-kmltools-plugin",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "qgis-searchlayers-plugin",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "qgis-shapetools-plugin",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     },
+                     {
+                         "project":  "SIMP",
+                         "action":  "replaceproperty",
+                         "property":  "permissions.licenses.name",
+                         "value":  "Apache-2.0"
+                     },
+                     {
+                         "project":  "SIMP",
+                         "action":  "replaceproperty",
+                         "property":  "tags",
+                         "value": ["tag1","tag2"]
+                     }
+                  ]
+}
