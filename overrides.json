@@ -48,6 +48,10 @@
                          "value":  "CC0-1.0"
                      },
                      {
+                         "project":  "Cyber-Challenge",
+                         "action":  "removeproject"
+                     },
+                     {
                          "project":  "Detect-CVE-2017-15361-TPM",
                          "action":  "replaceproperty",
                          "property":  "permissions.licenses.name",

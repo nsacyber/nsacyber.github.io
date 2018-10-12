@@ -371,7 +371,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-01-09",
-                                      "metadataLastUpdated":  "2018-10-03",
+                                      "metadataLastUpdated":  "2018-10-12",
                                       "lastModified":  "2017-12-01"
                                   },
                          "languages":  [
@@ -411,7 +411,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-04-28",
-                                      "metadataLastUpdated":  "2018-10-02",
+                                      "metadataLastUpdated":  "2018-10-12",
                                       "lastModified":  "2017-06-27"
                                   },
                          "languages":  [
@@ -462,7 +462,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2015-12-14",
-                                      "metadataLastUpdated":  "2018-10-02",
+                                      "metadataLastUpdated":  "2018-10-08",
                                       "lastModified":  "2018-03-09"
                                   },
                          "languages":  [
@@ -514,7 +514,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2018-01-10",
-                                      "metadataLastUpdated":  "2018-09-23",
+                                      "metadataLastUpdated":  "2018-10-08",
                                       "lastModified":  "2018-07-30"
                                   }
                      },
@@ -553,8 +553,8 @@
                          "disclaimerURL":  "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2018-01-19",
-                                      "metadataLastUpdated":  "2018-10-05",
-                                      "lastModified":  "2018-10-05"
+                                      "metadataLastUpdated":  "2018-10-12",
+                                      "lastModified":  "2018-10-12"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -607,8 +607,8 @@
                          "disclaimerURL":  "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2017-10-17",
-                                      "metadataLastUpdated":  "2018-09-26",
-                                      "lastModified":  "2018-09-26"
+                                      "metadataLastUpdated":  "2018-10-12",
+                                      "lastModified":  "2018-10-12"
                                   },
                          "languages":  [
                                            "PowerShell"
@@ -828,12 +828,12 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/nsacyber/HIRS",
-                         "downloadURL":  "https://github.com/repos/nsacyber/paccor/zipball/v1.0.0r2",
+                         "downloadURL":  "https://github.com/repos/nsacyber/paccor/zipball/v1.0.6r1",
                          "disclaimerURL":  "https://github.com/nsacyber/paccor/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2018-09-28",
-                                      "metadataLastUpdated":  "2018-10-02",
-                                      "lastModified":  "2018-10-02"
+                                      "metadataLastUpdated":  "2018-10-10",
+                                      "lastModified":  "2018-10-10"
                                   },
                          "languages":  [
                                            "Shell",
@@ -1001,7 +1001,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/simon-speck-supercop/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-07-01",
-                                      "metadataLastUpdated":  "2018-06-13",
+                                      "metadataLastUpdated":  "2018-10-10",
                                       "lastModified":  "2018-06-13"
                                   },
                          "languages":  [
@@ -1104,7 +1104,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-09-12",
-                                      "metadataLastUpdated":  "2018-09-18",
+                                      "metadataLastUpdated":  "2018-10-10",
                                       "lastModified":  "2018-08-22"
                                   }
                      },
@@ -1154,8 +1154,8 @@
                          "disclaimerURL":  "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-06-08",
-                                      "metadataLastUpdated":  "2018-10-04",
-                                      "lastModified":  "2018-10-03"
+                                      "metadataLastUpdated":  "2018-10-11",
+                                      "lastModified":  "2018-10-12"
                                   },
                          "languages":  [
                                            "Mako",
@@ -1207,7 +1207,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2017-05-16",
-                                      "metadataLastUpdated":  "2018-10-01",
+                                      "metadataLastUpdated":  "2018-10-09",
                                       "lastModified":  "2018-09-14"
                                   },
                          "languages":  [
@@ -1251,7 +1251,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-07-19",
-                                      "metadataLastUpdated":  "2018-09-30",
+                                      "metadataLastUpdated":  "2018-10-08",
                                       "lastModified":  "2018-07-10"
                                   },
                          "languages":  [
@@ -1305,7 +1305,7 @@
                          "disclaimerURL":  "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
                          "date":  {
                                       "created":  "2016-02-26",
-                                      "metadataLastUpdated":  "2018-10-05",
+                                      "metadataLastUpdated":  "2018-10-12",
                                       "lastModified":  "2018-09-12"
                                   },
                          "languages":  [
