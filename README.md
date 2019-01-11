@@ -1,4 +1,4 @@
-This page lists open source software released by the [Cybersecurity mission at NSA](https://www.nsa.gov/what-we-do/information-assurance/) and also hosts a [code.gov](https://code.gov) [code inventory file](./code.json). See the [NSA github.io web site](https://nationalsecurityagency.github.io) and the [NSA Technology Transfer Program web site](https://www.nsa.gov/what-we-do/research/technology-transfer) for more information about open source software released by NSA.
+This page lists open source software released by the [Cybersecurity mission at NSA](https://www.nsa.gov/what-we-do/cybersecurity/) and also hosts a [code.gov](https://code.gov) [code inventory file](./code.json). See the [Open Source @ NSA web site](https://code.nsa.gov) and the [NSA Technology Transfer Program web site](https://www.nsa.gov/what-we-do/research/technology-transfer) for more information about open source software released by NSA.
 
 ### AppLocker Guidance
 Configuration guidance for implementing application whitelisting with AppLocker.
