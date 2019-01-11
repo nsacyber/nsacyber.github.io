@@ -142,7 +142,7 @@ Configuration guidance for implementing the Windows 10 and Windows Server 2016 D
 * **Source**: <https://github.com/nsacyber/Windows-Secure-Host-Baseline>
 
 ## License
-See [INTENT](./INTENT.md) (see [code.mil](https://github.com/deptofdefense/code.mil) for more information) and [LICENSE](./LICENSE.md).
+See [LICENSE](./LICENSE.md) and [INTENT](./INTENT.md) (see <https://code.mil> for more information).
 
 ## Contributing
 See [CONTRIBUTING](./CONTRIBUTING.md)
