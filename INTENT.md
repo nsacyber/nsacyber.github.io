@@ -1,4 +1,4 @@
-## Licensing Intent 
+# Licensing Intent 
 
 The intent is this Work should be treated as if it is licensed under the license ("License") associated with the Work in the [LICENSE.md](.\LICENSE.md) file. However, because this Work is prepared by a United States Federal Government employee within the scope of their federal employment, it is not that simple.
 
