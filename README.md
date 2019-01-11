@@ -49,7 +49,7 @@ Provides situational awareness of Industrial Control Systems (ICS) and Superviso
 
 ### Hardware and Firmware Security Guidance
 Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
-* **Source**: <https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance)
+* **Source**: <https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance>
 
 ### Host Integrity at Runtime and Start-up (HIRS)
 Trusted Computing based services supporting TPM provisioning and supply chain validation concepts.
