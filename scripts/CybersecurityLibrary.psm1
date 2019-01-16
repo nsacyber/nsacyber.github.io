@@ -846,5 +846,5 @@ Return to the [Table of Contents](#table-of-contents).
     [void]$pageBuilder.AppendLine('')
     [void]$pageBuilder.AppendLine($contentBuilder.ToString())
 
-    return $pageBuilder.ToString()
+    return $pageBuilder.ToString().Trim()
 }

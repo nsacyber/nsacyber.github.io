@@ -33,11 +33,10 @@
                          "vcs":  "git",
                          "homepageURL":  "https://code.nsa.gov/datawave",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/datawave/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2018-01-10",
-                                      "metadataLastUpdated":  "2018-10-10",
-                                      "lastModified":  "2018-10-12"
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2019-01-16"
                                   },
                          "languages":  [
                                            "Java",
@@ -49,6 +48,45 @@
                                            "Scheme",
                                            "Shell",
                                            "Dockerfile"
+                                       ]
+                     },
+                     {
+                         "name":  "datawave-muchos",
+                         "repositoryURL":  "https://github.com/NationalSecurityAgency/datawave-muchos",
+                         "description":  "This project leverages Ansible to automate DataWave deployments on your cluster",
+                         "permissions":  {
+                                             "licenses":  [
+                                                              {
+                                                                  "URL":  "https://github.com/NationalSecurityAgency/datawave-muchos/blob/master/LICENSE",
+                                                                  "name":  "Apache-2.0"
+                                                              }
+                                                          ],
+                                             "usageType":  "openSource"
+                                         },
+                         "laborHours":  1,
+                         "tags":  [
+                                      "accumulo",
+                                      "ansible",
+                                      "datawave",
+                                      "muchos"
+                                  ],
+                         "contact":  {
+                                         "email":  "tech_transfer@nsa.gov",
+                                         "URL":  "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+                                         "name":  "NSA Technology Transfer Program",
+                                         "phone":  "1-866-680-4539"
+                                     },
+                         "status":  "Production",
+                         "vcs":  "git",
+                         "homepageURL":  "https://github.com/NationalSecurityAgency/datawave-muchos",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/datawave-muchos/zipball/v1.0",
+                         "date":  {
+                                      "created":  "2018-05-11",
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2018-11-19"
+                                  },
+                         "languages":  [
+                                           "Shell"
                                        ]
                      },
                      {
@@ -79,10 +117,9 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/DCP",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/DCP/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-08-05",
-                                      "metadataLastUpdated":  "2018-08-11",
+                                      "metadataLastUpdated":  "2019-01-14",
                                       "lastModified":  "2017-10-04"
                                   },
                          "languages":  [
@@ -120,12 +157,11 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/emissary",
-                         "downloadURL":  "https://github.com/NationalSecurityAgency/emissary/archive/master.zip",
-                         "disclaimerURL":  "null",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/emissary/zipball/5.2.0",
                          "date":  {
                                       "created":  "2018-06-01",
-                                      "metadataLastUpdated":  "2018-09-05",
-                                      "lastModified":  "2018-10-11"
+                                      "metadataLastUpdated":  "2019-01-15",
+                                      "lastModified":  "2019-01-10"
                                   },
                          "languages":  [
                                            "Java",
@@ -165,10 +201,9 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/fractalrabbit",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/fractalrabbit/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2018-04-04",
-                                      "metadataLastUpdated":  "2018-06-22",
+                                      "metadataLastUpdated":  "2019-01-09",
                                       "lastModified":  "2018-05-23"
                                   },
                          "languages":  [
@@ -204,11 +239,10 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/lemongraph",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/lemongraph/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-07-25",
-                                      "metadataLastUpdated":  "2018-10-06",
-                                      "lastModified":  "2018-08-13"
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2019-01-10"
                                   },
                          "languages":  [
                                            "Makefile",
@@ -247,11 +281,10 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/lemongrenade",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/lemongrenade/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-07-25",
-                                      "metadataLastUpdated":  "2018-08-17",
-                                      "lastModified":  "2018-05-31"
+                                      "metadataLastUpdated":  "2019-01-15",
+                                      "lastModified":  "2018-10-29"
                                   },
                          "languages":  [
                                            "Java",
@@ -290,10 +323,9 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2017-01-20",
-                                      "metadataLastUpdated":  "2018-07-18",
+                                      "metadataLastUpdated":  "2019-01-06",
                                       "lastModified":  "2018-06-22"
                                   },
                          "languages":  [
@@ -330,10 +362,9 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-07-01",
-                                      "metadataLastUpdated":  "2018-09-28",
+                                      "metadataLastUpdated":  "2019-01-16",
                                       "lastModified":  "2018-03-13"
                                   },
                          "languages":  [
@@ -346,7 +377,7 @@
                      {
                          "name":  "qgis-kmltools-plugin",
                          "repositoryURL":  "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin",
-                         "description":  "Simple QGIS KML Importer Plugin",
+                         "description":  "Fast KML Importer Plugin for QGIS",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -370,12 +401,11 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin",
-                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-kmltools-plugin/zipball/3.0.0",
-                         "disclaimerURL":  "null",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-kmltools-plugin/zipball/3.0.6",
                          "date":  {
                                       "created":  "2018-03-16",
-                                      "metadataLastUpdated":  "2018-09-07",
-                                      "lastModified":  "2018-09-07"
+                                      "metadataLastUpdated":  "2019-01-08",
+                                      "lastModified":  "2018-12-10"
                                   },
                          "languages":  [
                                            "HTML",
@@ -416,12 +446,11 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin",
-                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-latlontools-plugin/zipball/3.1.5",
-                         "disclaimerURL":  "null",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-latlontools-plugin/zipball/3.1.9",
                          "date":  {
                                       "created":  "2016-04-14",
-                                      "metadataLastUpdated":  "2018-09-11",
-                                      "lastModified":  "2018-09-11"
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2019-01-16"
                                   },
                          "languages":  [
                                            "HTML",
@@ -457,10 +486,9 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin",
                          "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-searchlayers-plugin/zipball/0.2.2",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-06-01",
-                                      "metadataLastUpdated":  "2018-09-04",
+                                      "metadataLastUpdated":  "2019-01-08",
                                       "lastModified":  "2018-09-06"
                                   },
                          "languages":  [
@@ -472,7 +500,7 @@
                      {
                          "name":  "qgis-shapetools-plugin",
                          "repositoryURL":  "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin",
-                         "description":  "QGIS plugin to quickly create shapes from delimited text.",
+                         "description":  "Shape Tools creates geodesic shapes and includes a number of geodesic tools for QGIS including the XY to Line tool, geodesic densify tool, geodesic line break, geodesic measure tool, geodesic measurement layer, geodesic scale, rotate and translate tool, and digitize points at an azimuth \u0026 distance tools.",
                          "permissions":  {
                                              "licenses":  [
                                                               {
@@ -496,12 +524,11 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin",
-                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-shapetools-plugin/zipball/3.2.3",
-                         "disclaimerURL":  "null",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/qgis-shapetools-plugin/zipball/3.3.3",
                          "date":  {
                                       "created":  "2016-06-03",
-                                      "metadataLastUpdated":  "2018-10-10",
-                                      "lastModified":  "2018-10-10"
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2019-01-07"
                                   },
                          "languages":  [
                                            "HTML",
@@ -538,11 +565,10 @@
                          "vcs":  "git",
                          "homepageURL":  "https://github.com/NationalSecurityAgency/qonduit",
                          "downloadURL":  "https://github.com/NationalSecurityAgency/qonduit/archive/master.zip",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2017-04-07",
-                                      "metadataLastUpdated":  "2018-07-31",
-                                      "lastModified":  "2017-09-07"
+                                      "metadataLastUpdated":  "2019-01-06",
+                                      "lastModified":  "2018-10-19"
                                   },
                          "languages":  [
                                            "Shell",
@@ -576,12 +602,11 @@
                          "status":  "Production",
                          "vcs":  "git",
                          "homepageURL":  "https://simp-project.com",
-                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/SIMP/zipball/6.1.0-0",
-                         "disclaimerURL":  "null",
+                         "downloadURL":  "https://github.com/repos/NationalSecurityAgency/SIMP/zipball/6.2.0-0",
                          "date":  {
                                       "created":  "2015-04-28",
-                                      "metadataLastUpdated":  "2018-10-12",
-                                      "lastModified":  "2017-12-04"
+                                      "metadataLastUpdated":  "2019-01-15",
+                                      "lastModified":  "2018-10-24"
                                   },
                          "languages":  [
                                            "Ruby"
@@ -614,13 +639,12 @@
                                      },
                          "status":  "Production",
                          "vcs":  "git",
-                         "homepageURL":  "https://nationalsecurityagency.github.io/timely/",
+                         "homepageURL":  "https://code.nsa.gov/timely/",
                          "downloadURL":  "https://github.com/repos/NationalSecurityAgency/timely/zipball/0.0.5",
-                         "disclaimerURL":  "null",
                          "date":  {
                                       "created":  "2016-04-12",
-                                      "metadataLastUpdated":  "2018-10-03",
-                                      "lastModified":  "2018-10-03"
+                                      "metadataLastUpdated":  "2019-01-16",
+                                      "lastModified":  "2019-01-16"
                                   },
                          "languages":  [
                                            "Java",

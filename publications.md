@@ -1,11 +1,9 @@
-# NSA Cybersecurity publications
-
-This page lists NSA Cybersecurity publications.
+﻿This page lists NSA Cybersecurity publications.
 
 * Current NSA Cybersecurity publications can be found under the **Resources for Cybersecurity Professionals** section at <https://www.nsa.gov/what-we-do/cybersecurity/>
 * Archived NSA Information Assurance and Information Assurance Directorate publications can found at <https://apps.nsa.gov/iaarchive/library> (formerly  <https://www.iad.gov>)
 
-A zip file containing publications from both pages can be downloaded from <https://github.com/nsacyber.github.io/releases>
+A zip file containing publications from both pages can be downloaded from <https://github.com/nsacyber/Cybersecurity-Library/releases>
 
 \* notes when authorization is required to access a publication.
 
@@ -28,26 +26,25 @@ A zip file containing publications from both pages can be downloaded from <https
 | [WPA3 will Enhance Wi-Fi Security](https://apps.nsa.gov/iaarchive/library/reports/wpa3-will-enhance-wi-fi-security.cfm) ([more...](#wpa3-will-enhance-wi-fi-security)) | Archive | Jun 2018 | 441KB |
 | [Mobile Device Best Practices When Traveling OCONUS](https://apps.nsa.gov/iaarchive/library/supporting-documents/mobile-device-best-practices-when-traveling-oconus.cfm) ([more...](#mobile-device-best-practices-when-traveling-oconus)) | Archive | Jun 2018 | 234KB |
 | [WPA3 Will Enhance Wi-Fi Security](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-cybersecurity-technical-report-wpa3.pdf) ([more...](#wpa3-will-enhance-wi-fi-security-1)) | Current | Jun 2018 | 709KB |
-| [WordPress Plugin WP Symposium Remote Code Execution CVE-2014-10021](https://apps.nsa.gov/PartnerLibrary/CSA_Cybersecurity_Advisory_Wordpress_Symposium.pdf) ([more...](#wordpress-plugin-wp-symposium-remote-code-execution-cve-2014-10021))* | Current | Jun 2018 |  |
 | [How to fulfill the Requirement to Upgrade Symantec Proxy CAS](https://apps.nsa.gov/PartnerLibrary/CSA_How_to_Fulfill_the_Requirement_to_Upgrade_Symantec_Proxy_CAS.pdf) ([more...](#how-to-fulfill-the-requirement-to-upgrade-symantec-proxy-cas))* | Current | Jun 2018 |  |
+| [WordPress Plugin WP Symposium Remote Code Execution CVE-2014-10021](https://apps.nsa.gov/PartnerLibrary/CSA_Cybersecurity_Advisory_Wordpress_Symposium.pdf) ([more...](#wordpress-plugin-wp-symposium-remote-code-execution-cve-2014-10021))* | Current | Jun 2018 |  |
 | [Steps to Secure Web Browsing](https://apps.nsa.gov/iaarchive/library/reports/steps-to-secure-web-browsing.cfm) ([more...](#steps-to-secure-web-browsing)) | Archive | May 2018 | 135KB |
-| [Steps to Secure Web Browsing](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-steps-to-secure-web-browsing.pdf) ([more...](#steps-to-secure-web-browsing-1)) | Current | May 2018 | 461KB |
 | [Mobile Device Best Practices When Traveling OCONUS](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-mobile-device-best-practices-when-traveling-oconus.pdf) ([more...](#mobile-device-best-practices-when-traveling-oconus-1)) | Current | May 2018 | 319KB |
+| [Steps to Secure Web Browsing](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-steps-to-secure-web-browsing.pdf) ([more...](#steps-to-secure-web-browsing-1)) | Current | May 2018 | 461KB |
 | [Drupal Unauthenticated Remote Code Execution Vulnerability CVE-2018-7600](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/drupal-unauthenticated-remote-code-execution-vulnerability.cfm) ([more...](#drupal-unauthenticated-remote-code-execution-vulnerability-cve-2018-7600)) | Archive | Apr 2018 | 119KB |
 | [Multiple Critical Vulnerabilities Identified in Cisco Smart Install](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/multiple-critical-vulnerabilities-identified-in-cisco-smart-install.cfm) ([more...](#multiple-critical-vulnerabilities-identified-in-cisco-smart-install)) | Archive | Apr 2018 | 493KB |
 | [Windows 10 for Enterprises Security Benefits of Timely Adoption](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/windows-10-for-enterprises-security-benefits-of-timely-adoption.cfm) ([more...](#windows-10-for-enterprises-security-benefits-of-timely-adoption)) | Archive | Apr 2018 | 280KB |
 | [Seven Steps to Effectively Defend Industrial Control Systems](https://apps.nsa.gov/iaarchive/library/reports/seven-steps-to-effectively-defend-industrial-control-systems.cfm) ([more...](#seven-steps-to-effectively-defend-industrial-control-systems)) | Archive | Apr 2018 | 797KB |
-| [Drupal Unauthenticated Remote Code Execution Vulnerability](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-drupal-remote-code-execution-vulnerability-cve.pdf) ([more...](#drupal-unauthenticated-remote-code-execution-vulnerability)) | Current | Apr 2018 | 289KB |
-| [Multiple Critical Vulnerabilities Identified in CISCO Smart Install](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/orn-cisco-smart-install.pdf) ([more...](#multiple-critical-vulnerabilities-identified-in-cisco-smart-install-1)) | Current | Apr 2018 | 451KB |
 | [Windows 10 for Enterprises Security Benefits of Timely Adoption](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-windows-10-for-enterprise-security-benefits-of-timely-adoption.pdf) ([more...](#windows-10-for-enterprises-security-benefits-of-timely-adoption-1)) | Current | Apr 2018 | 379KB |
+| [Multiple Critical Vulnerabilities Identified in CISCO Smart Install](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/orn-cisco-smart-install.pdf) ([more...](#multiple-critical-vulnerabilities-identified-in-cisco-smart-install-1)) | Current | Apr 2018 | 451KB |
 | [UNFETTER](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/unfetter.cfm) ([more...](#unfetter)) | Archive | Mar 2018 | 730KB |
 | [NSA/CSS Technical Cyber Threat Framework v1](https://apps.nsa.gov/iaarchive/library/reports/nsa-css-technical-cyber-threat-framework-v1.cfm) ([more...](#nsacss-technical-cyber-threat-framework-v1)) | Archive | Mar 2018 | 1,275KB |
 | [NSAs Top Ten Cybersecurity Mitigation Strategies](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/nsas-top-ten-cybersecurity-mitigation-strategies.cfm) ([more...](#nsas-top-ten-cybersecurity-mitigation-strategies)) | Archive | Mar 2018 | 194KB |
-| [UEFI Lockdown Quick Guidance](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf) ([more...](#uefi-lockdown-quick-guidance)) | Current | Mar 2018 | 416KB |
-| [UEFI Advantages Over Legacy Mode](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf) ([more...](#uefi-advantages-over-legacy-mode)) | Current | Mar 2018 | 336KB |
-| [Top 10 Mitigation Strategies](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf) ([more...](#top-10-mitigation-strategies)) | Current | Mar 2018 | 348KB |
-| [NCTOC Top 5 Security Operations Center (SOC) Principles](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf) ([more...](#nctoc-top-5-security-operations-center-soc-principles)) | Current | Mar 2018 | 126KB |
 | [UNFETTER](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-unfetter.pdf?v=2) ([more...](#unfetter-1)) | Current | Mar 2018 | 494KB |
+| [Top 10 Mitigation Strategies](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf) ([more...](#top-10-mitigation-strategies)) | Current | Mar 2018 | 348KB |
+| [UEFI Lockdown Quick Guidance](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf) ([more...](#uefi-lockdown-quick-guidance)) | Current | Mar 2018 | 416KB |
+| [NCTOC Top 5 Security Operations Center (SOC) Principles](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf) ([more...](#nctoc-top-5-security-operations-center-soc-principles)) | Current | Mar 2018 | 126KB |
+| [UEFI Advantages Over Legacy Mode](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf) ([more...](#uefi-advantages-over-legacy-mode)) | Current | Mar 2018 | 336KB |
 | [Unified Extensible Firmware Interface (UEFI) Advantages](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/cfs-u-oo-111747-18.cfm) ([more...](#unified-extensible-firmware-interface-uefi-advantages)) | Archive | Feb 2018 | 352KB |
 | [Cisco Updates Critical Remote Code Execution Vulnerability Advisory for ASA](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/iaa-u-oo-11303-18.cfm) ([more...](#cisco-updates-critical-remote-code-execution-vulnerability-advisory-for-asa)) | Archive | Feb 2018 | 197KB |
 | [CISCO Updates Critical Remote Code Execution Vulnerability for ASA](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-cisco-asa-cve.pdf) ([more...](#cisco-updates-critical-remote-code-execution-vulnerability-for-asa)) | Current | Feb 2018 | 283KB |
@@ -63,8 +60,8 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Inspection and Sanitization Guidance for National Imagery Transmission Format (NITF)](https://apps.nsa.gov/iaarchive/library/reports/inspection-and-sanitization-guidance-for-national-imagery-transmission-format.cfm) ([more...](#inspection-and-sanitization-guidance-for-national-imagery-transmission-format-nitf)) | Archive | Jan 2018 | 1,116KB |
 | [DotNetNuke Remote Code Execution Vulnerability CVE-2017-9822](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/dotnetnuke-remote-code-execution-vulnerability-cve2-2017-9822.cfm) ([more...](#dotnetnuke-remote-code-execution-vulnerability-cve-2017-9822)) | Archive | Jan 2018 | 339KB |
 | [Vulnerabilities Affecting Modern Processors](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/vulnerabilities_affecting_modern_processors.cfm) ([more...](#vulnerabilities-affecting-modern-processors)) | Archive | Jan 2018 | 288KB |
-| [DotNetNuke Remote Code Execution Vulnerability](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-dotnetnuke.pdf) ([more...](#dotnetnuke-remote-code-execution-vulnerability)) | Current | Jan 2018 | 353KB |
 | [Vulnerabilities Affecting Modern Processors](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-vulnerabilities-affecting-modern-processors.pdf) ([more...](#vulnerabilities-affecting-modern-processors-1)) | Current | Jan 2018 | 512KB |
+| [DotNetNuke Remote Code Execution Vulnerability](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-dotnetnuke.pdf) ([more...](#dotnetnuke-remote-code-execution-vulnerability)) | Current | Jan 2018 | 353KB |
 | [Securing Kernel Modules on Linux Operating Systems](https://apps.nsa.gov/iaarchive/library/reports/securing-kernel-modules-on-linux-operating-systems.cfm) ([more...](#securing-kernel-modules-on-linux-operating-systems)) | Archive | Dec 2017 | 238KB |
 | [Bro NSM Hunting Tips](https://apps.nsa.gov/iaarchive/library/reports/bro-nsm-hunting-tips.cfm) ([more...](#bro-nsm-hunting-tips)) | Archive | Dec 2017 | 1,141KB |
 | [RSA SecurID Token Authentication Agent Vulnerabilities](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/rsa-securid-token-authentication-agent-vulnerabilities.cfm) ([more...](#rsa-securid-token-authentication-agent-vulnerabilities)) | Archive | Dec 2017 | 226KB |
@@ -72,8 +69,8 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Inspection and Sanitization Guidance for TIFF File Formats](https://apps.nsa.gov/iaarchive/library/reports/tiff_inspection_and_sanitization_guidance_v1_1_1-20171206.cfm) ([more...](#inspection-and-sanitization-guidance-for-tiff-file-formats)) | Archive | Nov 2017 | 1,334KB |
 | [RSA Key Generation Vulnerability Affecting Trusted Platform](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/rsa-key-generation-vulnerability-affecting-trusted-platform.cfm) ([more...](#rsa-key-generation-vulnerability-affecting-trusted-platform)) | Archive | Oct 2017 | 271KB |
 | [Mitigations for Key Reinstallation Attacks Against Wi-Fi Protected Access II (WPA2)](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/mitigations-key-reinstallation-attacks-against-wpa2.cfm) ([more...](#mitigations-for-key-reinstallation-attacks-against-wi-fi-protected-access-ii-wpa2)) | Archive | Oct 2017 | 101KB |
-| [RSA Key Generation Vulnerability Affecting Trusted Platform Modules](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-rsa-key-generation-vulnerability-affecting-trusted-platform-modules.pdf) ([more...](#rsa-key-generation-vulnerability-affecting-trusted-platform-modules)) | Current | Oct 2017 | 342KB |
 | [Mitigations for Key Reinstallation Attacks Against WI-FI Protected Access II (WPA2)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-mitigations-for-key-reinstallation-attacks-against-wifi-access-ii.pdf) ([more...](#mitigations-for-key-reinstallation-attacks-against-wi-fi-protected-access-ii-wpa2-1)) | Current | Oct 2017 | 338KB |
+| [RSA Key Generation Vulnerability Affecting Trusted Platform Modules](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-rsa-key-generation-vulnerability-affecting-trusted-platform-modules.pdf) ([more...](#rsa-key-generation-vulnerability-affecting-trusted-platform-modules)) | Current | Oct 2017 | 342KB |
 | [Cisco Smart Install Protocol Misuse](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/cisco-smart-install-protocol-misuse.cfm) ([more...](#cisco-smart-install-protocol-misuse)) | Archive | Aug 2017 | 270KB |
 | [CISCO Smart Install Protocol Misuse](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-cisco-smart-install-protocol-misuse.pdf) ([more...](#cisco-smart-install-protocol-misuse-1)) | Current | Aug 2017 | 357KB |
 | [Security Guidance for the Use of JSON and JSON Schemas](https://apps.nsa.gov/iaarchive/library/supporting-documents/security-guidance-use-json-andjson-schemas.cfm) ([more...](#security-guidance-for-the-use-of-json-and-json-schemas)) | Archive | Jul 2017 | 1,041KB |
@@ -195,8 +192,8 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Defense in Depth](https://apps.nsa.gov/iaarchive/library/reports/defense-in-depth.cfm) ([more...](#defense-in-depth)) | Archive | Sep 2015 | 670KB |
 | [NSA Methodology for Adversary Obstruction](https://apps.nsa.gov/iaarchive/library/reports/nsa-methodology-for-adversary-obstruction.cfm) ([more...](#nsa-methodology-for-adversary-obstruction)) | Archive | Aug 2015 | 741KB |
 | [Adobe ColdFusion Guidance](https://apps.nsa.gov/iaarchive/library/reports/adobe-coldfusion-guidance.cfm) ([more...](#adobe-coldfusion-guidance)) | Archive | Jul 2015 | 627KB |
-| [Campus Wireless Local Area Network Registration Form](https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-campus-wlan-registration-form.cfm) ([more...](#campus-wireless-local-area-network-registration-form)) | Archive | Jun 2015 | 1,017KB |
 | [Virtual Private Network Registration Form](https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-vpn-registration-form.cfm) ([more...](#virtual-private-network-registration-form)) | Archive | Jun 2015 | 1,017KB |
+| [Campus Wireless Local Area Network Registration Form](https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-campus-wlan-registration-form.cfm) ([more...](#campus-wireless-local-area-network-registration-form)) | Archive | Jun 2015 | 1,017KB |
 | [2014 Supplemental Guide to the National Manager's Letter](https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-standards/cgs/supplemental-guide-to-the-national-managers-letter.cfm) ([more...](#2014-supplemental-guide-to-the-national-managers-letter)) | Archive | May 2015 | 687KB |
 | [Frank B. Rowlett Awards Program](https://apps.nsa.gov/iaarchive/library/supporting-documents/frank-b-rowlett-awards-program.cfm) ([more...](#frank-b-rowlett-awards-program)) | Archive | Mar 2015 | 56KB |
 | [Apply for Cyber Incident Response Assistance Accreditation Using the National Security Cyber Assistance Program Accreditation Portal](https://apps.nsa.gov/iaarchive/library/supporting-documents/apply-for-cira-accreditation-using-the-nscap-accreditation.cfm) ([more...](#apply-for-cyber-incident-response-assistance-accreditation-using-the-national-security-cyber-assistance-program-accreditation-portal)) | Archive | Mar 2015 | 234KB |
@@ -209,11 +206,11 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Scripting for Bash Vulnerability/Shellshock](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/scripting-for-bash-vulnerability-shellshock.cfm) ([more...](#scripting-for-bash-vulnerabilityshellshock-1)) | Archive | Oct 2014 | 665KB |
 | [Microsoft's Enhanced Mitigation Experience Toolkit Guide](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/microsoft-enhanced-mitigation-experience-toolkit-a.cfm) ([more...](#microsofts-enhanced-mitigation-experience-toolkit-guide-1)) | Archive | Oct 2014 | 1,488KB |
 | [Wireless Vulnerabilities Article](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/wireless-vulnerabilities-article.cfm) ([more...](#wireless-vulnerabilities-article)) | Archive | Oct 2014 | 28KB |
-| [Microsoft's Enhanced Mitigation Experience Toolkit: A Rationale for Enabling Modern Anti-Exploritation Mitigations in Windows](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/microsofts-emet-a-rationale-for-enabling-modern.cfm) ([more...](#microsofts-enhanced-mitigation-experience-toolkit-a-rationale-for-enabling-modern-anti-exploritation-mitigations-in-windows-1)) | Archive | Oct 2014 | 1,275KB |
 | [Understanding the Enhanced Mitigation Experience Toolkit Frequently Asked Questions](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/understanding-the-emet-faq.cfm) ([more...](#understanding-the-enhanced-mitigation-experience-toolkit-frequently-asked-questions)) | Archive | Oct 2014 | 396KB |
-| [Critical Focus Areas of Cyber Incident Response Assistance](https://apps.nsa.gov/iaarchive/library/supporting-documents/critical-focus-areas-of-cira.cfm) ([more...](#critical-focus-areas-of-cyber-incident-response-assistance)) | Archive | Sep 2014 | 846KB |
-| [How National Security Cyber Assistance Program Benefits Service Providers and National Security System Owners](https://apps.nsa.gov/iaarchive/library/supporting-documents/nscap-cira-accreditation-of-cira-services-providers-benefits.cfm) ([more...](#how-national-security-cyber-assistance-program-benefits-service-providers-and-national-security-system-owners)) | Archive | Sep 2014 | 108KB |
+| [Microsoft's Enhanced Mitigation Experience Toolkit: A Rationale for Enabling Modern Anti-Exploritation Mitigations in Windows](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/microsofts-emet-a-rationale-for-enabling-modern.cfm) ([more...](#microsofts-enhanced-mitigation-experience-toolkit-a-rationale-for-enabling-modern-anti-exploritation-mitigations-in-windows-1)) | Archive | Oct 2014 | 1,275KB |
 | [National Security Cyber Assistance Program Brochure](https://apps.nsa.gov/iaarchive/library/supporting-documents/brochures/nscap.cfm) ([more...](#national-security-cyber-assistance-program-brochure)) | Archive | Sep 2014 | 3,370KB |
+| [How National Security Cyber Assistance Program Benefits Service Providers and National Security System Owners](https://apps.nsa.gov/iaarchive/library/supporting-documents/nscap-cira-accreditation-of-cira-services-providers-benefits.cfm) ([more...](#how-national-security-cyber-assistance-program-benefits-service-providers-and-national-security-system-owners)) | Archive | Sep 2014 | 108KB |
+| [Critical Focus Areas of Cyber Incident Response Assistance](https://apps.nsa.gov/iaarchive/library/supporting-documents/critical-focus-areas-of-cira.cfm) ([more...](#critical-focus-areas-of-cyber-incident-response-assistance)) | Archive | Sep 2014 | 846KB |
 | [Cisco Adaptive Security Appliance Out-of-the-Box Security Configuration Guide](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/networks/cisco-asa-out-of-the-box-security-configuration-guide.cfm) ([more...](#cisco-adaptive-security-appliance-out-of-the-box-security-configuration-guide)) | Archive | Sep 2014 | 310KB |
 | [Inspection and Sanitization Guidance for Simple Mail Transfer Protocol (SMTP), Internet Message Format (IMF), and Multipurpose Internet Mail Extensions (MIME)](https://apps.nsa.gov/iaarchive/library/reports/email_isg_v1_0-20171212.cfm) ([more...](#inspection-and-sanitization-guidance-for-simple-mail-transfer-protocol-smtp-internet-message-format-imf-and-multipurpose-internet-mail-extensions-mime)) | Archive | Sep 2014 | 1,105KB |
 | [Email Filtering Best Practices Guide Version 1.0](https://apps.nsa.gov/iaarchive/library/reports/email_filtering_bpg_v1_0-20171212.cfm) ([more...](#email-filtering-best-practices-guide-version-10)) | Archive | Sep 2014 | 418KB |
@@ -222,28 +219,28 @@ A zip file containing publications from both pages can be downloaded from <https
 | [2014 IAD's Top Technology Challenges](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/2014-iad-top-technology-challenges.cfm) ([more...](#2014-iads-top-technology-challenges)) | Archive | Jul 2014 | 173KB |
 | [Information Assurance Guidance for Microsoft Windows XP End of Life](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/ia-guidance-for-microsoft-windows-xp-end-of-life.cfm) ([more...](#information-assurance-guidance-for-microsoft-windows-xp-end-of-life)) | Archive | Jul 2014 | 417KB |
 | [Community Gold Standard 2.0](https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-standards/cgs/community-gold-standard-framework.cfm) ([more...](#community-gold-standard-20)) | Archive | Jun 2014 | 1,558KB |
-| [Best Practices for Keeping Your Home Network Secure](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/best-practices-for-keeping-your-home-network-secure.cfm) ([more...](#best-practices-for-keeping-your-home-network-secure-2)) | Archive | May 2014 | 1,894KB |
-| [Factsheet: Mitigations for OpenSSL TLS/DTLS Heartbeat Extension Vulnerability](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/mitigations-for-openssl-tls-dtls-heartbeat-extension.cfm) ([more...](#factsheet-mitigations-for-openssl-tlsdtls-heartbeat-extension-vulnerability)) | Archive | May 2014 | 236KB |
 | [Identity Theft Threat and Mitigations](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/identity-theft-threat-and-mitigations.cfm) ([more...](#identity-theft-threat-and-mitigations-2)) | Archive | May 2014 | 2,374KB |
+| [Factsheet: Mitigations for OpenSSL TLS/DTLS Heartbeat Extension Vulnerability](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/mitigations-for-openssl-tls-dtls-heartbeat-extension.cfm) ([more...](#factsheet-mitigations-for-openssl-tlsdtls-heartbeat-extension-vulnerability)) | Archive | May 2014 | 236KB |
+| [Best Practices for Keeping Your Home Network Secure](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/best-practices-for-keeping-your-home-network-secure.cfm) ([more...](#best-practices-for-keeping-your-home-network-secure-2)) | Archive | May 2014 | 1,894KB |
 | [Journal of Information Warfare, Vol. 13 Issue 2](https://apps.nsa.gov/iaarchive/library/supporting-documents/journal-of-information-warfare.cfm) ([more...](#journal-of-information-warfare-vol-13-issue-2)) | Archive | Apr 2014 | 3,484KB |
 | [Supplemental Guide to the National Manager's Letter 2014](https://apps.nsa.gov/iaarchive/library/reports/supplemental-guide-to-the-national-managers-letter.cfm) ([more...](#supplemental-guide-to-the-national-managers-letter-2014)) | Archive | Mar 2014 | 773KB |
 | [Supplemental Guide to the National Manager's Letter 2015](https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-standards/cgs/supplemental-guide-to-the-national-managers-letter-15.cfm) ([more...](#supplemental-guide-to-the-national-managers-letter-2015)) | Archive | Mar 2014 | 1,862KB |
-| [Random Number Generators: Introduction for Application Developers](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/random-number-generators-introduction-for-application.cfm) ([more...](#random-number-generators-introduction-for-application-developers)) | Archive | Mar 2014 | 582KB |
 | [Random Number Generators: Introduction for Operating System Developers](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/random-number-generators-introduction-for-operating-system.cfm) ([more...](#random-number-generators-introduction-for-operating-system-developers)) | Archive | Mar 2014 | 644KB |
+| [Random Number Generators: Introduction for Application Developers](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/random-number-generators-introduction-for-application.cfm) ([more...](#random-number-generators-introduction-for-application-developers)) | Archive | Mar 2014 | 582KB |
 | [Inspection and Sanitization Guidance for the Wavelet Scalar Quantization (WSQ) Biometric Image Format](https://apps.nsa.gov/iaarchive/library/reports/wsq_isg_v1_0_20171212.cfm) ([more...](#inspection-and-sanitization-guidance-for-the-wavelet-scalar-quantization-wsq-biometric-image-format)) | Archive | Jan 2014 | 610KB |
 | [Spotting the Adversary with Windows Event Log Monitoring](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/spotting-the-adversary-with-windows-event-log-monitoring.cfm) ([more...](#spotting-the-adversary-with-windows-event-log-monitoring-1)) | Archive | Dec 2013 | 871KB |
 | [Host Mitigation Package](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/host-mitigation-package.cfm) ([more...](#host-mitigation-package-1)) | Archive | Dec 2013 | 1,288KB |
 | [Reducing the Effectiveness of Pass-the-Hash](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/reducing-the-effectiveness-of-pass-the-hash.cfm) ([more...](#reducing-the-effectiveness-of-pass-the-hash-1)) | Archive | Nov 2013 | 350KB |
-| [Cloud Security Considerations](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/cloud-security-considerations.cfm) ([more...](#cloud-security-considerations)) | Archive | Oct 2013 | 1,046KB |
-| [Control Administrative Privileges](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/control-administrative-privileges.cfm) ([more...](#control-administrative-privileges)) | Archive | Oct 2013 | 655KB |
-| [Application Whitelisting](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/application-whitelisting.cfm) ([more...](#application-whitelisting)) | Archive | Oct 2013 | 597KB |
-| [Anti-Exploitation Features](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-exploitation-features.cfm) ([more...](#anti-exploitation-features)) | Archive | Oct 2013 | 520KB |
-| [Anti-Virus File Reputation Services](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-virus-reputation-services.cfm) ([more...](#anti-virus-file-reputation-services)) | Archive | Oct 2013 | 528KB |
-| [Segregate Networks and Functions](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/segregate-networks-and-functions.cfm) ([more...](#segregate-networks-and-functions)) | Archive | Oct 2013 | 414KB |
 | [Web Domain Name System Reputation](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/web-domain-name-system-reputation.cfm) ([more...](#web-domain-name-system-reputation)) | Archive | Oct 2013 | 712KB |
+| [Segregate Networks and Functions](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/segregate-networks-and-functions.cfm) ([more...](#segregate-networks-and-functions)) | Archive | Oct 2013 | 414KB |
 | [Secure Host Baseline](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/secure-host-baseline.cfm) ([more...](#secure-host-baseline)) | Archive | Oct 2013 | 491KB |
-| [Host Intrusion Prevention Systems](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/host-intrusion-prevention-systems.cfm) ([more...](#host-intrusion-prevention-systems)) | Archive | Oct 2013 | 618KB |
 | [Limit Workstation-to-Workstation Communication](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/limit-workstation-to-workstation-communication.cfm) ([more...](#limit-workstation-to-workstation-communication)) | Archive | Oct 2013 | 502KB |
+| [Host Intrusion Prevention Systems](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/host-intrusion-prevention-systems.cfm) ([more...](#host-intrusion-prevention-systems)) | Archive | Oct 2013 | 618KB |
+| [Control Administrative Privileges](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/control-administrative-privileges.cfm) ([more...](#control-administrative-privileges)) | Archive | Oct 2013 | 655KB |
+| [Cloud Security Considerations](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/cloud-security-considerations.cfm) ([more...](#cloud-security-considerations)) | Archive | Oct 2013 | 1,046KB |
+| [Application Whitelisting](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/application-whitelisting.cfm) ([more...](#application-whitelisting)) | Archive | Oct 2013 | 597KB |
+| [Anti-Virus File Reputation Services](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-virus-reputation-services.cfm) ([more...](#anti-virus-file-reputation-services)) | Archive | Oct 2013 | 528KB |
+| [Anti-Exploitation Features](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-exploitation-features.cfm) ([more...](#anti-exploitation-features)) | Archive | Oct 2013 | 520KB |
 | [Recommendations for Configuring Adobe Acrobat Reader XI in a Windows Environment](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/recommendations-for-configuring-adobe-acrobat-reader-xi-in-a.cfm) ([more...](#recommendations-for-configuring-adobe-acrobat-reader-xi-in-a-windows-environment-1)) | Archive | Jul 2013 | 330KB |
 | [Building Web Applications Security Recommendations for Developers](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/building-web-applications-security-recommendations-for.cfm) ([more...](#building-web-applications-security-recommendations-for-developers)) | Archive | Apr 2013 | 534KB |
 | [Host Based Security System Application Whitelisting Technical Implementation Guide](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/hbss-application-whitelisting-technical-implementation-guide.cfm) ([more...](#host-based-security-system-application-whitelisting-technical-implementation-guide)) | Archive | Mar 2013 | 7,020KB |
@@ -257,8 +254,8 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Community Gold Standard Brochure](https://apps.nsa.gov/iaarchive/library/supporting-documents/brochures/community-gold-standard-for-information-assurance.cfm) ([more...](#community-gold-standard-brochure-1)) | Archive | Oct 2012 | 4,396KB |
 | [Securing Data and Handling Spillage Events](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/securing-data-and-handling-spillage-events.cfm) ([more...](#securing-data-and-handling-spillage-events)) | Archive | Oct 2012 | 673KB |
 | [Hardening Authentication](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/hardening-authentication.cfm) ([more...](#hardening-authentication)) | Archive | Sep 2012 | 708KB |
-| [Mobile Device Management: A Risk Discussion for IT Decision Makers](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-a-risk-discussion-for-it-decision.cfm) ([more...](#mobile-device-management-a-risk-discussion-for-it-decision-makers)) | Archive | Aug 2012 | 734KB |
 | [Mobile Device Management: Capability Gaps for High-Security Use Cases](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-capability-gaps-for-high-security.cfm) ([more...](#mobile-device-management-capability-gaps-for-high-security-use-cases)) | Archive | Aug 2012 | 734KB |
+| [Mobile Device Management: A Risk Discussion for IT Decision Makers](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-a-risk-discussion-for-it-decision.cfm) ([more...](#mobile-device-management-a-risk-discussion-for-it-decision-makers)) | Archive | Aug 2012 | 734KB |
 | [Defending Against Compromised Certificates](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/defending-against-compromised-certificates.cfm) ([more...](#defending-against-compromised-certificates)) | Archive | Jul 2012 | 306KB |
 | [Guidelines for Regular Expressions in XML Schemas](https://apps.nsa.gov/iaarchive/library/reports/guidelines_for_regular_expressions_with_xml_schemas_v1_0.cfm) ([more...](#guidelines-for-regular-expressions-in-xml-schemas)) | Archive | Jun 2012 | 964KB |
 | [XSLT 1.0 Recommendations for Making XSLT Programs Behave as Expected](https://apps.nsa.gov/iaarchive/library/reports/xslt-guidance_v1_0-20171212.cfm) ([more...](#xslt-10-recommendations-for-making-xslt-programs-behave-as-expected)) | Archive | Jun 2012 | 684KB |
@@ -290,9 +287,9 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Securing Lotus Sametime](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/securing-ibm-lotus-sametime.cfm) ([more...](#securing-lotus-sametime)) | Archive | Sep 2010 | 494KB |
 | [A Framework for Assessing and Improving the Security Posture of Industrial Control Systems](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/industrial-control-systems/a-framework-for-assessing-and-improving-the-security-posture.cfm) ([more...](#a-framework-for-assessing-and-improving-the-security-posture-of-industrial-control-systems)) | Archive | Aug 2010 | 936KB |
 | [Inspection and Sanitization Guidance for Microsoft Office 2003](https://apps.nsa.gov/iaarchive/library/reports/ms_office_2003_inspection_and_sanitization_guidance_v1_0_2-20171212.cfm) ([more...](#inspection-and-sanitization-guidance-for-microsoft-office-2003)) | Archive | Aug 2010 | 1,070KB |
-| [Application Whitelisting](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/application-whitelisting-trifold.cfm) ([more...](#application-whitelisting-1)) | Archive | Aug 2010 | 543KB |
-| [Application Whitelisting using Software Restriction Policies](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/application-whitelisting-using-srp.cfm) ([more...](#application-whitelisting-using-software-restriction-policies-1)) | Archive | Aug 2010 | 385KB |
 | [Cisco Unified Presence Server](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/cups.cfm) ([more...](#cisco-unified-presence-server)) | Archive | Aug 2010 | 535KB |
+| [Application Whitelisting using Software Restriction Policies](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/application-whitelisting-using-srp.cfm) ([more...](#application-whitelisting-using-software-restriction-policies-1)) | Archive | Aug 2010 | 385KB |
+| [Application Whitelisting](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/application-whitelisting-trifold.cfm) ([more...](#application-whitelisting-1)) | Archive | Aug 2010 | 543KB |
 | [Inspection and Sanitization Guidance for Microsoft Office 2007 and Office Open XML (OOXML)](https://apps.nsa.gov/iaarchive/library/reports/ms_office_2007_inspection_and_sanitization_guidance_v1_0-20171212.cfm) ([more...](#inspection-and-sanitization-guidance-for-microsoft-office-2007-and-office-open-xml-ooxml)) | Archive | Jun 2010 | 1,222KB |
 | [Activating Authentication and Encryption for Cisco Unified Communications Manager Express 7.0/4.3](https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/activating-authentication-and-encryption-for-cucme-7-0-4-3.cfm) ([more...](#activating-authentication-and-encryption-for-cisco-unified-communications-manager-express-7043)) | Archive | Apr 2010 | 551KB |
 | [Mathematical routines for the National Institute of Standards and Technology prime elliptic curves](https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/mathematical-routines-for-the-nist-prime-elliptic-curves.cfm) ([more...](#mathematical-routines-for-the-national-institute-of-standards-and-technology-prime-elliptic-curves)) | Archive | Apr 2010 | 205KB |
@@ -358,8 +355,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### A Guide to Border Gateway Protocol (BGP) Best Practices
 
-* Abstract: The dominant routing protocol on the Internet is the Border Gateway Protocol (BGP). BGP has been deployed since the commercialization of the Internet and version 4 of BGP is over a decade old. BGP works well in practice, and its simplicity and resilience enabled it to play a fundamental role within the global Internet. However, BGP inherently provides few performance or security protections.
-With BGP being the primary protocol driving the Internet, the security of devices dedicated to running the protocol is vital. Unfortunately, there are many vulnerabilities that can be exploited if proper mitigations are not configured. This error seems to be far more common than it should. For that reason this guidance paper is provided.
+* Abstract: The dominant routing protocol on the Internet is the Border Gateway Protocol (BGP). BGP has been deployed since the commercialization of the Internet and version 4 of BGP is over a decade old. BGP works well in practice, and its simplicity and resilience enabled it to play a fundamental role within the global Internet. However, BGP inherently provides few performance or security protections.With BGP being the primary protocol driving the Internet, the security of devices dedicated to running the protocol is vital. Unfortunately, there are many vulnerabilities that can be exploited if proper mitigations are not configured. This error seems to be far more common than it should. For that reason this guidance paper is provided.
 * Date: 09/17/2018
 * Link: <https://apps.nsa.gov/iaarchive/library/reports/a-guide-to-border-gateway-protocol-bgp-best-practices.cfm>
 * Category: Reports
@@ -500,11 +496,11 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### WordPress Plugin WP Symposium Remote Code Execution CVE-2014-10021
+### How to fulfill the Requirement to Upgrade Symantec Proxy CAS
 
 * Abstract: 
 * Date: 06/01/2018
-* Link: <https://apps.nsa.gov/PartnerLibrary/CSA_Cybersecurity_Advisory_Wordpress_Symposium.pdf>
+* Link: <https://apps.nsa.gov/PartnerLibrary/CSA_How_to_Fulfill_the_Requirement_to_Upgrade_Symantec_Proxy_CAS.pdf>
 * Category: Advisory
 * SHA256: 
 * Size: 
@@ -513,11 +509,11 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### How to fulfill the Requirement to Upgrade Symantec Proxy CAS
+### WordPress Plugin WP Symposium Remote Code Execution CVE-2014-10021
 
 * Abstract: 
 * Date: 06/01/2018
-* Link: <https://apps.nsa.gov/PartnerLibrary/CSA_How_to_Fulfill_the_Requirement_to_Upgrade_Symantec_Proxy_CAS.pdf>
+* Link: <https://apps.nsa.gov/PartnerLibrary/CSA_Cybersecurity_Advisory_Wordpress_Symposium.pdf>
 * Category: Advisory
 * SHA256: 
 * Size: 
@@ -539,19 +535,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Steps to Secure Web Browsing
-
-* Abstract: 
-* Date: 05/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-steps-to-secure-web-browsing.pdf>
-* Category: Info Sheet
-* SHA256: 59B21F04A3EEF8897432283EC5404A331F5F5AF4587740CC4A309F1A359EB9AB
-* Size: 461KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Mobile Device Best Practices When Traveling OCONUS
 
 * Abstract: 
@@ -560,6 +543,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: Info Sheet
 * SHA256: 7D1E51C6E12E441D7CA3440330F5816506F732F3D89CFAAAF51F01D5ED18E497
 * Size: 319KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Steps to Secure Web Browsing
+
+* Abstract: 
+* Date: 05/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-steps-to-secure-web-browsing.pdf>
+* Category: Info Sheet
+* SHA256: 59B21F04A3EEF8897432283EC5404A331F5F5AF4587740CC4A309F1A359EB9AB
+* Size: 461KB
 * Location: Current
 * Access Controlled: False
 
@@ -617,14 +613,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Drupal Unauthenticated Remote Code Execution Vulnerability
+### Windows 10 for Enterprises Security Benefits of Timely Adoption
 
 * Abstract: 
 * Date: 04/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-drupal-remote-code-execution-vulnerability-cve.pdf>
-* Category: Advisory
-* SHA256: 44DD85285D2F319F653168DA185D10CD26515DED335DDC11DA8D1E4F9D1D740C
-* Size: 289KB
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-windows-10-for-enterprise-security-benefits-of-timely-adoption.pdf>
+* Category: Info Sheet
+* SHA256: C0C95BFC57205F94170DCF6C0D2F499CCD5B58C51341EF732580A180DA3FE08F
+* Size: 379KB
 * Location: Current
 * Access Controlled: False
 
@@ -643,23 +639,9 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Windows 10 for Enterprises Security Benefits of Timely Adoption
-
-* Abstract: 
-* Date: 04/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-windows-10-for-enterprise-security-benefits-of-timely-adoption.pdf>
-* Category: Info Sheet
-* SHA256: C0C95BFC57205F94170DCF6C0D2F499CCD5B58C51341EF732580A180DA3FE08F
-* Size: 379KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### UNFETTER
 
-* Abstract: Unfetter is bringing Net Defenders and Threat Analysts together for the first time. Net Defenders need the ability to make operational decisions based on complex threat data published by Threat Analysts. A unique platform that unifies the Net Defender and Threat Analyst communities, Unfetter breaks down barriers through seamless data sharing across the enterprise.
-By enabling the real-time exchange of threat data and analytics based on the MITRE ATT&CKTM Framework, Unfetter allows organizations to evaluate and implement defensive measures based on effectiveness and value.
+* Abstract: Unfetter is bringing Net Defenders and Threat Analysts together for the first time. Net Defenders need the ability to make operational decisions based on complex threat data published by Threat Analysts. A unique platform that unifies the Net Defender and Threat Analyst communities, Unfetter breaks down barriers through seamless data sharing across the enterprise.By enabling the real-time exchange of threat data and analytics based on the MITRE ATT&CKTM Framework, Unfetter allows organizations to evaluate and implement defensive measures based on effectiveness and value.
 * Date: 03/29/2018
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/unfetter.cfm>
 * Category: IA Guidance > Security Tips
@@ -696,27 +678,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### UEFI Lockdown Quick Guidance
+### UNFETTER
 
 * Abstract: 
 * Date: 03/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf>
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-unfetter.pdf?v=2>
 * Category: Info Sheet
-* SHA256: D428CF61940FC2BC9D63BA8E58525E2B56D34752B8B6816788602ED9EF08E7E5
-* Size: 416KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### UEFI Advantages Over Legacy Mode
-
-* Abstract: 
-* Date: 03/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf>
-* Category: Info Sheet
-* SHA256: 6A3C09457B3726B033BA306BDC7EE95C88DDD71E6F94A3FFF1129D7C4878DF33
-* Size: 336KB
+* SHA256: 9E02DDD94B7EB225820981A4808C3C78808746A4B7E5048DAA7A6044F3017719
+* Size: 494KB
 * Location: Current
 * Access Controlled: False
 
@@ -735,6 +704,19 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
+### UEFI Lockdown Quick Guidance
+
+* Abstract: 
+* Date: 03/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf>
+* Category: Info Sheet
+* SHA256: D428CF61940FC2BC9D63BA8E58525E2B56D34752B8B6816788602ED9EF08E7E5
+* Size: 416KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
 ### NCTOC Top 5 Security Operations Center (SOC) Principles
 
 * Abstract: 
@@ -748,14 +730,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### UNFETTER
+### UEFI Advantages Over Legacy Mode
 
 * Abstract: 
 * Date: 03/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-unfetter.pdf?v=2>
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf>
 * Category: Info Sheet
-* SHA256: 9E02DDD94B7EB225820981A4808C3C78808746A4B7E5048DAA7A6044F3017719
-* Size: 494KB
+* SHA256: 6A3C09457B3726B033BA306BDC7EE95C88DDD71E6F94A3FFF1129D7C4878DF33
+* Size: 336KB
 * Location: Current
 * Access Controlled: False
 
@@ -956,19 +938,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### DotNetNuke Remote Code Execution Vulnerability
-
-* Abstract: 
-* Date: 01/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-dotnetnuke.pdf>
-* Category: Advisory
-* SHA256: FE4EDDF830CBECE0D90351A7E257E0841451369FC9CC1A0A91EE5B7EC703C0D9
-* Size: 353KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Vulnerabilities Affecting Modern Processors
 
 * Abstract: 
@@ -977,6 +946,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: Advisory
 * SHA256: 5ECF6159CEE509A7748FBA81CBD68DAE8315AEB572595CEF48FCEE2020F92C0D
 * Size: 512KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### DotNetNuke Remote Code Execution Vulnerability
+
+* Abstract: 
+* Date: 01/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-dotnetnuke.pdf>
+* Category: Advisory
+* SHA256: FE4EDDF830CBECE0D90351A7E257E0841451369FC9CC1A0A91EE5B7EC703C0D9
+* Size: 353KB
 * Location: Current
 * Access Controlled: False
 
@@ -1073,19 +1055,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### RSA Key Generation Vulnerability Affecting Trusted Platform Modules
-
-* Abstract: 
-* Date: 10/01/2017
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-rsa-key-generation-vulnerability-affecting-trusted-platform-modules.pdf>
-* Category: Advisory
-* SHA256: 8EEE3C3F4E7F87D920748A69C068DE178F252CC16D87852F7D7E09A2E75688D6
-* Size: 342KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Mitigations for Key Reinstallation Attacks Against WI-FI Protected Access II (WPA2)
 
 * Abstract: 
@@ -1094,6 +1063,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: Advisory
 * SHA256: 98502C145C5E4F10FA168F288C665DE1CB495362B71C08C07913C2DC5F5AB8A8
 * Size: 338KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### RSA Key Generation Vulnerability Affecting Trusted Platform Modules
+
+* Abstract: 
+* Date: 10/01/2017
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-rsa-key-generation-vulnerability-affecting-trusted-platform-modules.pdf>
+* Category: Advisory
+* SHA256: 8EEE3C3F4E7F87D920748A69C068DE178F252CC16D87852F7D7E09A2E75688D6
+* Size: 342KB
 * Location: Current
 * Access Controlled: False
 
@@ -1283,9 +1265,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Mitigations for WannaCrypt-WannaCry Ransomware
 
-* Abstract: Guidance in Information Assurance Advisory No. IAA U/OO/800900-17, "March 2017 Patch Tuesday" recommended the immediate application of Microsoft's March 2017 Patch Tuesday release on all supported platforms. The release patched several zero-day vulnerabilities.
-In response to widespread ransomware attacks against unpatched or unsupported platforms, Microsoft has also released the same security updates for specific unsupported Windows platforms. Its immediate installation is critical for Department of Defense networks and other National Security Systems.
-Microsoft and Windows are trademarks or registered trademarks of Microsoft Corp.
+* Abstract: Guidance in Information Assurance Advisory No. IAA U/OO/800900-17, "March 2017 Patch Tuesday" recommended the immediate application of Microsoft's March 2017 Patch Tuesday release on all supported platforms. The release patched several zero-day vulnerabilities.In response to widespread ransomware attacks against unpatched or unsupported platforms, Microsoft has also released the same security updates for specific unsupported Windows platforms. Its immediate installation is critical for Department of Defense networks and other National Security Systems.Microsoft and Windows are trademarks or registered trademarks of Microsoft Corp.
 * Date: 05/16/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/mitigations-for-wannacrypt-wannacry-ransomware.cfm>
 * Category: IA Advisories
@@ -1337,8 +1317,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Apply Kernel Protection on Windows 7 and Windows 7 SP1 - Updated
 
-* Abstract: User mode and Kernel mode software may inadvertently or purposely access the NULL (0x00000000) memory page. This memory location has been leveraged in attacks to successfully exploit a system. Microsoft developed and released the KB28131702 patch (MS13-031) for 64-bit and 32-bit versions of Windows 7 and Windows 7 SP1 to mitigate this exploitation vector. The NULL page protection is part of Windows beginning with Windows 8 and onwards. IAVA 2013-A-0080 (KB2813170) was superseded by IAVA 2015-A-0009 and IAVA 2015-A-0033. However, those IAVAs do not address the requisite post-configuration registry value stated in the IAA document.
-NOTE: This document supersedes IAA-U-OO-800824-17.
+* Abstract: User mode and Kernel mode software may inadvertently or purposely access the NULL (0x00000000) memory page. This memory location has been leveraged in attacks to successfully exploit a system. Microsoft developed and released the KB28131702 patch (MS13-031) for 64-bit and 32-bit versions of Windows 7 and Windows 7 SP1 to mitigate this exploitation vector. The NULL page protection is part of Windows beginning with Windows 8 and onwards. IAVA 2013-A-0080 (KB2813170) was superseded by IAVA 2015-A-0009 and IAVA 2015-A-0033. However, those IAVAs do not address the requisite post-configuration registry value stated in the IAA document.NOTE: This document supersedes IAA-U-OO-800824-17.
 * Date: 04/26/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/apply-kernel-protection-windows7-windows7sp1-updated.cfm>
 * Category: IA Advisories
@@ -1416,8 +1395,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Commercial Solutions for Classified Tri-fold
 
-* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.
-The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
+* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/commercial-solutions-for-classified-trifold.cfm>
 * Category: IA Guidance > Security Tips
@@ -1430,8 +1408,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Commercial Solutions for Classified Brochure
 
-* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.
-The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
+* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/commercial-solutions-for-classified.cfm>
 * Category: IA Guidance > Security Tips
@@ -1444,10 +1421,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Reducing the Risk of Simple Network Management Protocol Abuse
 
-* Abstract: SNMP provides a standardized framework for a common language that is used for monitoring and managing devices in a network. This protocol relies on the usage of a secure string, referred to as a community string, which grants access to a portion of a device's management plane.
-There are several differences between SNMPv1, v2, and v3: SNMPv2 is nearly identical to SNMPv1, except 64-bit counters were added in order to support faster interfaces. SNMPv3 replaces the simple/clear text password sharing that was used in SNMPv2 with more securely encoded parameters. All versions run over user datagram protocol (UDP).
-SNMPv3 should be the only utilized version of SNMP because it has the ability to authenticate and encrypt payloads. When either SNMPv1 or SNMPv2 are utilized, the community string could be determined by an adversary by sniffing network traffic, which could then potentially lead to a man-in-the-middle and/or replay attack.
-Using SNMPv3 by itself is not enough to prevent abuse of the protocol. Combining SNMPv3 with a Management Information Base (MIB) whitelisting approach using SNMP views can ensure that even with exposed credentials, information cannot be read from or written to the device unless the information is needed for monitoring or normal device re-configuration. The majority of devices that support SNMP contain a generic set of MIBs that are vendor agnostic, which allows for the Object Identifier (OID) to be applied to devices regardless of manufacturer.
+* Abstract: SNMP provides a standardized framework for a common language that is used for monitoring and managing devices in a network. This protocol relies on the usage of a secure string, referred to as a community string, which grants access to a portion of a device's management plane.There are several differences between SNMPv1, v2, and v3: SNMPv2 is nearly identical to SNMPv1, except 64-bit counters were added in order to support faster interfaces. SNMPv3 replaces the simple/clear text password sharing that was used in SNMPv2 with more securely encoded parameters. All versions run over user datagram protocol (UDP).SNMPv3 should be the only utilized version of SNMP because it has the ability to authenticate and encrypt payloads. When either SNMPv1 or SNMPv2 are utilized, the community string could be determined by an adversary by sniffing network traffic, which could then potentially lead to a man-in-the-middle and/or replay attack.Using SNMPv3 by itself is not enough to prevent abuse of the protocol. Combining SNMPv3 with a Management Information Base (MIB) whitelisting approach using SNMP views can ensure that even with exposed credentials, information cannot be read from or written to the device unless the information is needed for monitoring or normal device re-configuration. The majority of devices that support SNMP contain a generic set of MIBs that are vendor agnostic, which allows for the Object Identifier (OID) to be applied to devices regardless of manufacturer.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/reducing-the-risk-of-snmp-abuse.cfm>
 * Category: IA Advisories
@@ -1915,8 +1889,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Bluetooth for Unclassified Use: Guidelines for Users
 
-* Abstract: Bluetooth is a short-range wireless technology found in many commercial devices used for computing, communication, and healthcare. Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreation and business.
-As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. This document provides background on Bluetooth functionality and includes recommendations for using Bluetooth securely to mitigate possible risks.
+* Abstract: Bluetooth is a short-range wireless technology found in many commercial devices used for computing, communication, and healthcare. Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreation and business.As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. This document provides background on Bluetooth functionality and includes recommendations for using Bluetooth securely to mitigate possible risks.
 * Date: 08/04/2016
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/bluetooth-for-unclassified-use_guidelines-for-users.cfm>
 * Category: IA Guidance > Technical Briefs
@@ -1929,8 +1902,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Bluetooth for Unclassified Use: Guidelines for Developers
 
-* Abstract: Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreational and business users. The proliferation of Bluetooth into a broad range of modern personal devices has generated a demand for software applications that enable users to interact with it.
-As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. The design of any software involved in transferring data via Bluetooth should include measures to protect the user's device and data. This document provides background on Bluetooth functionality and recommendations for developing secure Bluetooth applications.
+* Abstract: Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreational and business users. The proliferation of Bluetooth into a broad range of modern personal devices has generated a demand for software applications that enable users to interact with it.As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. The design of any software involved in transferring data via Bluetooth should include measures to protect the user's device and data. This document provides background on Bluetooth functionality and recommendations for developing secure Bluetooth applications.
 * Date: 08/04/2016
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/bluetooth-for-unclassified-use_guidelines-for-developers.cfm>
 * Category: IA Guidance > Technical Briefs
@@ -2606,8 +2578,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Recommendations for Configuring Adobe Acrobat Reader XI in a Windows Environment
 
-* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.
-Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
+* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
 * Date: 09/15/2015
 * Link: <https://apps.nsa.gov/iaarchive/library/reports/recommendations-for-configuring-adobe-acrobat-reader-xi-in-a.cfm>
 * Category: Reports
@@ -2683,19 +2654,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Campus Wireless Local Area Network Registration Form
-
-* Abstract: This document is the registration form for Campus WLAN.
-* Date: 06/01/2015
-* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-campus-wlan-registration-form.cfm>
-* Category: Supporting Documents > Forms Templates
-* SHA256: B5B2C02A27092AB4AE1E1F13586445852EBAF2785DD3C027DF7F5BB2378B4C7F
-* Size: 1,017KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Virtual Private Network Registration Form
 
 * Abstract: This document is the registration form for VPN.
@@ -2703,6 +2661,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-vpn-registration-form.cfm>
 * Category: Supporting Documents > Forms Templates
 * SHA256: 55D5B36E7A53AD5696EE167766C716A8B4A313DDF9F2CC5000148DE99595FCFB
+* Size: 1,017KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Campus Wireless Local Area Network Registration Form
+
+* Abstract: This document is the registration form for Campus WLAN.
+* Date: 06/01/2015
+* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/forms-templates/csfc-campus-wlan-registration-form.cfm>
+* Category: Supporting Documents > Forms Templates
+* SHA256: B5B2C02A27092AB4AE1E1F13586445852EBAF2785DD3C027DF7F5BB2378B4C7F
 * Size: 1,017KB
 * Location: Archive
 * Access Controlled: False
@@ -2865,19 +2836,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Microsoft's Enhanced Mitigation Experience Toolkit: A Rationale for Enabling Modern Anti-Exploritation Mitigations in Windows
-
-* Abstract: Microsoft's Enhanced Mitigation Experience Toolkit (EMET) is an enhancement to the Windows operating system that stops broad classes of malware from executing. EMET implements a set of anti-exploitation mitigations that prevent the successful exploitation of memory corruption vulnerabilities in software, including many zero-day and buffer overflow attacks.
-* Date: 10/01/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/microsofts-emet-a-rationale-for-enabling-modern.cfm>
-* Category: IA Guidance > Security Configuration > Operating Systems
-* SHA256: 1D0A10F5C35908D01A16F1A39E8491421043CBEE931D59706C1DC0045CB86C29
-* Size: 1,275KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Understanding the Enhanced Mitigation Experience Toolkit Frequently Asked Questions
 
 * Abstract: This document contains Frequently Asked Questions regarding EMET
@@ -2891,14 +2849,27 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Critical Focus Areas of Cyber Incident Response Assistance
+### Microsoft's Enhanced Mitigation Experience Toolkit: A Rationale for Enabling Modern Anti-Exploritation Mitigations in Windows
 
-* Abstract: This document provides an overview of the 21 critical focus areas that are part of the NSCAP CIRA accreditation.
+* Abstract: Microsoft's Enhanced Mitigation Experience Toolkit (EMET) is an enhancement to the Windows operating system that stops broad classes of malware from executing. EMET implements a set of anti-exploitation mitigations that prevent the successful exploitation of memory corruption vulnerabilities in software, including many zero-day and buffer overflow attacks.
+* Date: 10/01/2014
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/microsofts-emet-a-rationale-for-enabling-modern.cfm>
+* Category: IA Guidance > Security Configuration > Operating Systems
+* SHA256: 1D0A10F5C35908D01A16F1A39E8491421043CBEE931D59706C1DC0045CB86C29
+* Size: 1,275KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### National Security Cyber Assistance Program Brochure
+
+* Abstract: This brochure provides an overview of the National Security Cyber Assistance Program, CIRA accreditation, and a description of the 21 NSCAP focus areas.
 * Date: 09/12/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/critical-focus-areas-of-cira.cfm>
-* Category: Supporting Documents
-* SHA256: 092637396E17574D587D102AEC1B5F6E7D9AD1C6398C0D0EC2049C72B9402068
-* Size: 846KB
+* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/brochures/nscap.cfm>
+* Category: Supporting Documents > Brochures
+* SHA256: 689D8CF8FBD61A38723C6DF275C5DFDD19C78FF73372D4667E73100B2A431FC8
+* Size: 3,370KB
 * Location: Archive
 * Access Controlled: False
 
@@ -2917,14 +2888,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### National Security Cyber Assistance Program Brochure
+### Critical Focus Areas of Cyber Incident Response Assistance
 
-* Abstract: This brochure provides an overview of the National Security Cyber Assistance Program, CIRA accreditation, and a description of the 21 NSCAP focus areas.
+* Abstract: This document provides an overview of the 21 critical focus areas that are part of the NSCAP CIRA accreditation.
 * Date: 09/12/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/brochures/nscap.cfm>
-* Category: Supporting Documents > Brochures
-* SHA256: 689D8CF8FBD61A38723C6DF275C5DFDD19C78FF73372D4667E73100B2A431FC8
-* Size: 3,370KB
+* Link: <https://apps.nsa.gov/iaarchive/library/supporting-documents/critical-focus-areas-of-cira.cfm>
+* Category: Supporting Documents
+* SHA256: 092637396E17574D587D102AEC1B5F6E7D9AD1C6398C0D0EC2049C72B9402068
+* Size: 846KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3034,14 +3005,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Best Practices for Keeping Your Home Network Secure
+### Identity Theft Threat and Mitigations
 
-* Abstract: This document contains information about best practices in order to keep your home network secure.
+* Abstract: This document contains information about the threat of identity theft and how to prevent it.
 * Date: 05/01/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/best-practices-for-keeping-your-home-network-secure.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: E97985B6AE094245ECD2BCA90D28F89CB1D708E7622DB9EEE5FAFC585C3C768D
-* Size: 1,894KB
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/identity-theft-threat-and-mitigations.cfm>
+* Category: IA Guidance > Technical Briefs
+* SHA256: E66DC20BD55760CAE33EB3856ED0209AEAF1F769D246EDB3F19CE2D8CDA1FDBD
+* Size: 2,374KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3060,14 +3031,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Identity Theft Threat and Mitigations
+### Best Practices for Keeping Your Home Network Secure
 
-* Abstract: This document contains information about the threat of identity theft and how to prevent it.
+* Abstract: This document contains information about best practices in order to keep your home network secure.
 * Date: 05/01/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/identity-theft-threat-and-mitigations.cfm>
-* Category: IA Guidance > Technical Briefs
-* SHA256: E66DC20BD55760CAE33EB3856ED0209AEAF1F769D246EDB3F19CE2D8CDA1FDBD
-* Size: 2,374KB
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/best-practices-for-keeping-your-home-network-secure.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: E97985B6AE094245ECD2BCA90D28F89CB1D708E7622DB9EEE5FAFC585C3C768D
+* Size: 1,894KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3112,19 +3083,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Random Number Generators: Introduction for Application Developers
-
-* Abstract: Key material generation is as important to strong cryptosystems as the algorithms used. Weak random number generators (RNGs) have been known to create key material that is guessable by adversaries1, making the strength of the algorithms irrelevant in cryptographic attacks. This paper, intended for application developers, provides an overview of considerations developers should be making when using RNGs, outlines how RNGs work, and gives guidance for applications needing RNG services.
-* Date: 03/01/2014
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/random-number-generators-introduction-for-application.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: 8E94365FB3B9B62D3FC4518694C7DF14D1C9F750A62B0BCFB2519DD9DD511324
-* Size: 582KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Random Number Generators: Introduction for Operating System Developers
 
 * Abstract: Key material generation is as important to strong cryptosystems as the algorithms used. Weak random number generators (RNGs) have been known to create key material that is guessable by adversaries1, making the strength of the algorithms irrelevant in cryptographic attacks. This paper, intended for operating system developers, provides an overview of considerations developers should be making when designing and using RNGs, outlines how RNGs work, and gives recommendations for developing and using RNGs.
@@ -3133,6 +3091,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: IA Guidance > Security Tips
 * SHA256: A0CAFA06635E42C20F984502DD038B8DCD1088ED5499698D34A33F9F5058C153
 * Size: 644KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Random Number Generators: Introduction for Application Developers
+
+* Abstract: Key material generation is as important to strong cryptosystems as the algorithms used. Weak random number generators (RNGs) have been known to create key material that is guessable by adversaries1, making the strength of the algorithms irrelevant in cryptographic attacks. This paper, intended for application developers, provides an overview of considerations developers should be making when using RNGs, outlines how RNGs work, and gives guidance for applications needing RNG services.
+* Date: 03/01/2014
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/random-number-generators-introduction-for-application.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: 8E94365FB3B9B62D3FC4518694C7DF14D1C9F750A62B0BCFB2519DD9DD511324
+* Size: 582KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3190,66 +3161,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Cloud Security Considerations
+### Web Domain Name System Reputation
 
-* Abstract: Cloud services are a recent model for information technology implementation and management. The cost advantages are a driving force, with security often as a secondary consideration.
+* Abstract: Danger could be lurking behind any website. Cyber adversaries routinely hack into legitimate websites or create their own malicious sites to upload malware to the computers of unsuspecting web visitors.
 * Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/cloud-security-considerations.cfm>
-* Category: IA Guidance > Technical Briefs
-* SHA256: ACCE0635A0A94CD69029FC78F53DD368C2C16847880335346AF14D62490AFE0F
-* Size: 1,046KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### Control Administrative Privileges
-
-* Abstract: Administrative privileges on a computer system allow access to resources that are unavailable to most users and permit the execution of actions that would otherwise be restricted.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/control-administrative-privileges.cfm>
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/web-domain-name-system-reputation.cfm>
 * Category: IA Guidance > Security Tips
-* SHA256: 545BACA6224B06902BA3B6DB75AF1A815B27026EFC3BA769CE3903F6A79E7FEE
-* Size: 655KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### Application Whitelisting
-
-* Abstract: Application Whitelisting is a proactive security technique that only allows a limited set of approved programs to run, while blocking all other programs (including most malware) from running by default.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/application-whitelisting.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: 786ABDB394F7FD5466467E43C4BCF689C78C806E6258E283D884867396E68F40
-* Size: 597KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### Anti-Exploitation Features
-
-* Abstract: Cyber attackers want access to your sensitive information or intellectual property for strategic advantage, or more commonly, for monetary gain. They commonly attempt to exploit vulnerabilities in your computer system and network by using malware delivered via email or web servers.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-exploitation-features.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: CBECB51432EF1C4C9EB1447CD043B0D09ACDDEB8E1546BEE0066629FAFC57532
-* Size: 520KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### Anti-Virus File Reputation Services
-
-* Abstract: In today's netspeed environment, traditional antivirus protection is not enough. The majority of antivirus products rely on signature or hash-based methods of detecting "known-bad" activity or files.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-virus-reputation-services.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: 8BF78496DB0B04D46C552AE41D44A9F2C3248989D36BDA060F719B4D6CF017B5
-* Size: 528KB
+* SHA256: BF05F3E2928AD32B80A91A6C6733D4200761037C2FCE8F3BE89B631E877F0B91
+* Size: 712KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3268,19 +3187,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Web Domain Name System Reputation
-
-* Abstract: Danger could be lurking behind any website. Cyber adversaries routinely hack into legitimate websites or create their own malicious sites to upload malware to the computers of unsuspecting web visitors.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/web-domain-name-system-reputation.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: BF05F3E2928AD32B80A91A6C6733D4200761037C2FCE8F3BE89B631E877F0B91
-* Size: 712KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Secure Host Baseline
 
 * Abstract: A Secure Host Baseline (SHB) is a pre-configured and security hardened machine-ready image that contains an organization's common Operating Systems (OS) and application software.
@@ -3289,19 +3195,6 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: IA Guidance > Security Tips
 * SHA256: AE1ABE6B565A06481068200591DFF4F2A55FB2EAED6ED82061D635B33A291CEB
 * Size: 491KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### Host Intrusion Prevention Systems
-
-* Abstract: maintaining the health or integrity of individual hosts — HIPS is a valuable component used to defend computer host integrity.
-* Date: 10/31/2013
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/host-intrusion-prevention-systems.cfm>
-* Category: IA Guidance > Security Tips
-* SHA256: 68CF00497DF4848315D922250808D0998600DE80BE6309583947492F04D7EED8
-* Size: 618KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3320,10 +3213,87 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
+### Host Intrusion Prevention Systems
+
+* Abstract: maintaining the health or integrity of individual hosts — HIPS is a valuable component used to defend computer host integrity.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/host-intrusion-prevention-systems.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: 68CF00497DF4848315D922250808D0998600DE80BE6309583947492F04D7EED8
+* Size: 618KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Control Administrative Privileges
+
+* Abstract: Administrative privileges on a computer system allow access to resources that are unavailable to most users and permit the execution of actions that would otherwise be restricted.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/control-administrative-privileges.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: 545BACA6224B06902BA3B6DB75AF1A815B27026EFC3BA769CE3903F6A79E7FEE
+* Size: 655KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Cloud Security Considerations
+
+* Abstract: Cloud services are a recent model for information technology implementation and management. The cost advantages are a driving force, with security often as a secondary consideration.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/cloud-security-considerations.cfm>
+* Category: IA Guidance > Technical Briefs
+* SHA256: ACCE0635A0A94CD69029FC78F53DD368C2C16847880335346AF14D62490AFE0F
+* Size: 1,046KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Application Whitelisting
+
+* Abstract: Application Whitelisting is a proactive security technique that only allows a limited set of approved programs to run, while blocking all other programs (including most malware) from running by default.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/application-whitelisting.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: 786ABDB394F7FD5466467E43C4BCF689C78C806E6258E283D884867396E68F40
+* Size: 597KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Anti-Virus File Reputation Services
+
+* Abstract: In today's netspeed environment, traditional antivirus protection is not enough. The majority of antivirus products rely on signature or hash-based methods of detecting "known-bad" activity or files.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-virus-reputation-services.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: 8BF78496DB0B04D46C552AE41D44A9F2C3248989D36BDA060F719B4D6CF017B5
+* Size: 528KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Anti-Exploitation Features
+
+* Abstract: Cyber attackers want access to your sensitive information or intellectual property for strategic advantage, or more commonly, for monetary gain. They commonly attempt to exploit vulnerabilities in your computer system and network by using malware delivered via email or web servers.
+* Date: 10/31/2013
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/anti-exploitation-features.cfm>
+* Category: IA Guidance > Security Tips
+* SHA256: CBECB51432EF1C4C9EB1447CD043B0D09ACDDEB8E1546BEE0066629FAFC57532
+* Size: 520KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
 ### Recommendations for Configuring Adobe Acrobat Reader XI in a Windows Environment
 
-* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.
-Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
+* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
 * Date: 07/12/2013
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/recommendations-for-configuring-adobe-acrobat-reader-xi-in-a.cfm>
 * Category: IA Guidance > Security Configuration > Applications
@@ -3490,19 +3460,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Mobile Device Management: A Risk Discussion for IT Decision Makers
-
-* Abstract: This document describes the high-level architecture and capabilities of MDM solutions, and introduces key security issues to consider when deploying them.
-* Date: 08/01/2012
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-a-risk-discussion-for-it-decision.cfm>
-* Category: IA Guidance > Technical Briefs
-* SHA256: 77C15151C4883363DAC6540440074D6445B35A4684B59C20DC789ED54E5770A3
-* Size: 734KB
-* Location: Archive
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### Mobile Device Management: Capability Gaps for High-Security Use Cases
 
 * Abstract: This paper, intended for mobile device platform vendors as well as risk decision makers, provides an overview of MDM platform components and then outlines these gaps in capability.
@@ -3510,6 +3467,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-capability-gaps-for-high-security.cfm>
 * Category: IA Guidance > Technical Briefs
 * SHA256: 9C4A32E716C0FF15CCAA9D6B8F0668D5A480975EFE2DE0E45FA011DDC2DDA9EA
+* Size: 734KB
+* Location: Archive
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Mobile Device Management: A Risk Discussion for IT Decision Makers
+
+* Abstract: This document describes the high-level architecture and capabilities of MDM solutions, and introduces key security issues to consider when deploying them.
+* Date: 08/01/2012
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/mobile-device-management-a-risk-discussion-for-it-decision.cfm>
+* Category: IA Guidance > Technical Briefs
+* SHA256: 77C15151C4883363DAC6540440074D6445B35A4684B59C20DC789ED54E5770A3
 * Size: 734KB
 * Location: Archive
 * Access Controlled: False
@@ -3765,8 +3735,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Guide to the Secure Configuration of Red Hat Enterprise Linux 5
 
-* Abstract: The purpose of this guide is to provide security configuration recommendations for the Red Hat Enterprise Linux (RHEL) 5 operating system. The guidance provided here should be applicable to all variants (Desktop, Server, Advanced Platform) of the product. Recommended settings for the basic operating system are provided, as well as for many commonly-used services that the system can host in a network environment.
-The guide is intended for system administrators. Readers are assumed to possess basic system administration skills for Unix-like systems, as well as some familiarity with Red Hat's documentation and administration conventions. Some instructions within this guide are complex. All directions should be followed completely and with understanding of their effects in order to avoid serious adverse effects on the system and its security.
+* Abstract: The purpose of this guide is to provide security configuration recommendations for the Red Hat Enterprise Linux (RHEL) 5 operating system. The guidance provided here should be applicable to all variants (Desktop, Server, Advanced Platform) of the product. Recommended settings for the basic operating system are provided, as well as for many commonly-used services that the system can host in a network environment.The guide is intended for system administrators. Readers are assumed to possess basic system administration skills for Unix-like systems, as well as some familiarity with Red Hat's documentation and administration conventions. Some instructions within this guide are complex. All directions should be followed completely and with understanding of their effects in order to avoid serious adverse effects on the system and its security.
 * Date: 08/26/2011
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/guide-to-the-secure-configuration-of-red-hat-enterprise.cfm>
 * Category: IA Guidance > Security Configuration > Operating Systems
@@ -3920,14 +3889,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Application Whitelisting
+### Cisco Unified Presence Server
 
-* Abstract: This document provides an overview of Application Whitelisting, including what it is, why one should use it, and how to enforce it.
+* Abstract: This document goes over Cisco Unifed Presence Server (CUPS) and what it is, the functions, risks, etc.
 * Date: 08/01/2010
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/application-whitelisting-trifold.cfm>
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/cups.cfm>
 * Category: IA Guidance > Archive
-* SHA256: 2F2797B6D84D42A57B67DB86BB982E96AA2822E61D83B50DD84C004D661E523F
-* Size: 543KB
+* SHA256: D73CF95F6B46F8852258AFAC99268F1B6317EDEDCA43B2A15E177A62BF51F33C
+* Size: 535KB
 * Location: Archive
 * Access Controlled: False
 
@@ -3946,14 +3915,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Cisco Unified Presence Server
+### Application Whitelisting
 
-* Abstract: This document goes over Cisco Unifed Presence Server (CUPS) and what it is, the functions, risks, etc.
+* Abstract: This document provides an overview of Application Whitelisting, including what it is, why one should use it, and how to enforce it.
 * Date: 08/01/2010
-* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/cups.cfm>
+* Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/archive/application-whitelisting-trifold.cfm>
 * Category: IA Guidance > Archive
-* SHA256: D73CF95F6B46F8852258AFAC99268F1B6317EDEDCA43B2A15E177A62BF51F33C
-* Size: 535KB
+* SHA256: 2F2797B6D84D42A57B67DB86BB982E96AA2822E61D83B50DD84C004D661E523F
+* Size: 543KB
 * Location: Archive
 * Access Controlled: False
 
@@ -4039,9 +4008,7 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Suite B Implementer's Guide to Federal Information Processing Standard 186-3
 
-* Abstract: This document specifies the Elliptic Curve Digital Signature Algorithm (ECDSA) from the "Digital Signature Standard" [FIPS186-3] that will be used in future and existing cryptographic protocols for Suite B products. It also includes the Suite B elliptic curve domain parameters, (NIST curves P-256 and P-384), along with example data for the ECDSA signature algorithm on these curves and auxiliary functions that are necessary for ECDSA implementations to be in compliance with [FIPS186-3] and Suite B.
-[FIPS186-3] defines methods for digital signature generation that can be used for the authentication of binary data (commonly called a message), and for the verification and validation of those digital signatures. One of the approved techniques is the Elliptic Curve Digital Signature Algorithm (ECDSA) but additional requirements are specified.
-This document includes requirements for obtaining the assurances necessary for valid digital signatures. Methods for obtaining these assurances are provided in the NIST Special Publication [SP800-89].
+* Abstract: This document specifies the Elliptic Curve Digital Signature Algorithm (ECDSA) from the "Digital Signature Standard" [FIPS186-3] that will be used in future and existing cryptographic protocols for Suite B products. It also includes the Suite B elliptic curve domain parameters, (NIST curves P-256 and P-384), along with example data for the ECDSA signature algorithm on these curves and auxiliary functions that are necessary for ECDSA implementations to be in compliance with [FIPS186-3] and Suite B.[FIPS186-3] defines methods for digital signature generation that can be used for the authentication of binary data (commonly called a message), and for the verification and validation of those digital signatures. One of the approved techniques is the Elliptic Curve Digital Signature Algorithm (ECDSA) but additional requirements are specified.This document includes requirements for obtaining the assurances necessary for valid digital signatures. Methods for obtaining these assurances are provided in the NIST Special Publication [SP800-89].
 * Date: 02/03/2010
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/suite-b-implementers-guide-to-fips-186-3-ecdsa.cfm>
 * Category: IA Guidance > IA Solutions For Classified > Algorithm Guidance
@@ -4051,3 +4018,5 @@ This document includes requirements for obtaining the assurances necessary for v
 * Access Controlled: False
 
 Return to the [Table of Contents](#table-of-contents).
+
+
