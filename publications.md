@@ -1,9 +1,9 @@
-﻿This page lists NSA Cybersecurity publications.
+This page lists NSA Cybersecurity publications.
 
 * Current NSA Cybersecurity publications can be found under the **Resources for Cybersecurity Professionals** section at <https://www.nsa.gov/what-we-do/cybersecurity/>
-* Archived NSA Information Assurance and Information Assurance Directorate publications can found at <https://apps.nsa.gov/iaarchive/library> (formerly  <https://www.iad.gov>)
+* Archived NSA Information Assurance and Information Assurance Directorate publications can be found at <https://apps.nsa.gov/iaarchive/library> (formerly  <https://www.iad.gov>)
 
-A zip file containing publications from both pages can be downloaded from <https://github.com/nsacyber/Cybersecurity-Library/releases>
+A zip file containing publications from both pages can be downloaded from <https://github.com/nsacyber/nsacyber.github.io/releases/latest>
 
 \* notes when authorization is required to access a publication.
 
@@ -4018,5 +4018,3 @@ Return to the [Table of Contents](#table-of-contents).
 * Access Controlled: False
 
 Return to the [Table of Contents](#table-of-contents).
-
-
