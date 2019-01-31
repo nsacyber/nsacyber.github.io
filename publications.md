@@ -18,18 +18,18 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Identity Theft Threat and Mitigations](https://apps.nsa.gov/iaarchive/library/supporting-documents/faq/identity-theft-threat-and-mitigations.cfm) ([more...](#identity-theft-threat-and-mitigations)) | Archive | Sep 2018 | 316KB |
 | [Best Practices for Keeping Your Home Network Secure](https://apps.nsa.gov/iaarchive/library/supporting-documents/faq/best-practices-for-keeping-your-home-network-secure.cfm) ([more...](#best-practices-for-keeping-your-home-network-secure)) | Archive | Sep 2018 | 291KB |
 | [A Guide to Border Gateway Protocol (BGP) Best Practices](https://apps.nsa.gov/iaarchive/library/reports/a-guide-to-border-gateway-protocol-bgp-best-practices.cfm) ([more...](#a-guide-to-border-gateway-protocol-bgp-best-practices)) | Archive | Sep 2018 | 222KB |
-| [Identity Theft Threat and Mitigations](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-indentity-theft-threat-and-mitigations.pdf) ([more...](#identity-theft-threat-and-mitigations-1)) | Current | Sep 2018 | 789KB |
-| [A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf) ([more...](#a-guide-to-border-gateway-protocol-bgp-best-practices-1)) | Current | Sep 2018 | 1,117KB |
 | [Best Practices for Keeping Your Home Network Secure](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-best-practices-for-keeping-home-network-secure.pdf) ([more...](#best-practices-for-keeping-your-home-network-secure-1)) | Current | Sep 2018 | 577KB |
+| [A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf) ([more...](#a-guide-to-border-gateway-protocol-bgp-best-practices-1)) | Current | Sep 2018 | 1,117KB |
+| [Identity Theft Threat and Mitigations](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-indentity-theft-threat-and-mitigations.pdf) ([more...](#identity-theft-threat-and-mitigations-1)) | Current | Sep 2018 | 789KB |
 | [Cloud Security Basics](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/cloud-security-basics.cfm) ([more...](#cloud-security-basics)) | Archive | Aug 2018 | 215KB |
 | [Cloud Security Basics](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf) ([more...](#cloud-security-basics-1)) | Current | Aug 2018 | 628KB |
 | [Blocking Unnecessary Advertising Web Content](https://apps.nsa.gov/iaarchive/library/supporting-documents/blocking-unnecessary-advertising-web-content.cfm) ([more...](#blocking-unnecessary-advertising-web-content)) | Archive | Jul 2018 | 203KB |
 | [Blocking Unnecessary Advertising Web Content](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-blocking-unnecessary-advertising-web-content.pdf) ([more...](#blocking-unnecessary-advertising-web-content-1)) | Current | Jul 2018 | 505KB |
 | [WPA3 will Enhance Wi-Fi Security](https://apps.nsa.gov/iaarchive/library/reports/wpa3-will-enhance-wi-fi-security.cfm) ([more...](#wpa3-will-enhance-wi-fi-security)) | Archive | Jun 2018 | 441KB |
 | [Mobile Device Best Practices When Traveling OCONUS](https://apps.nsa.gov/iaarchive/library/supporting-documents/mobile-device-best-practices-when-traveling-oconus.cfm) ([more...](#mobile-device-best-practices-when-traveling-oconus)) | Archive | Jun 2018 | 234KB |
-| [WPA3 Will Enhance Wi-Fi Security](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-cybersecurity-technical-report-wpa3.pdf) ([more...](#wpa3-will-enhance-wi-fi-security-1)) | Current | Jun 2018 | 709KB |
 | [How to fulfill the Requirement to Upgrade Symantec Proxy CAS](https://apps.nsa.gov/PartnerLibrary/CSA_How_to_Fulfill_the_Requirement_to_Upgrade_Symantec_Proxy_CAS.pdf) ([more...](#how-to-fulfill-the-requirement-to-upgrade-symantec-proxy-cas))* | Current | Jun 2018 |  |
 | [WordPress Plugin WP Symposium Remote Code Execution CVE-2014-10021](https://apps.nsa.gov/PartnerLibrary/CSA_Cybersecurity_Advisory_Wordpress_Symposium.pdf) ([more...](#wordpress-plugin-wp-symposium-remote-code-execution-cve-2014-10021))* | Current | Jun 2018 |  |
+| [WPA3 Will Enhance Wi-Fi Security](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-cybersecurity-technical-report-wpa3.pdf) ([more...](#wpa3-will-enhance-wi-fi-security-1)) | Current | Jun 2018 | 709KB |
 | [Steps to Secure Web Browsing](https://apps.nsa.gov/iaarchive/library/reports/steps-to-secure-web-browsing.cfm) ([more...](#steps-to-secure-web-browsing)) | Archive | May 2018 | 135KB |
 | [Mobile Device Best Practices When Traveling OCONUS](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-mobile-device-best-practices-when-traveling-oconus.pdf) ([more...](#mobile-device-best-practices-when-traveling-oconus-1)) | Current | May 2018 | 319KB |
 | [Steps to Secure Web Browsing](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-steps-to-secure-web-browsing.pdf) ([more...](#steps-to-secure-web-browsing-1)) | Current | May 2018 | 461KB |
@@ -39,13 +39,14 @@ A zip file containing publications from both pages can be downloaded from <https
 | [Seven Steps to Effectively Defend Industrial Control Systems](https://apps.nsa.gov/iaarchive/library/reports/seven-steps-to-effectively-defend-industrial-control-systems.cfm) ([more...](#seven-steps-to-effectively-defend-industrial-control-systems)) | Archive | Apr 2018 | 797KB |
 | [Windows 10 for Enterprises Security Benefits of Timely Adoption](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-windows-10-for-enterprise-security-benefits-of-timely-adoption.pdf) ([more...](#windows-10-for-enterprises-security-benefits-of-timely-adoption-1)) | Current | Apr 2018 | 379KB |
 | [Multiple Critical Vulnerabilities Identified in CISCO Smart Install](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/orn-cisco-smart-install.pdf) ([more...](#multiple-critical-vulnerabilities-identified-in-cisco-smart-install-1)) | Current | Apr 2018 | 451KB |
+| [Drupal Unauthenticated Remote Code Execution Vulnerability](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-drupal-remote-code-execution-vulnerability-cve.pdf) ([more...](#drupal-unauthenticated-remote-code-execution-vulnerability)) | Current | Apr 2018 | 289KB |
 | [UNFETTER](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/unfetter.cfm) ([more...](#unfetter)) | Archive | Mar 2018 | 730KB |
 | [NSA/CSS Technical Cyber Threat Framework v1](https://apps.nsa.gov/iaarchive/library/reports/nsa-css-technical-cyber-threat-framework-v1.cfm) ([more...](#nsacss-technical-cyber-threat-framework-v1)) | Archive | Mar 2018 | 1,275KB |
 | [NSAs Top Ten Cybersecurity Mitigation Strategies](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/nsas-top-ten-cybersecurity-mitigation-strategies.cfm) ([more...](#nsas-top-ten-cybersecurity-mitigation-strategies)) | Archive | Mar 2018 | 194KB |
+| [NCTOC Top 5 Security Operations Center (SOC) Principles](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf) ([more...](#nctoc-top-5-security-operations-center-soc-principles)) | Current | Mar 2018 | 126KB |
 | [UNFETTER](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-unfetter.pdf?v=2) ([more...](#unfetter-1)) | Current | Mar 2018 | 494KB |
 | [Top 10 Mitigation Strategies](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf) ([more...](#top-10-mitigation-strategies)) | Current | Mar 2018 | 348KB |
 | [UEFI Lockdown Quick Guidance](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf) ([more...](#uefi-lockdown-quick-guidance)) | Current | Mar 2018 | 416KB |
-| [NCTOC Top 5 Security Operations Center (SOC) Principles](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf) ([more...](#nctoc-top-5-security-operations-center-soc-principles)) | Current | Mar 2018 | 126KB |
 | [UEFI Advantages Over Legacy Mode](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf) ([more...](#uefi-advantages-over-legacy-mode)) | Current | Mar 2018 | 336KB |
 | [Unified Extensible Firmware Interface (UEFI) Advantages](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/cfs-u-oo-111747-18.cfm) ([more...](#unified-extensible-firmware-interface-uefi-advantages)) | Archive | Feb 2018 | 352KB |
 | [Cisco Updates Critical Remote Code Execution Vulnerability Advisory for ASA](https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/iaa-u-oo-11303-18.cfm) ([more...](#cisco-updates-critical-remote-code-execution-vulnerability-advisory-for-asa)) | Archive | Feb 2018 | 197KB |
@@ -368,14 +369,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Identity Theft Threat and Mitigations
+### Best Practices for Keeping Your Home Network Secure
 
 * Abstract: 
 * Date: 09/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-indentity-theft-threat-and-mitigations.pdf>
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-best-practices-for-keeping-home-network-secure.pdf>
 * Category: Info Sheet
-* SHA256: A4C4FAC93E75CF1B723F7313D114BF2E785A04AF0882494A5DA07BA326F5DECA
-* Size: 789KB
+* SHA256: 125C8C30AAAE99FEA3307977B94133D97489657023233C6AF3BB7411C1FA7718
+* Size: 577KB
 * Location: Current
 * Access Controlled: False
 
@@ -394,14 +395,14 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### Best Practices for Keeping Your Home Network Secure
+### Identity Theft Threat and Mitigations
 
 * Abstract: 
 * Date: 09/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-best-practices-for-keeping-home-network-secure.pdf>
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-indentity-theft-threat-and-mitigations.pdf>
 * Category: Info Sheet
-* SHA256: 125C8C30AAAE99FEA3307977B94133D97489657023233C6AF3BB7411C1FA7718
-* Size: 577KB
+* SHA256: A4C4FAC93E75CF1B723F7313D114BF2E785A04AF0882494A5DA07BA326F5DECA
+* Size: 789KB
 * Location: Current
 * Access Controlled: False
 
@@ -485,19 +486,6 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
-### WPA3 Will Enhance Wi-Fi Security
-
-* Abstract: 
-* Date: 06/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-cybersecurity-technical-report-wpa3.pdf>
-* Category: Tech Report
-* SHA256: 4FB0E3FA574F33AA33E2FD7F146664224961B10CE3551B07AC8410CDCA78B89E
-* Size: 709KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
 ### How to fulfill the Requirement to Upgrade Symantec Proxy CAS
 
 * Abstract: 
@@ -521,6 +509,19 @@ Return to the [Table of Contents](#table-of-contents).
 * Size: 
 * Location: Current
 * Access Controlled: True
+
+Return to the [Table of Contents](#table-of-contents).
+
+### WPA3 Will Enhance Wi-Fi Security
+
+* Abstract: 
+* Date: 06/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-cybersecurity-technical-report-wpa3.pdf>
+* Category: Tech Report
+* SHA256: 4FB0E3FA574F33AA33E2FD7F146664224961B10CE3551B07AC8410CDCA78B89E
+* Size: 709KB
+* Location: Current
+* Access Controlled: False
 
 Return to the [Table of Contents](#table-of-contents).
 
@@ -641,6 +642,19 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
+### Drupal Unauthenticated Remote Code Execution Vulnerability
+
+* Abstract: 
+* Date: 04/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-drupal-remote-code-execution-vulnerability-cve.pdf>
+* Category: Advisory
+* SHA256: 44DD85285D2F319F653168DA185D10CD26515DED335DDC11DA8D1E4F9D1D740C
+* Size: 289KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
 ### UNFETTER
 
 * Abstract: Unfetter is bringing Net Defenders and Threat Analysts together for the first time. Net Defenders need the ability to make operational decisions based on complex threat data published by Threat Analysts. A unique platform that unifies the Net Defender and Threat Analyst communities, Unfetter breaks down barriers through seamless data sharing across the enterprise.By enabling the real-time exchange of threat data and analytics based on the MITRE ATT&CKTM Framework, Unfetter allows organizations to evaluate and implement defensive measures based on effectiveness and value.
@@ -680,6 +694,19 @@ Return to the [Table of Contents](#table-of-contents).
 
 Return to the [Table of Contents](#table-of-contents).
 
+### NCTOC Top 5 Security Operations Center (SOC) Principles
+
+* Abstract: 
+* Date: 03/01/2018
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf>
+* Category: Info Sheet
+* SHA256: 0186E633981F22489DB0AA37FA207BB2082C4F096E549B83336F0EF30CE4C5CE
+* Size: 126KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
 ### UNFETTER
 
 * Abstract: 
@@ -714,19 +741,6 @@ Return to the [Table of Contents](#table-of-contents).
 * Category: Info Sheet
 * SHA256: D428CF61940FC2BC9D63BA8E58525E2B56D34752B8B6816788602ED9EF08E7E5
 * Size: 416KB
-* Location: Current
-* Access Controlled: False
-
-Return to the [Table of Contents](#table-of-contents).
-
-### NCTOC Top 5 Security Operations Center (SOC) Principles
-
-* Abstract: 
-* Date: 03/01/2018
-* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/nctoc-top-5-soc-principles.pdf>
-* Category: Info Sheet
-* SHA256: 0186E633981F22489DB0AA37FA207BB2082C4F096E549B83336F0EF30CE4C5CE
-* Size: 126KB
 * Location: Current
 * Access Controlled: False
 
