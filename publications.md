@@ -13,6 +13,10 @@ A zip file containing publications from both pages can be downloaded from <https
 
 | Title | Location | Date | Size |
 | --- | --- | --- | --- |
+| [Patch Remote Desktop Services On Legacy Versions of Windows](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-bluekeep_20190604.pdf?ver=2019-06-04-123329-617) ([more...](#patch-remote-desktop-services-on-legacy-versions-of-windows)) | Current | Jun 2019 | 416KB |
+| [Limiting ptrace on Production Linux Systems](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-limiting-ptrace-on-production-linux-systems.pdf?ver=2019-05-16-151825-133) ([more...](#limiting-ptrace-on-production-linux-systems)) | Current | May 2019 | 128KB |
+| [Update Earlier Versions of Solaris to 11.4](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-upgrade-solaris11-4.pdf?ver=2019-03-14-093217-840) ([more...](#update-earlier-versions-of-solaris-to-114)) | Current | Mar 2019 | 422KB |
+| [Updated Guidance For Vulnerabilities Affecting Modern Processors](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/CSA_Updated_Guidance_For_Vulnerabilities_Affecting_Modern_Processors_20190130.pdf?ver=2019-01-30-142631-553) ([more...](#updated-guidance-for-vulnerabilities-affecting-modern-processors)) | Current | Jan 2019 | 322KB |
 | [NSA/CSS Technical Cyber Threat Framework v2](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-nsa-css-technical-cyber-threat-framework.pdf) ([more...](#nsacss-technical-cyber-threat-framework-v2)) | Current | Nov 2018 | 2,150KB |
 | [2018 Cybersecurity Highlights](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cybersecurity-highlights-2018.pdf) ([more...](#2018-cybersecurity-highlights)) | Current | Oct 2018 | 416KB |
 | [Identity Theft Threat and Mitigations](https://apps.nsa.gov/iaarchive/library/supporting-documents/faq/identity-theft-threat-and-mitigations.cfm) ([more...](#identity-theft-threat-and-mitigations)) | Archive | Sep 2018 | 316KB |
@@ -303,6 +307,58 @@ A zip file containing publications from both pages can be downloaded from <https
 
 
 ## Publications
+
+### Patch Remote Desktop Services On Legacy Versions of Windows
+
+* Abstract: 
+* Date: 06/01/2019
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-bluekeep_20190604.pdf?ver=2019-06-04-123329-617>
+* Category: Advisory
+* SHA256: 3B065C245CEB7B5B35C44EE82223434FF5DED69CAE64CA0AB2B8FF2B937FA6F0
+* Size: 416KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Limiting ptrace on Production Linux Systems
+
+* Abstract: 
+* Date: 05/01/2019
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-limiting-ptrace-on-production-linux-systems.pdf?ver=2019-05-16-151825-133>
+* Category: Info Sheet
+* SHA256: C15D35F9F1F6A9F939028C41C2D5E5F6FEAAF49DD9ADC7B4A34A401C833F156C
+* Size: 128KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Update Earlier Versions of Solaris to 11.4
+
+* Abstract: 
+* Date: 03/01/2019
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-upgrade-solaris11-4.pdf?ver=2019-03-14-093217-840>
+* Category: Advisory
+* SHA256: C337EFFFBA49CF2F7671517D6253580B6EBF74098EF333FC8271C978D19ABDF6
+* Size: 422KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
+
+### Updated Guidance For Vulnerabilities Affecting Modern Processors
+
+* Abstract: 
+* Date: 01/01/2019
+* Link: <https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/CSA_Updated_Guidance_For_Vulnerabilities_Affecting_Modern_Processors_20190130.pdf?ver=2019-01-30-142631-553>
+* Category: Advisory
+* SHA256: F2F827B4361DC505870EA5AC8F1585E84F30347875D870B738AFCAD16A68351A
+* Size: 322KB
+* Location: Current
+* Access Controlled: False
+
+Return to the [Table of Contents](#table-of-contents).
 
 ### NSA/CSS Technical Cyber Threat Framework v2
 

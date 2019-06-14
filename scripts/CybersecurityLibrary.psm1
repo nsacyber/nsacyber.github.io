@@ -38,7 +38,7 @@ Function Invoke-PageDownload() {
     $params = @{
         Uri = $Url;
         Method = 'Get';
-        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36';
+        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36';
     }
 
     $proxyUri = [System.Net.WebRequest]::GetSystemWebProxy().GetProxy($uri)
@@ -83,7 +83,7 @@ Function Invoke-FileDownload() {
         Uri = $uri;
         Method = 'GET';
         ContentType = 'text/plain';
-        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36';
+        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36';
     }
 
     $Path = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($Path)
@@ -366,6 +366,15 @@ Function Get-UnprotectedCybersecurityLibrary() {
     $documents = New-Object System.Collections.Generic.List[pscustomobject]
 
     $page = Invoke-PageDownload -Url 'https://www.nsa.gov/what-we-do/cybersecurity'
+    
+    # startToken and endToken sometimes have spans and &nbsp; within in the expected token, and in different locations, so just bluntly remove all those potential issues from the page
+    # examples:
+    #   <li><a href="https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-bluekeep_20190604.pdf?ver=2019-06-04-123329-617"><span style="margin: 0px;">Advisory: Patch Remote Desktop Services On Legacy Versions of Windows&nbsp; (June 2019)</span></a></li> 
+    #   <li><span style="margin: 0px;"><a href="https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csa-upgrade-solaris11-4.pdf?ver=2019-03-14-093217-840">Advisory: Update Earlier Versions of Solaris to 11.4 (March 2019)</a></span></li>
+    #   <li><span style="margin: 0px;"><a href="https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/CSA_Updated_Guidance_For_Vulnerabilities_Affecting_Modern_Processors_20190130.pdf?ver=2019-01-30-142631-553">Advisory: Updated Guidance For Vulnerabilities Affecting Modern Processors&nbsp;(January 2019)</a></span></li>
+    $page = $page.Replace('&nbsp;',' ')
+    $page = $page.Replace('<span style="margin: 0px;">','')
+    $page = $page.Replace('</span>','')
 
     # V1: <a href="/what-we-do/cybersecurity/assets/files/professional-resources/csa-drupal-remote-code-execution-vulnerability-cve.pdf?v=1">Advisory: Drupal Unauthenticated Remote Code Execution Vulnerability (April 2018)</a>
     # V2: <a href="/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-advantages-over-legacy-mode.pdf?v=1">Info Sheet: UEFI Advantages Over Legacy Mode (March 2018)</a>
