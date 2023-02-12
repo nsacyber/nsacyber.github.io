@@ -2,7 +2,7 @@
 
 This page lists NSA Cybersecurity publications.
 
-* Current NSA Cybersecurity publications can be found under the **Resources for Cybersecurity Professionals** section at <https://www.nsa.gov/what-we-do/cybersecurity/>
+* Current NSA Cybersecurity publications can be found under the **Resources for Cybersecurity Professionals** section at <https://www.nsa.gov/cybersecurity/>
 * Archived NSA Information Assurance and Information Assurance Directorate publications can be found at <https://apps.nsa.gov/iaarchive/library> (formerly  <https://www.iad.gov>)
 
 A zip file containing publications from both pages can be downloaded from <https://github.com/nsacyber/nsacyber.github.io/releases/latest>
@@ -414,7 +414,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### A Guide to Border Gateway Protocol (BGP) Best Practices
 
-* Abstract: The dominant routing protocol on the Internet is the Border Gateway Protocol (BGP). BGP has been deployed since the commercialization of the Internet and version 4 of BGP is over a decade old. BGP works well in practice, and its simplicity and resilience enabled it to play a fundamental role within the global Internet. However, BGP inherently provides few performance or security protections.With BGP being the primary protocol driving the Internet, the security of devices dedicated to running the protocol is vital. Unfortunately, there are many vulnerabilities that can be exploited if proper mitigations are not configured. This error seems to be far more common than it should. For that reason this guidance paper is provided.
+* Abstract: The dominant routing protocol on the Internet is the Border Gateway Protocol (BGP). BGP has been deployed since the commercialization of the Internet and version 4 of BGP is over a decade old. BGP works well in practice, and its simplicity and resilience enabled it to play a fundamental role within the global Internet. However, BGP inherently provides few performance or security protections.
+With BGP being the primary protocol driving the Internet, the security of devices dedicated to running the protocol is vital. Unfortunately, there are many vulnerabilities that can be exploited if proper mitigations are not configured. This error seems to be far more common than it should. For that reason this guidance paper is provided.
 * Date: 09/17/2018
 * Link: <https://apps.nsa.gov/iaarchive/library/reports/a-guide-to-border-gateway-protocol-bgp-best-practices.cfm>
 * Category: Reports
@@ -713,7 +714,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### UNFETTER
 
-* Abstract: Unfetter is bringing Net Defenders and Threat Analysts together for the first time. Net Defenders need the ability to make operational decisions based on complex threat data published by Threat Analysts. A unique platform that unifies the Net Defender and Threat Analyst communities, Unfetter breaks down barriers through seamless data sharing across the enterprise.By enabling the real-time exchange of threat data and analytics based on the MITRE ATT&CKTM Framework, Unfetter allows organizations to evaluate and implement defensive measures based on effectiveness and value.
+* Abstract: Unfetter is bringing Net Defenders and Threat Analysts together for the first time. Net Defenders need the ability to make operational decisions based on complex threat data published by Threat Analysts. A unique platform that unifies the Net Defender and Threat Analyst communities, Unfetter breaks down barriers through seamless data sharing across the enterprise.
+By enabling the real-time exchange of threat data and analytics based on the MITRE ATT&CKTM Framework, Unfetter allows organizations to evaluate and implement defensive measures based on effectiveness and value.
 * Date: 03/29/2018
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/unfetter.cfm>
 * Category: IA Guidance > Security Tips
@@ -1337,7 +1339,9 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Mitigations for WannaCrypt-WannaCry Ransomware
 
-* Abstract: Guidance in Information Assurance Advisory No. IAA U/OO/800900-17, "March 2017 Patch Tuesday" recommended the immediate application of Microsoft's March 2017 Patch Tuesday release on all supported platforms. The release patched several zero-day vulnerabilities.In response to widespread ransomware attacks against unpatched or unsupported platforms, Microsoft has also released the same security updates for specific unsupported Windows platforms. Its immediate installation is critical for Department of Defense networks and other National Security Systems.Microsoft and Windows are trademarks or registered trademarks of Microsoft Corp.
+* Abstract: Guidance in Information Assurance Advisory No. IAA U/OO/800900-17, "March 2017 Patch Tuesday" recommended the immediate application of Microsoft's March 2017 Patch Tuesday release on all supported platforms. The release patched several zero-day vulnerabilities.
+In response to widespread ransomware attacks against unpatched or unsupported platforms, Microsoft has also released the same security updates for specific unsupported Windows platforms. Its immediate installation is critical for Department of Defense networks and other National Security Systems.
+Microsoft and Windows are trademarks or registered trademarks of Microsoft Corp.
 * Date: 05/16/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/mitigations-for-wannacrypt-wannacry-ransomware.cfm>
 * Category: IA Advisories
@@ -1389,7 +1393,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Apply Kernel Protection on Windows 7 and Windows 7 SP1 - Updated
 
-* Abstract: User mode and Kernel mode software may inadvertently or purposely access the NULL (0x00000000) memory page. This memory location has been leveraged in attacks to successfully exploit a system. Microsoft developed and released the KB28131702 patch (MS13-031) for 64-bit and 32-bit versions of Windows 7 and Windows 7 SP1 to mitigate this exploitation vector. The NULL page protection is part of Windows beginning with Windows 8 and onwards. IAVA 2013-A-0080 (KB2813170) was superseded by IAVA 2015-A-0009 and IAVA 2015-A-0033. However, those IAVAs do not address the requisite post-configuration registry value stated in the IAA document.NOTE: This document supersedes IAA-U-OO-800824-17.
+* Abstract: User mode and Kernel mode software may inadvertently or purposely access the NULL (0x00000000) memory page. This memory location has been leveraged in attacks to successfully exploit a system. Microsoft developed and released the KB28131702 patch (MS13-031) for 64-bit and 32-bit versions of Windows 7 and Windows 7 SP1 to mitigate this exploitation vector. The NULL page protection is part of Windows beginning with Windows 8 and onwards. IAVA 2013-A-0080 (KB2813170) was superseded by IAVA 2015-A-0009 and IAVA 2015-A-0033. However, those IAVAs do not address the requisite post-configuration registry value stated in the IAA document.
+NOTE: This document supersedes IAA-U-OO-800824-17.
 * Date: 04/26/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/apply-kernel-protection-windows7-windows7sp1-updated.cfm>
 * Category: IA Advisories
@@ -1467,7 +1472,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Commercial Solutions for Classified Tri-fold
 
-* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
+* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.
+The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/commercial-solutions-for-classified-trifold.cfm>
 * Category: IA Guidance > Security Tips
@@ -1480,7 +1486,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Commercial Solutions for Classified Brochure
 
-* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
+* Abstract: Given constantly evolving mission requirements and the rapid pace of technology advancement, protecting national security systems and deploying information assurance solutions requires an agile, scalable process. CSfC enables U.S. government customers to access the latest technologies in order to achieve their mission objectives.
+The CSfC process enables commercial products to be used in layered solutions to protect classified National Security Systems (NSS) information. This provides the ability to securely communicate based on commercial standards in a solution that can be fielded in months, not years.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/commercial-solutions-for-classified.cfm>
 * Category: IA Guidance > Security Tips
@@ -1493,7 +1500,10 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Reducing the Risk of Simple Network Management Protocol Abuse
 
-* Abstract: SNMP provides a standardized framework for a common language that is used for monitoring and managing devices in a network. This protocol relies on the usage of a secure string, referred to as a community string, which grants access to a portion of a device's management plane.There are several differences between SNMPv1, v2, and v3: SNMPv2 is nearly identical to SNMPv1, except 64-bit counters were added in order to support faster interfaces. SNMPv3 replaces the simple/clear text password sharing that was used in SNMPv2 with more securely encoded parameters. All versions run over user datagram protocol (UDP).SNMPv3 should be the only utilized version of SNMP because it has the ability to authenticate and encrypt payloads. When either SNMPv1 or SNMPv2 are utilized, the community string could be determined by an adversary by sniffing network traffic, which could then potentially lead to a man-in-the-middle and/or replay attack.Using SNMPv3 by itself is not enough to prevent abuse of the protocol. Combining SNMPv3 with a Management Information Base (MIB) whitelisting approach using SNMP views can ensure that even with exposed credentials, information cannot be read from or written to the device unless the information is needed for monitoring or normal device re-configuration. The majority of devices that support SNMP contain a generic set of MIBs that are vendor agnostic, which allows for the Object Identifier (OID) to be applied to devices regardless of manufacturer.
+* Abstract: SNMP provides a standardized framework for a common language that is used for monitoring and managing devices in a network. This protocol relies on the usage of a secure string, referred to as a community string, which grants access to a portion of a device's management plane.
+There are several differences between SNMPv1, v2, and v3: SNMPv2 is nearly identical to SNMPv1, except 64-bit counters were added in order to support faster interfaces. SNMPv3 replaces the simple/clear text password sharing that was used in SNMPv2 with more securely encoded parameters. All versions run over user datagram protocol (UDP).
+SNMPv3 should be the only utilized version of SNMP because it has the ability to authenticate and encrypt payloads. When either SNMPv1 or SNMPv2 are utilized, the community string could be determined by an adversary by sniffing network traffic, which could then potentially lead to a man-in-the-middle and/or replay attack.
+Using SNMPv3 by itself is not enough to prevent abuse of the protocol. Combining SNMPv3 with a Management Information Base (MIB) whitelisting approach using SNMP views can ensure that even with exposed credentials, information cannot be read from or written to the device unless the information is needed for monitoring or normal device re-configuration. The majority of devices that support SNMP contain a generic set of MIBs that are vendor agnostic, which allows for the Object Identifier (OID) to be applied to devices regardless of manufacturer.
 * Date: 01/31/2017
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-advisories-alerts/reducing-the-risk-of-snmp-abuse.cfm>
 * Category: IA Advisories
@@ -1961,7 +1971,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Bluetooth for Unclassified Use: Guidelines for Users
 
-* Abstract: Bluetooth is a short-range wireless technology found in many commercial devices used for computing, communication, and healthcare. Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreation and business.As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. This document provides background on Bluetooth functionality and includes recommendations for using Bluetooth securely to mitigate possible risks.
+* Abstract: Bluetooth is a short-range wireless technology found in many commercial devices used for computing, communication, and healthcare. Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreation and business.
+As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. This document provides background on Bluetooth functionality and includes recommendations for using Bluetooth securely to mitigate possible risks.
 * Date: 08/04/2016
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/bluetooth-for-unclassified-use_guidelines-for-users.cfm>
 * Category: IA Guidance > Technical Briefs
@@ -1974,7 +1985,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Bluetooth for Unclassified Use: Guidelines for Developers
 
-* Abstract: Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreational and business users. The proliferation of Bluetooth into a broad range of modern personal devices has generated a demand for software applications that enable users to interact with it.As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. The design of any software involved in transferring data via Bluetooth should include measures to protect the user's device and data. This document provides background on Bluetooth functionality and recommendations for developing secure Bluetooth applications.
+* Abstract: Bluetooth offers the convenience of low-power wireless device-to-device communication, opening the door for diverse and exciting use cases for recreational and business users. The proliferation of Bluetooth into a broad range of modern personal devices has generated a demand for software applications that enable users to interact with it.
+As with other technologies, threats exist today that endanger the integrity, confidentiality, and availability of the information transferred to and from devices using Bluetooth. The design of any software involved in transferring data via Bluetooth should include measures to protect the user's device and data. This document provides background on Bluetooth functionality and recommendations for developing secure Bluetooth applications.
 * Date: 08/04/2016
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/bluetooth-for-unclassified-use_guidelines-for-developers.cfm>
 * Category: IA Guidance > Technical Briefs
@@ -2650,7 +2662,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Recommendations for Configuring Adobe Acrobat Reader XI in a Windows Environment
 
-* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
+* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.
+Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
 * Date: 09/15/2015
 * Link: <https://apps.nsa.gov/iaarchive/library/reports/recommendations-for-configuring-adobe-acrobat-reader-xi-in-a.cfm>
 * Category: Reports
@@ -3365,7 +3378,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Recommendations for Configuring Adobe Acrobat Reader XI in a Windows Environment
 
-* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
+* Abstract: This document includes information for using Adobe's Customization Wizard (CW) or Microsoft's PowerShell to configure the necessary settings for uniform distribution of the software throughout an enterprise or on a standalone system.
+Appendix A lists all of the ARXI security-related settings with recommendations for the environments that should configure those settings.
 * Date: 07/12/2013
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/recommendations-for-configuring-adobe-acrobat-reader-xi-in-a.cfm>
 * Category: IA Guidance > Security Configuration > Applications
@@ -3807,7 +3821,8 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Guide to the Secure Configuration of Red Hat Enterprise Linux 5
 
-* Abstract: The purpose of this guide is to provide security configuration recommendations for the Red Hat Enterprise Linux (RHEL) 5 operating system. The guidance provided here should be applicable to all variants (Desktop, Server, Advanced Platform) of the product. Recommended settings for the basic operating system are provided, as well as for many commonly-used services that the system can host in a network environment.The guide is intended for system administrators. Readers are assumed to possess basic system administration skills for Unix-like systems, as well as some familiarity with Red Hat's documentation and administration conventions. Some instructions within this guide are complex. All directions should be followed completely and with understanding of their effects in order to avoid serious adverse effects on the system and its security.
+* Abstract: The purpose of this guide is to provide security configuration recommendations for the Red Hat Enterprise Linux (RHEL) 5 operating system. The guidance provided here should be applicable to all variants (Desktop, Server, Advanced Platform) of the product. Recommended settings for the basic operating system are provided, as well as for many commonly-used services that the system can host in a network environment.
+The guide is intended for system administrators. Readers are assumed to possess basic system administration skills for Unix-like systems, as well as some familiarity with Red Hat's documentation and administration conventions. Some instructions within this guide are complex. All directions should be followed completely and with understanding of their effects in order to avoid serious adverse effects on the system and its security.
 * Date: 08/26/2011
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/guide-to-the-secure-configuration-of-red-hat-enterprise.cfm>
 * Category: IA Guidance > Security Configuration > Operating Systems
@@ -4080,7 +4095,9 @@ Return to the [Table of Contents](#table-of-contents).
 
 ### Suite B Implementer's Guide to Federal Information Processing Standard 186-3
 
-* Abstract: This document specifies the Elliptic Curve Digital Signature Algorithm (ECDSA) from the "Digital Signature Standard" [FIPS186-3] that will be used in future and existing cryptographic protocols for Suite B products. It also includes the Suite B elliptic curve domain parameters, (NIST curves P-256 and P-384), along with example data for the ECDSA signature algorithm on these curves and auxiliary functions that are necessary for ECDSA implementations to be in compliance with [FIPS186-3] and Suite B.[FIPS186-3] defines methods for digital signature generation that can be used for the authentication of binary data (commonly called a message), and for the verification and validation of those digital signatures. One of the approved techniques is the Elliptic Curve Digital Signature Algorithm (ECDSA) but additional requirements are specified.This document includes requirements for obtaining the assurances necessary for valid digital signatures. Methods for obtaining these assurances are provided in the NIST Special Publication [SP800-89].
+* Abstract: This document specifies the Elliptic Curve Digital Signature Algorithm (ECDSA) from the "Digital Signature Standard" [FIPS186-3] that will be used in future and existing cryptographic protocols for Suite B products. It also includes the Suite B elliptic curve domain parameters, (NIST curves P-256 and P-384), along with example data for the ECDSA signature algorithm on these curves and auxiliary functions that are necessary for ECDSA implementations to be in compliance with [FIPS186-3] and Suite B.
+[FIPS186-3] defines methods for digital signature generation that can be used for the authentication of binary data (commonly called a message), and for the verification and validation of those digital signatures. One of the approved techniques is the Elliptic Curve Digital Signature Algorithm (ECDSA) but additional requirements are specified.
+This document includes requirements for obtaining the assurances necessary for valid digital signatures. Methods for obtaining these assurances are provided in the NIST Special Publication [SP800-89].
 * Date: 02/03/2010
 * Link: <https://apps.nsa.gov/iaarchive/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/suite-b-implementers-guide-to-fips-186-3-ecdsa.cfm>
 * Category: IA Guidance > IA Solutions For Classified > Algorithm Guidance
