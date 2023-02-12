@@ -1,6 +1,6 @@
 # nsacyber.github.io
 
-This repository contains <https://nsacyber.github.io> which provides information about open source software and publications released by the [Cybersecurity mission at NSA](https://www.nsa.gov/what-we-do/cybersecurity/).
+This repository contains <https://nsacyber.github.io> which provides information about open source software and publications released by the [Cybersecurity mission at NSA](https://www.nsa.gov/Cybersecurity/).
 
 ## License
 See [LICENSE](./LICENSE.md) and [INTENT](./INTENT.md) (see <https://code.mil> for more information).
