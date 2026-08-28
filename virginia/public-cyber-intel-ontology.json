@@ -1,0 +1,126 @@
+{
+  "id": "ZYRA-VIRGINIA-PUBLIC-CYBER-INTEL-ONTOLOGY",
+  "version": "1.0.0",
+  "command": "/glass virginia intel",
+  "sourceBoundary": {
+    "xuniaRepository": "sonoxo/nsacyber.github.ioZYRA",
+    "authoritativeUpstream": "nsacyber/nsacyber.github.io",
+    "sourceClass": "PUBLIC_OPEN_SOURCE",
+    "classificationClaim": "UNCLASSIFIED_PUBLIC_ONLY",
+    "agencyAffiliationClaim": false,
+    "governmentEndorsementClaim": false
+  },
+  "objectTypes": [
+    "PUBLIC_SOURCE",
+    "PUBLICATION",
+    "SOFTWARE_PROJECT",
+    "ADVISORY",
+    "VULNERABILITY_CLASS",
+    "MITIGATION",
+    "SECURITY_CONTROL",
+    "ASSET_CLASS",
+    "EVIDENCE",
+    "ASSESSMENT",
+    "POLICY_DECISION",
+    "AUDIT_EVENT"
+  ],
+  "linkTypes": [
+    "PUBLISHED_BY",
+    "DESCRIBES",
+    "AFFECTS",
+    "MITIGATED_BY",
+    "MAPS_TO_CONTROL",
+    "SUPPORTED_BY",
+    "ASSESSED_AS",
+    "GOVERNED_BY",
+    "RECORDED_AS",
+    "DERIVED_FROM"
+  ],
+  "pipeline": [
+    {
+      "order": 1,
+      "action": "INGEST_PUBLIC_SOURCE",
+      "component": "ZYRA_SOURCE_ADAPTER"
+    },
+    {
+      "order": 2,
+      "action": "VERIFY_PROVENANCE",
+      "component": "XUNIA_EVIDENCE"
+    },
+    {
+      "order": 3,
+      "action": "CLASSIFY_PUBLIC_CONTENT",
+      "component": "VIRGINIA_POLICY"
+    },
+    {
+      "order": 4,
+      "action": "EXTRACT_DEFENSIVE_GUIDANCE",
+      "component": "ZYRA_INTELLIGENCE"
+    },
+    {
+      "order": 5,
+      "action": "MAP_SECURITY_CONTROLS",
+      "component": "VIRGINIA_POLICY"
+    },
+    {
+      "order": 6,
+      "action": "ASSESS_CONFIDENCE",
+      "component": "XUNIA_EVIDENCE"
+    },
+    {
+      "order": 7,
+      "action": "REQUIRE_HUMAN_REVIEW",
+      "component": "VIRGINIA_POLICY"
+    },
+    {
+      "order": 8,
+      "action": "PUBLISH_SECRET_FREE_AUDIT",
+      "component": "ZYRA_AUDIT"
+    }
+  ],
+  "decisions": ["ALLOW", "REVIEW", "BLOCK"],
+  "actionPolicy": {
+    "allow": [
+      "READ_PUBLIC_SOURCE",
+      "INDEX_PUBLIC_METADATA",
+      "SUMMARIZE_DEFENSIVE_GUIDANCE",
+      "MAP_SECURITY_CONTROL",
+      "COMPARE_PUBLIC_GUIDANCE",
+      "SIMULATE_DEFENSIVE_POLICY",
+      "EXPORT_SECRET_FREE_REPORT"
+    ],
+    "review": [
+      "PUBLISH_EXTERNAL_CLAIM",
+      "CHANGE_REPOSITORY",
+      "DEPLOY_SECURITY_CONTROL",
+      "AUTOMATE_REMEDIATION"
+    ],
+    "block": [
+      "CLAIM_CLASSIFIED_ACCESS",
+      "CLAIM_AGENCY_AUTHORITY",
+      "INGEST_NONPUBLIC_MATERIAL",
+      "STORE_CREDENTIAL",
+      "EXECUTE_EXPLOIT",
+      "DEPLOY_MALWARE",
+      "TARGET_REAL_SYSTEM",
+      "BYPASS_ACCESS_CONTROL",
+      "AUTOMATE_OFFENSIVE_ACTION"
+    ]
+  },
+  "controls": {
+    "publicSourcesOnly": true,
+    "provenanceRequired": true,
+    "sourceTimestampRequired": true,
+    "confidenceRequired": true,
+    "humanReviewForExternalClaims": true,
+    "humanReviewForDeployment": true,
+    "credentialsInEvidence": false,
+    "classifiedAccessClaim": false,
+    "agencyAuthorityClaim": false,
+    "offensiveExecution": false,
+    "realWorldTargeting": false,
+    "automaticRemediation": false,
+    "preserveUpstreamOwnership": true,
+    "preserveOriginalDisclaimer": true
+  }
+}

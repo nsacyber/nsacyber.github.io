@@ -10,3 +10,12 @@ See [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## Disclaimer
 See [DISCLAIMER](./DISCLAIMER.md).
+
+## ZYRA / VIRGINIA public intelligence ontology
+
+Command: **`/glass virginia intel`**
+
+This XUNIA-maintained repository adds a [VIRGINIA public defensive-cyber ontology](virginia/README.md) for provenance verification, defensive guidance extraction, security-control mapping, confidence assessment, human review, and secret-free audit evidence.
+
+The extension uses public open-source material only. It does not claim NSA affiliation, government endorsement, classified access, or operational authority. The original license, intent, and disclaimer remain controlling.
+

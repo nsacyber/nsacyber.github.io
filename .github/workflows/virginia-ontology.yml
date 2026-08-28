@@ -1,0 +1,36 @@
+name: VIRGINIA Public Intel Ontology
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "virginia/**"
+      - "scripts/validate_virginia_ontology.py"
+      - ".github/workflows/virginia-ontology.yml"
+      - "README.md"
+  pull_request:
+    paths:
+      - "virginia/**"
+      - "scripts/validate_virginia_ontology.py"
+      - ".github/workflows/virginia-ontology.yml"
+      - "README.md"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate VIRGINIA public cyber intelligence ontology
+        run: python3 scripts/validate_virginia_ontology.py
+      - name: Verify source notices remain present
+        run: |
+          test -f LICENSE.md
+          test -f INTENT.md
+          test -f DISCLAIMER.md
